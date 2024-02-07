@@ -998,3 +998,267 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.07-18.48.46:026][927]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.07-18.48.46:026][927]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
 [2024.02.07-18.48.46:026][927]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.07-18.57.33:463][644]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.07-18.57.35:127][827]BlueprintLog: New page: Compile BP_Player
+[2024.02.07-18.57.35:204][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2024.02.07-18.57.36:006][888]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Player0F839C1444CD403A905C18900079737E.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Player.uasset'
+[2024.02.07-18.57.36:025][888]AssetCheck: New page: Asset Save: BP_Player
+[2024.02.07-18.57.36:025][888]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.07-18.57.39:599][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2024.02.07-18.57.39:727][113]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01907BE45F4342ED80F00F9D91E545C726.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.07-18.57.39:745][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.07-18.57.39:756][113]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData0FA5E5904E369DF749B3F58F632DD796.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.07-18.57.39:775][113]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.07-18.57.39:775][113]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.07-18.57.39:775][113]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.07-18.58.30:753][929]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player)
+[2024.02.07-18.58.33:032][ 94]Cmd: DELETE
+[2024.02.07-18.58.33:032][ 94]Cmd: ACTOR DELETE
+[2024.02.07-18.58.33:097][ 94]LogEditorActor: Deleted Actor: BP_Player_C
+[2024.02.07-18.58.33:134][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.02.07-18.58.33:137][ 94]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2024.02.07-18.58.34:233][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Player_Closed)
+[2024.02.07-18.58.35:822][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Player_Open2)
+[2024.02.07-18.58.36:962][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (player_closed)
+[2024.02.07-18.58.38:106][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLAYER_SM)
+[2024.02.07-18.58.40:645][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Player_Open)
+[2024.02.07-18.58.42:668][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Enemy_Down)
+[2024.02.07-18.58.46:615][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Enemy_Vulnerable)
+[2024.02.07-18.58.53:160][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.07-18.58.53:281][233]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01663F523C4AD133B4384E5F87BC52F4FA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.07-18.58.53:297][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.07-18.58.53:308][233]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltDataF5D17AA04C98D5DF57F2C0B9996917C6.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.07-18.58.53:325][233]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.07-18.58.53:325][233]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.07-18.58.53:325][233]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.07-18.58.54:224][314]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.07-18.58.54:229][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-18.58.54:230][314]PIE: New page: PIE session: Level_01 (Feb 7, 2024, 6:58:54 AM)
+[2024.02.07-18.58.54:230][314]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.07-18.58.54:265][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035702s)
+[2024.02.07-18.58.54:266][314]LogAIModule: Creating AISystem for world Level_01
+[2024.02.07-18.58.54:267][314]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2024.02.07-18.58.54:267][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.036983s)
+[2024.02.07-18.58.54:292][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.02.07-18.58.54:294][314]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.07-18.58.54:294][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-18.58.54:294][314]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.07-18.58.54:294][314]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.07-18.58.54:298][314]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.07-18.58.54:298][314]LogAudioMixer: Display: 1: FrontRight
+[2024.02.07-18.58.54:313][314]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.07-18.58.54:313][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-18.58.54:313][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-18.58.54:313][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-18.58.54:314][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.07-18.58.54:314][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.07-18.58.54:314][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.07-18.58.54:335][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.07-18.58.54:335][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.07-18.58.54:335][314]LogInit: FAudioDevice initialized.
+[2024.02.07-18.58.54:336][314]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_01'.
+[2024.02.07-18.58.54:388][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-18.58.54:388][314]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.07-18.58.54:399][314]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.07-12.58.54
+[2024.02.07-18.58.54:400][314]LogWorld: Bringing up level for play took: 0.010850
+[2024.02.07-18.58.54:400][314]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2024.02.07-18.58.54:407][314]PIE: Server logged in
+[2024.02.07-18.58.54:409][314]PIE: Play in editor total start time 0.18 seconds.
+[2024.02.07-18.59.08:018][896]Set new viewmode: Wireframe
+[2024.02.07-18.59.08:560][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-18.59.08:561][956]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.07-18.59.08:561][956]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.07-18.59.08:570][956]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-18.59.08:572][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-18.59.08:584][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-18.59.08:606][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-18.59.08:631][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-18.59.08:632][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.07-18.59.08:633][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.07-18.59.08:661][956]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.02.07-18.59.08:697][957]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.02.07-18.59.11:075][168]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.07-18.59.11:081][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-18.59.11:081][168]PIE: New page: PIE session: Level_01 (Feb 7, 2024, 6:59:11 AM)
+[2024.02.07-18.59.11:081][168]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.07-18.59.11:117][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035586s)
+[2024.02.07-18.59.11:117][168]LogAIModule: Creating AISystem for world Level_01
+[2024.02.07-18.59.11:118][168]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2024.02.07-18.59.11:118][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.036873s)
+[2024.02.07-18.59.11:143][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.02.07-18.59.11:145][168]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.07-18.59.11:145][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-18.59.11:145][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-18.59.11:145][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-18.59.11:145][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-18.59.11:145][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.07-18.59.11:145][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-18.59.11:145][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.07-18.59.11:145][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-18.59.11:146][168]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.07-18.59.11:146][168]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.07-18.59.11:149][168]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.07-18.59.11:149][168]LogAudioMixer: Display: 1: FrontRight
+[2024.02.07-18.59.11:163][168]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.07-18.59.11:163][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-18.59.11:164][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-18.59.11:164][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-18.59.11:164][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.07-18.59.11:164][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.07-18.59.11:164][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.07-18.59.11:183][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.07-18.59.11:183][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.07-18.59.11:183][168]LogInit: FAudioDevice initialized.
+[2024.02.07-18.59.11:183][168]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_01'.
+[2024.02.07-18.59.11:234][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-18.59.11:234][168]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.07-18.59.11:243][168]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.07-12.59.11
+[2024.02.07-18.59.11:244][168]LogWorld: Bringing up level for play took: 0.008865
+[2024.02.07-18.59.11:244][168]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2024.02.07-18.59.11:251][168]PIE: Server logged in
+[2024.02.07-18.59.11:253][168]PIE: Play in editor total start time 0.172 seconds.
+[2024.02.07-18.59.24:450][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-18.59.24:450][693]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.07-18.59.24:451][693]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.07-18.59.24:457][693]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-18.59.24:460][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-18.59.24:476][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-18.59.24:497][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-18.59.24:522][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.07-18.59.24:523][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.07-18.59.24:554][693]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2024.02.07-18.59.24:603][694]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.02.07-18.59.26:012][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.02.07-18.59.26:130][814]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_011E4B2283420614FD0327B99ED63E2051.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.07-18.59.26:145][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.07-18.59.26:157][814]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData74B5EC564EC70180FE5AA59474225B59.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.07-18.59.26:173][814]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.07-18.59.26:173][814]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.07-18.59.26:174][814]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.07-19.00.36:790][472]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.02.07-19.01.19:101][472]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.07-19.01.19:109][472]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.07-19.01.19:123][472]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.07-19.01.27:965][133]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DeathCameraShake
+[2024.02.07-19.01.27:969][133]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.07-19.01.30:586][333]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Misc/BP_DeathCameraShake.BP_DeathCameraShake
+[2024.02.07-19.01.33:810][546]LogSlate: Window 'BP_DeathCameraShake' being destroyed
+[2024.02.07-19.01.35:340][720]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-19.01.35:341][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-19.01.35:954][786]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.07-19.01.35:954][786]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-19.01.35:954][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-19.02.24:083][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2024.02.07-19.02.25:466][524]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.07-19.02.25:497][524]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-19.02.25:497][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-19.02.25:532][524]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ArcadeClassic/Blueprints/Misc/BP_DeathCameraShake.BP_DeathCameraShake
+[2024.02.07-19.02.27:027][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.02.07-19.02.35:574][421]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.02.07-19.02.59:823][421]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.07-19.02.59:830][421]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.07-19.02.59:841][421]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.07-19.03.07:365][979]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DeathCamShake
+[2024.02.07-19.03.07:369][979]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.07-19.03.09:470][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Misc/BP_DeathCamShake.BP_DeathCamShake
+[2024.02.07-19.03.26:804][776]LogSlate: Window 'BP_DeathCamShake' being destroyed
+[2024.02.07-19.03.26:810][776]LogSlate: Window 'BP_DeathCamShake' being destroyed
+[2024.02.07-19.03.26:812][776]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-19.03.26:812][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-19.03.31:761][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.07-19.03.32:952][264]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.07-19.03.33:003][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.02.07-19.03.35:242][466]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.02.07-19.03.43:502][466]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.07-19.03.43:509][466]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.07-19.03.43:522][466]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.07-19.03.50:446][999]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DeathCamShake
+[2024.02.07-19.03.50:450][999]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.07-19.03.52:838][185]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Misc/BP_DeathCamShake.BP_DeathCamShake
+[2024.02.07-19.03.55:290][382]LogSlate: Window 'BP_DeathCamShake' being destroyed
+[2024.02.07-19.05.58:441][ 51]BlueprintLog: New page: Compile BP_DeathCamShake
+[2024.02.07-19.05.58:463][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.07-19.05.59:089][121]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_DeathCamShakeF5E1AA014C305E7BF67ED99BF0E6FE72.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Misc/BP_DeathCamShake.uasset'
+[2024.02.07-19.05.59:116][121]AssetCheck: New page: Asset Save: BP_DeathCamShake
+[2024.02.07-19.05.59:116][121]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Misc/BP_DeathCamShake.BP_DeathCamShake
+[2024.02.07-19.06.03:539][497]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.07-19.06.16:671][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.07-19.06.37:440][802]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.07-19.07.18:444][462]BlueprintLog: New page: Compile BP_Player
+[2024.02.07-19.07.18:523][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.02.07-19.07.19:113][505]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Player1BDFED894D58664CBC4C0F9A7E96D447.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Player.uasset'
+[2024.02.07-19.07.19:129][505]AssetCheck: New page: Asset Save: BP_Player
+[2024.02.07-19.07.19:129][505]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.07-19.08.45:169][960]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.07-19.08.46:310][ 86]BlueprintLog: New page: Compile BP_Player
+[2024.02.07-19.08.46:382][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.02.07-19.08.46:958][125]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Player872081324DD62483C390E5B614F973E8.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Player.uasset'
+[2024.02.07-19.08.46:973][125]AssetCheck: New page: Asset Save: BP_Player
+[2024.02.07-19.08.46:973][125]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.07-19.08.48:196][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.07-19.08.48:201][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.07-19.08.48:202][251]PIE: New page: PIE session: Level_01 (Feb 7, 2024, 7:08:48 AM)
+[2024.02.07-19.08.48:202][251]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.07-19.08.48:238][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036099s)
+[2024.02.07-19.08.48:239][251]LogAIModule: Creating AISystem for world Level_01
+[2024.02.07-19.08.48:239][251]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2024.02.07-19.08.48:239][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.037604s)
+[2024.02.07-19.08.48:266][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.02.07-19.08.48:267][251]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.07-19.08.48:267][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.07-19.08.48:267][251]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.07-19.08.48:267][251]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.07-19.08.48:271][251]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.07-19.08.48:271][251]LogAudioMixer: Display: 1: FrontRight
+[2024.02.07-19.08.48:286][251]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.07-19.08.48:286][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.07-19.08.48:286][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.07-19.08.48:286][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.07-19.08.48:286][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.07-19.08.48:287][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.07-19.08.48:287][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.07-19.08.48:308][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.07-19.08.48:308][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.07-19.08.48:308][251]LogInit: FAudioDevice initialized.
+[2024.02.07-19.08.48:308][251]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level_01'.
+[2024.02.07-19.08.48:354][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-19.08.48:354][251]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.07-19.08.48:361][251]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.07-13.08.48
+[2024.02.07-19.08.48:362][251]LogWorld: Bringing up level for play took: 0.007180
+[2024.02.07-19.08.48:362][251]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2024.02.07-19.08.48:372][251]PIE: Server logged in
+[2024.02.07-19.08.48:376][251]PIE: Play in editor total start time 0.176 seconds.
+[2024.02.07-19.09.00:669][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.07-19.09.00:669][631]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.07-19.09.00:670][631]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.07-19.09.00:677][631]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-19.09.00:679][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-19.09.00:688][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.07-19.09.00:708][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-19.09.00:732][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.07-19.09.00:733][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.07-19.09.00:734][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.07-19.09.00:761][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.02.07-19.09.00:782][632]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.07-19.09.03:163][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.07-19.09.03:292][869]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_010D114DDD4BB431697909929A2320C0B2.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.07-19.09.03:308][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.07-19.09.03:320][869]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltDataA99A68C549547FD7D95CBDBF56F02582.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.07-19.09.03:336][869]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.07-19.09.03:336][869]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.07-19.09.03:336][869]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
