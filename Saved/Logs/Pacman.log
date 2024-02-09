@@ -1306,3 +1306,152 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.09-01.23.00:364][652]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.09-01.23.00:364][652]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent
 [2024.02.09-01.23.00:364][652]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.09-01.36.14:623][ 73]BlueprintLog: New page: Compile BP_Enemy_Parent
+[2024.02.09-01.36.14:679][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2024.02.09-01.36.15:461][150]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Enemy_Parent9077570F4EFAB5CE05396290D125AEE3.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.uasset'
+[2024.02.09-01.36.15:478][150]AssetCheck: New page: Asset Save: BP_Enemy_Parent
+[2024.02.09-01.36.15:478][150]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent
+[2024.02.09-01.38.23:649][  0]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.09-01.39.23:240][ 76]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2024.02.09-01.39.23:282][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2024.02.09-01.39.23:407][ 76]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_Auto5CEF447F947FE032DB4965CAC8B1C7FCE.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Levels/Level_01_Auto5.umap'
+[2024.02.09-01.39.23:409][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_01' took 0.159
+[2024.02.09-01.39.23:409][ 76]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.159
+[2024.02.09-01.39.23:410][ 76]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent] ([1] browsable assets)...
+[2024.02.09-01.39.23:425][ 76]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent]
+[2024.02.09-01.39.23:425][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent]
+[2024.02.09-01.39.23:468][ 76]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Enemy_Parent_Auto59C739F2548C3CA6C69ECD7A8CD550A2D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent_Auto5.uasset'
+[2024.02.09-01.39.23:469][ 76]LogFileHelpers: Auto-saving content packages took 0.060
+[2024.02.09-01.39.36:035][124]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.09-01.41.21:762][815]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.09-01.41.28:467][ 24]BlueprintLog: New page: Compile BP_Enemy_Parent
+[2024.02.09-01.41.28:532][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2024.02.09-01.41.29:113][ 71]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Enemy_Parent812BECD04146DD751B76208D239DD827.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.uasset'
+[2024.02.09-01.41.29:131][ 71]AssetCheck: New page: Asset Save: BP_Enemy_Parent
+[2024.02.09-01.41.29:131][ 71]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent
+[2024.02.09-01.42.38:675][931]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.09-01.42.41:502][257]BlueprintLog: New page: Compile BP_Enemy_Parent
+[2024.02.09-01.42.41:564][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2024.02.09-01.42.42:105][297]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Enemy_Parent78EBB7D24DD056EBE22B319AD272048E.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.uasset'
+[2024.02.09-01.42.42:122][297]AssetCheck: New page: Asset Save: BP_Enemy_Parent
+[2024.02.09-01.42.42:122][297]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent
+[2024.02.09-01.42.43:084][396]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.09-01.42.43:090][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-01.42.43:090][396]PIE: New page: PIE session: Level_01 (Feb 8, 2024, 1:42:43 PM)
+[2024.02.09-01.42.43:090][396]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.09-01.42.43:127][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037172s)
+[2024.02.09-01.42.43:128][396]LogAIModule: Creating AISystem for world Level_01
+[2024.02.09-01.42.43:128][396]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2024.02.09-01.42.43:128][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.038454s)
+[2024.02.09-01.42.43:161][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2024.02.09-01.42.43:161][396]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.02.09-01.42.43:161][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-01.42.43:161][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-01.42.43:161][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-01.42.43:161][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-01.42.43:161][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.09-01.42.43:161][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.09-01.42.43:161][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.09-01.42.43:161][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-01.42.43:162][396]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.09-01.42.43:162][396]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.09-01.42.43:167][396]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.42.43:167][396]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.42.43:181][396]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.09-01.42.43:181][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-01.42.43:181][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-01.42.43:181][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-01.42.43:182][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.09-01.42.43:182][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.09-01.42.43:182][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.09-01.42.43:203][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.09-01.42.43:203][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.09-01.42.43:203][396]LogInit: FAudioDevice initialized.
+[2024.02.09-01.42.43:203][396]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_01'.
+[2024.02.09-01.42.43:259][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-01.42.43:260][396]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.09-01.42.43:268][396]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.08-19.42.43
+[2024.02.09-01.42.43:268][396]LogWorld: Bringing up level for play took: 0.007857
+[2024.02.09-01.42.43:269][396]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2024.02.09-01.42.43:276][396]PIE: Server logged in
+[2024.02.09-01.42.43:278][396]PIE: Play in editor total start time 0.19 seconds.
+[2024.02.09-01.42.59:335][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-01.42.59:335][ 50]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.09-01.42.59:336][ 50]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.09-01.42.59:347][ 50]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-01.42.59:349][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-01.42.59:360][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-01.42.59:373][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-01.42.59:400][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.09-01.42.59:402][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.09-01.42.59:428][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.02.09-01.42.59:459][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.09-01.43.02:434][380]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Enemy_Parent4E5A222F4FEF9A42BAF0F9B4FC3A8A37.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.uasset'
+[2024.02.09-01.43.02:451][380]AssetCheck: New page: Asset Save: BP_Enemy_Parent
+[2024.02.09-01.43.02:451][380]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent
+[2024.02.09-01.43.03:873][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.02.09-01.43.03:996][533]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01585063754DA0D9ECAE4751BB43C4CB2E.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.09-01.43.04:012][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.09-01.43.04:023][533]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltDataE441493C48B96B3A7CF697A01ADC7A94.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.09-01.43.04:039][533]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.09-01.43.04:039][533]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.09-01.43.04:039][533]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.09-01.43.21:741][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.02.09-01.43.21:865][486]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01ECBDAE504885B13A79D2DFAACBB572E9.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.09-01.43.21:883][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.09-01.43.21:894][486]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData67F2DDB644233413821BC89EB478B75F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.09-01.43.21:910][486]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.09-01.43.21:910][486]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.09-01.43.21:910][486]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.09-01.48.46:222][568]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-01.48.46:251][568]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.48.46:252][568]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.48.48:893][576]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-01.49.55:039][576]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.49.55:039][576]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.49.55:469][577]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-01.49.55:521][577]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.49.55:521][577]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.49.59:811][591]LogHttp: Warning: 0000018B4A5A3200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F816AD5-4E59-ADC9-380B-4EB4A6BF4364%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=0713b2ad4ae534a902292d938398ed0d%7Cb9d6f9ead1974672bd702e5ebb223e2c%7Ce6deb551-3b55-42e1-bcd9-a17b5e534561&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: request failed, libcurl error: 0 (No error)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x18aec90d600 [can pipeline])
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.224.183.190) port 443 (#1))
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 7 (Closing connection 1)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: 0000018B4A5A3200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2024.02.09-01.49.59:812][591]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F816AD5-4E59-ADC9-380B-4EB4A6BF4364%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=0713b2ad4ae534a902292d938398ed0d%7Cb9d6f9ead1974672bd702e5ebb223e2c%7Ce6deb551-3b55-42e1-bcd9-a17b5e534561&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.09-01.50.12:545][628]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-01.50.12:573][628]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.50.12:573][628]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.50.15:554][637]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-01.50.38:476][637]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.50.38:476][637]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.50.39:428][638]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.09-01.50.39:446][638]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-01.50.39:501][638]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.50.39:501][638]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.51.00:911][702]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-01.51.00:942][702]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-01.51.00:942][702]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-01.51.03:256][709]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-03.43.09:989][709]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.09-03.43.09:990][709]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-03.43.09:990][709]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-03.43.10:410][710]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.09-03.43.10:461][710]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.09-03.43.10:461][710]LogAudioMixer: Display: 1: FrontRight
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F816AD5-4E59-ADC9-380B-4EB4A6BF4364%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=0713b2ad4ae534a902292d938398ed0d%7Cb9d6f9ead1974672bd702e5ebb223e2c%7Ce6deb551-3b55-42e1-bcd9-a17b5e534561&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x18aec90f400 [can pipeline])
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.224.131.18) port 443 (#2))
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.02.09-03.43.39:540][798]LogHttp: Warning: 0000018B4A5A2400: libcurl info message cache 7 (Closing connection 2)
+[2024.02.09-03.43.39:872][799]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F816AD5-4E59-ADC9-380B-4EB4A6BF4364%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=0713b2ad4ae534a902292d938398ed0d%7Cb9d6f9ead1974672bd702e5ebb223e2c%7Ce6deb551-3b55-42e1-bcd9-a17b5e534561&AppEnvironment=datacollector-binary&UploadType=eteventstream
