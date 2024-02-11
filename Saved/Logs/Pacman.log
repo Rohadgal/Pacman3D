@@ -6320,3 +6320,1635 @@ Script Stack (0 frames):
 [2024.02.10-23.57.52:730][368]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceFB65E33A431E83160F1C9082439EB94B.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
 [2024.02.10-23.57.52:749][368]AssetCheck: New page: Asset Save: BP_GameInstance
 [2024.02.10-23.57.52:749][368]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.29.46:173][ 45]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.29.46:226][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.02.11-00.29.46:286][ 45]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceB5B99A6E40658DA9DD96C6A8C4AA5BD4.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.29.46:302][ 45]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.29.46:302][ 45]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.30.31:748][906]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.30.31:827][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.02.11-00.30.31:888][906]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceB0BE91EE4C2F8F3990955DA5AD335D03.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.30.31:905][906]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.30.31:906][906]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.32.16:517][146]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.32.16:569][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.02.11-00.32.16:639][146]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceF9D99CAC48DB7072D379BAAA749BF6B2.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.32.16:657][146]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.32.16:658][146]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.32.29:441][655]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.32.29:493][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.02.11-00.32.29:558][655]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance92923AEC41FCDC601F7F4282B7E00354.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.32.29:575][655]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.32.29:575][655]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.33.30:402][763]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.33.30:454][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.02.11-00.33.30:525][763]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance73B3D4C04E82D3F3709BFAA5EB941CC1.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.33.30:544][763]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.33.30:544][763]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.34.30:459][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.02.11-00.34.30:462][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_01' took 0.032
+[2024.02.11-00.34.30:462][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance] ([2] browsable assets)...
+[2024.02.11-00.34.30:462][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance]
+[2024.02.11-00.34.30:481][965]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance_Auto58F6C9C524B10F21DB00893A5BADD2743.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance_Auto5.uasset'
+[2024.02.11-00.34.30:482][965]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.02.11-00.35.25:567][551]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.35.25:616][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.02.11-00.35.25:676][551]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance06A26A8A4290ACB4E974A2B123680D21.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.35.25:693][551]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.35.25:693][551]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.37.46:026][869]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.37.46:085][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.02.11-00.37.46:147][869]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceE7D883984218E72E18D3AB8D965326A6.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.37.46:165][869]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.37.46:165][869]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.40.41:594][108]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.40.41:653][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.02.11-00.40.41:732][108]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceA4C6D76F482E2FA663CF78991EB04E0E.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.40.41:748][108]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.40.41:748][108]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.43.40:228][241]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.11-00.43.48:621][855]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.43.48:709][855]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.02.11-00.43.48:784][855]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceFAEA27E341F640944C3268B4209C4558.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.43.48:802][855]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.43.48:802][855]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.43.49:333][906]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance026EEB19401EF42D9E55BE81BFB88ED8.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.43.49:351][906]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.43.49:351][906]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.44.33:918][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.02.11-00.47.47:911][661]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-00.47.47:911][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.47.54:445][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Cherry.BP_Food_Cherry
+[2024.02.11-00.48.00:728][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Orange.BP_Food_Orange
+[2024.02.11-00.48.03:013][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Pellet.BP_Pellet
+[2024.02.11-00.48.05:460][766]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_PowerPellet.BP_PowerPellet
+[2024.02.11-00.48.35:329][674]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent
+[2024.02.11-00.49.21:982][167]BlueprintLog: New page: Compile BP_Food_Cherry
+[2024.02.11-00.49.22:061][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.02.11-00.49.22:133][167]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Food_Cherry713E03124080B4F0792F68A5248AA081.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Pickups/BP_Food_Cherry.uasset'
+[2024.02.11-00.49.22:151][167]AssetCheck: New page: Asset Save: BP_Food_Cherry
+[2024.02.11-00.49.22:151][167]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Cherry.BP_Food_Cherry
+[2024.02.11-00.49.58:913][239]BlueprintLog: New page: Compile BP_Food_Orange
+[2024.02.11-00.49.58:988][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2024.02.11-00.49.59:078][239]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Food_Orange29C9427249B37638D152A8A352881420.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Pickups/BP_Food_Orange.uasset'
+[2024.02.11-00.49.59:095][239]AssetCheck: New page: Asset Save: BP_Food_Orange
+[2024.02.11-00.49.59:095][239]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Orange.BP_Food_Orange
+[2024.02.11-00.50.04:543][496]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-00.50.04:543][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.50.06:793][753]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-00.50.06:793][753]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-00.50.06:793][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.50.33:175][835]BlueprintLog: New page: Compile BP_Pellet
+[2024.02.11-00.50.33:404][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2024.02.11-00.50.33:725][835]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Pellet694FB78641FE4E82C27D309C9A1492EC.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Pickups/BP_Pellet.uasset'
+[2024.02.11-00.50.33:749][835]AssetCheck: New page: Asset Save: BP_Pellet
+[2024.02.11-00.50.33:749][835]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Pellet.BP_Pellet
+[2024.02.11-00.51.02:807][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.02.11-00.51.02:945][112]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_Auto659E27B154F2F688D18AD63B929C30279.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Levels/Level_01_Auto6.umap'
+[2024.02.11-00.51.02:948][112]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_01' took 0.181
+[2024.02.11-00.51.02:948][112]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.181
+[2024.02.11-00.51.04:979][352]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-00.51.04:979][352]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-00.51.04:979][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.52.00:474][890]BlueprintLog: New page: Compile BP_PowerPellet
+[2024.02.11-00.52.00:542][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.02.11-00.52.00:628][890]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_PowerPelletFD26C4F344422F426A2091AF24D0A63D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Pickups/BP_PowerPellet.uasset'
+[2024.02.11-00.52.00:647][890]AssetCheck: New page: Asset Save: BP_PowerPellet
+[2024.02.11-00.52.00:647][890]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_PowerPellet.BP_PowerPellet
+[2024.02.11-00.52.12:845][201]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-00.52.12:845][201]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-00.52.12:845][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.54.28:785][633]LogEditorTransaction: Undo Create Pin Link
+[2024.02.11-00.55.58:566][ 30]BlueprintLog: New page: Compile BP_Enemy_Parent
+[2024.02.11-00.55.58:744][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.02.11-00.55.58:913][ 30]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Enemy_Parent2BFBBB49400A0A2AD753018841E9394B.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.uasset'
+[2024.02.11-00.55.58:955][ 30]AssetCheck: New page: Asset Save: BP_Enemy_Parent
+[2024.02.11-00.55.58:955][ 30]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_Parent.BP_Enemy_Parent
+[2024.02.11-00.56.42:192][884]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-00.56.42:199][884]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.11-00.56.42:212][884]LogPlayLevel: [PlayLevel] Compiling BP_GameInstance before play...
+[2024.02.11-00.56.42:311][884]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceCA654A1C4DAEB3FDC8AAED82D3071CD1.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.56.42:353][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.02.11-00.56.42:354][884]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2024.02.11-00.56.42:355][884]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 12:56:42 PM)
+[2024.02.11-00.56.42:355][884]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-00.56.42:396][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041224s)
+[2024.02.11-00.56.42:397][884]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-00.56.42:397][884]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2024.02.11-00.56.42:397][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.042620s)
+[2024.02.11-00.56.42:424][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.02.11-00.56.42:424][884]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.02.11-00.56.42:424][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-00.56.42:424][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-00.56.42:424][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-00.56.42:424][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-00.56.42:424][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-00.56.42:424][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-00.56.42:424][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-00.56.42:424][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-00.56.42:425][884]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-00.56.42:425][884]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-00.56.42:429][884]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-00.56.42:429][884]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-00.56.42:445][884]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-00.56.42:445][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-00.56.42:445][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-00.56.42:445][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-00.56.42:446][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-00.56.42:446][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-00.56.42:446][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-00.56.42:465][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-00.56.42:465][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-00.56.42:465][884]LogInit: FAudioDevice initialized.
+[2024.02.11-00.56.42:465][884]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_01'.
+[2024.02.11-00.56.42:494][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-00.56.42:494][884]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-00.56.42:503][884]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-18.56.42
+[2024.02.11-00.56.42:504][884]LogWorld: Bringing up level for play took: 0.008734
+[2024.02.11-00.56.42:504][884]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2024.02.11-00.56.42:512][884]PIE: Server logged in
+[2024.02.11-00.56.42:513][884]PIE: Play in editor total start time 0.314 seconds.
+[2024.02.11-00.56.42:561][885]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.56.42:561][885]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.56.54:487][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-00.56.54:487][154]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-00.56.54:488][154]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-00.56.54:496][154]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-00.56.54:498][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.56.54:506][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-00.56.54:548][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.56.54:579][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-00.56.54:580][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-00.56.54:609][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.02.11-00.56.54:630][155]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.02.11-00.56.56:967][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.02.11-00.56.57:026][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.02.11-00.56.57:158][422]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_0135236F7C4298E31ADC91E18BDFF74AB6.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-00.56.57:189][422]LogFileHelpers: Saving map 'Level_01' took 0.191
+[2024.02.11-00.56.57:205][422]AssetCheck: New page: Asset Save: Level_01
+[2024.02.11-00.56.57:205][422]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-00.57.05:793][429]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.57.05:858][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.02.11-00.57.05:942][429]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance5559E75C4AA910C8BDF816A7FEFF8DC8.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.57.05:960][429]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.57.05:960][429]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.57.54:617][826]BlueprintLog: New page: Compile HUD
+[2024.02.11-00.57.54:660][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.02.11-00.57.54:700][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/HUD" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/HUD.uasset" SILENT=true
+[2024.02.11-00.57.54:727][826]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/HUD776E67E141B0F630F84014A5FBC36F94.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/HUD.uasset'
+[2024.02.11-00.57.54:746][826]AssetCheck: New page: Asset Save: HUD
+[2024.02.11-00.57.54:746][826]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/HUD.HUD
+[2024.02.11-00.58.17:393][849]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.58.17:451][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.02.11-00.58.17:523][849]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceF80F55A24E91B60713CE3498F00E1E90.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.58.17:539][849]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.58.17:539][849]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.58.19:525][961]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-00.58.19:531][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-00.58.19:531][961]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 12:58:19 PM)
+[2024.02.11-00.58.19:531][961]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-00.58.19:571][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040137s)
+[2024.02.11-00.58.19:572][961]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-00.58.19:573][961]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2024.02.11-00.58.19:573][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.041468s)
+[2024.02.11-00.58.19:602][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.02.11-00.58.19:603][961]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.02.11-00.58.19:603][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-00.58.19:603][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-00.58.19:603][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-00.58.19:603][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-00.58.19:603][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-00.58.19:603][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-00.58.19:603][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-00.58.19:603][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-00.58.19:604][961]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-00.58.19:604][961]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-00.58.19:608][961]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-00.58.19:608][961]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-00.58.19:622][961]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-00.58.19:623][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-00.58.19:623][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-00.58.19:623][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-00.58.19:623][961]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-00.58.19:623][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-00.58.19:623][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-00.58.19:645][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-00.58.19:645][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-00.58.19:645][961]LogInit: FAudioDevice initialized.
+[2024.02.11-00.58.19:645][961]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_01'.
+[2024.02.11-00.58.19:695][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-00.58.19:695][961]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-00.58.19:704][961]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-18.58.19
+[2024.02.11-00.58.19:705][961]LogWorld: Bringing up level for play took: 0.008663
+[2024.02.11-00.58.19:706][961]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2024.02.11-00.58.19:713][961]PIE: Server logged in
+[2024.02.11-00.58.19:714][961]PIE: Play in editor total start time 0.184 seconds.
+[2024.02.11-00.58.33:926][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-00.58.33:926][507]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-00.58.33:927][507]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-00.58.33:935][507]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-00.58.33:937][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.58.33:947][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-00.58.33:987][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-00.58.34:012][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-00.58.34:012][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-00.58.34:013][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-00.58.34:044][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.11-00.58.34:063][508]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.02.11-00.58.39:734][172]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.11-00.58.39:784][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.11-00.58.39:858][172]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance86542565494DEC3A2EFE2C98DB7D7FEA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.11-00.58.39:876][172]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.11-00.58.39:877][172]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.11-00.59.11:212][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.02.11-00.59.11:348][470]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_013B6C707D4CCF24AD6592349CAC44E3FE.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-00.59.11:365][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-00.59.11:376][470]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltDataE8E51C4643FB802D117ED794DD71DB24.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-00.59.11:392][470]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-00.59.11:393][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-00.59.11:393][470]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-00.59.18:424][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.11-00.59.18:560][537]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01126DB8644BD8AA6B29D3559C2B3E4A86.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-00.59.18:576][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-00.59.18:588][537]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData1A45C07E4AC1FEE70F2DA4AC5A84FE04.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-00.59.18:605][537]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-00.59.18:605][537]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-00.59.18:605][537]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-01.27.09:888][146]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.11-01.27.09:903][146]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.11-01.27.15:510][581]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GameStart_Notify
+[2024.02.11-01.27.15:514][581]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.11-01.27.22:317][982]LogContentBrowser: Attempting asset rename: GameStart_Notify -> Game_Start_Notify
+[2024.02.11-01.27.22:338][982]LogMetaData: Removing '/Game/ArcadeClassic/UMG/Game_Start_Notify.SKEL_Game_Start_Notify_C' ref from Metadata '/Game/ArcadeClassic/UMG/GameStart_Notify.PackageMetaData'
+[2024.02.11-01.27.22:338][982]LogMetaData: Removing '/Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify_C' ref from Metadata '/Game/ArcadeClassic/UMG/GameStart_Notify.PackageMetaData'
+[2024.02.11-01.27.22:338][982]LogMetaData: Removing '/Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ArcadeClassic/UMG/GameStart_Notify.PackageMetaData'
+[2024.02.11-01.27.22:338][982]LogMetaData: Removing '/Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ArcadeClassic/UMG/GameStart_Notify.PackageMetaData'
+[2024.02.11-01.27.22:338][982]LogMetaData: Removing '/Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ArcadeClassic/UMG/GameStart_Notify.PackageMetaData'
+[2024.02.11-01.27.22:354][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/Game_Start_Notify" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset" SILENT=true
+[2024.02.11-01.27.22:357][982]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Game_Start_Notify84544ADA4B4094036AF4178CD6513110.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset'
+[2024.02.11-01.27.22:447][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.02.11-01.27.22:487][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.11-01.27.22:512][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.11-01.27.22:582][982]AssetCheck: New page: Asset Save: Game_Start_Notify
+[2024.02.11-01.27.22:582][982]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify
+[2024.02.11-01.27.23:922][129]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify
+[2024.02.11-01.27.29:203][484]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.27.29:203][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.27.29:780][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-01.27.29:780][523]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.27.29:780][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.27.30:683][584]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.27.30:683][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.27.30:690][584]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.27.30:690][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.27.32:099][695]LogSlate: Window 'Game_Start_Notify' being destroyed
+[2024.02.11-01.30.04:895][741]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.11-01.36.56:417][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.02.11-01.36.56:430][376]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_01' took 0.048
+[2024.02.11-01.36.56:430][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/Game_Start_Notify] ([1] browsable assets)...
+[2024.02.11-01.36.56:430][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/Game_Start_Notify]
+[2024.02.11-01.36.56:436][376]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Game_Start_Notify_Auto7AFE87F5147CC832CF44AF2BF148527DE.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/Game_Start_Notify_Auto7.uasset'
+[2024.02.11-01.36.56:437][376]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.02.11-01.38.17:705][732]BlueprintLog: New page: Compile Game_Start_Notify
+[2024.02.11-01.38.17:727][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.02.11-01.38.17:794][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/Game_Start_Notify" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset" SILENT=true
+[2024.02.11-01.38.17:801][732]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Game_Start_Notify902EDB7040BCDF2ABB766DAA47036A2F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset'
+[2024.02.11-01.38.17:828][732]AssetCheck: New page: Asset Save: Game_Start_Notify
+[2024.02.11-01.38.17:828][732]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify
+[2024.02.11-01.38.21:775][ 44]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.11-01.38.48:190][944]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.11-01.40.09:555][297]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.11-01.40.15:553][540]BlueprintLog: New page: Compile BP_GameMode_GamePlay
+[2024.02.11-01.40.15:618][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.02.11-01.40.15:736][540]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameMode_GamePlay6C834AAD491A60D1290936B4FEFDCFD2.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.uasset'
+[2024.02.11-01.40.15:754][540]AssetCheck: New page: Asset Save: BP_GameMode_GamePlay
+[2024.02.11-01.40.15:754][540]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.11-01.40.16:349][593]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameMode_GamePlay7634F7E94BC88B81D411669BC0446C72.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.uasset'
+[2024.02.11-01.40.16:366][593]AssetCheck: New page: Asset Save: BP_GameMode_GamePlay
+[2024.02.11-01.40.16:366][593]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.11-01.41.44:403][141]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.11-01.41.47:728][261]BlueprintLog: New page: Compile Game_Start_Notify
+[2024.02.11-01.41.47:790][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.02.11-01.41.47:826][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/Game_Start_Notify" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset" SILENT=true
+[2024.02.11-01.41.47:834][261]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Game_Start_Notify553AFBA94790FE66795ACA8B7C21DC02.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset'
+[2024.02.11-01.41.47:850][261]AssetCheck: New page: Asset Save: Game_Start_Notify
+[2024.02.11-01.41.47:850][261]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify
+[2024.02.11-01.42.45:105][599]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-01.42.45:111][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-01.42.45:111][599]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 1:42:45 PM)
+[2024.02.11-01.42.45:112][599]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.42.45:151][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039914s)
+[2024.02.11-01.42.45:152][599]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-01.42.45:152][599]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2024.02.11-01.42.45:152][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.041209s)
+[2024.02.11-01.42.45:178][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.02.11-01.42.45:180][599]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.02.11-01.42.45:180][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-01.42.45:180][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-01.42.45:180][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-01.42.45:180][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-01.42.45:180][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-01.42.45:180][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-01.42.45:180][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-01.42.45:180][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-01.42.45:181][599]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-01.42.45:181][599]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-01.42.45:185][599]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-01.42.45:185][599]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-01.42.45:199][599]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-01.42.45:200][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-01.42.45:200][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-01.42.45:200][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-01.42.45:200][599]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-01.42.45:200][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-01.42.45:200][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-01.42.45:222][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-01.42.45:222][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-01.42.45:222][599]LogInit: FAudioDevice initialized.
+[2024.02.11-01.42.45:222][599]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_01'.
+[2024.02.11-01.42.45:273][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.42.45:273][599]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-01.42.45:283][599]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-19.42.45
+[2024.02.11-01.42.45:284][599]LogWorld: Bringing up level for play took: 0.009992
+[2024.02.11-01.42.45:284][599]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2024.02.11-01.42.45:293][599]PIE: Server logged in
+[2024.02.11-01.42.45:295][599]PIE: Play in editor total start time 0.184 seconds.
+[2024.02.11-01.42.50:102][135]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue_1
+	BP_GameMode_GamePlay_C /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01:PersistentLevel.BP_GameMode_GamePlay_C_0
+	Function /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay_C:ExecuteUbergraph_BP_GameMode_GamePlay:0055
+[2024.02.11-01.42.50:103][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue_1". Blueprint:  BP_GameMode_GamePlay Function:  Execute Ubergraph BP Game Mode Game Play Graph:  EventGraph Node:  Add to Viewport
+[2024.02.11-01.42.54:737][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.42.54:737][640]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.42.54:738][640]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-01.42.54:744][640]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.42.54:747][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.42.54:759][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-01.42.54:800][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.42.54:824][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.42.54:825][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.42.54:854][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.02.11-01.42.54:908][640]LogSlate: Took 0.005336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.02.11-01.42.54:911][641]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.02.11-01.46.09:995][458]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.11-01.46.20:116][646]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameMode_GamePlay9D41737A4123D962334C918D26A697EB.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.uasset'
+[2024.02.11-01.46.20:132][646]AssetCheck: New page: Asset Save: BP_GameMode_GamePlay
+[2024.02.11-01.46.20:132][646]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.11-01.47.06:275][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.02.11-01.47.06:277][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_01' took 0.029
+[2024.02.11-01.47.06:277][404]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/Game_Start_Notify] ([1] browsable assets)...
+[2024.02.11-01.47.06:277][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/Game_Start_Notify]
+[2024.02.11-01.47.06:286][404]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Game_Start_Notify_Auto8B752C5964E6CD55DE056D3BE558A4843.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/Game_Start_Notify_Auto8.uasset'
+[2024.02.11-01.47.06:287][404]LogFileHelpers: Auto-saving content packages took 0.010
+[2024.02.11-01.48.06:897][974]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-01.48.06:903][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-01.48.06:903][974]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 1:48:06 PM)
+[2024.02.11-01.48.06:904][974]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.48.06:943][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040035s)
+[2024.02.11-01.48.06:944][974]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-01.48.06:944][974]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2024.02.11-01.48.06:944][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.041505s)
+[2024.02.11-01.48.06:968][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.11-01.48.06:969][974]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-01.48.06:969][974]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-01.48.06:969][974]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-01.48.06:969][974]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-01.48.06:973][974]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-01.48.06:973][974]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-01.48.06:987][974]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-01.48.06:987][974]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-01.48.06:987][974]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-01.48.06:988][974]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-01.48.06:988][974]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-01.48.06:988][974]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-01.48.06:988][974]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-01.48.07:009][974]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-01.48.07:009][974]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-01.48.07:009][974]LogInit: FAudioDevice initialized.
+[2024.02.11-01.48.07:009][974]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level_01'.
+[2024.02.11-01.48.07:040][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.48.07:041][974]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-01.48.07:058][974]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-19.48.07
+[2024.02.11-01.48.07:059][974]LogWorld: Bringing up level for play took: 0.016660
+[2024.02.11-01.48.07:059][974]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2024.02.11-01.48.07:070][974]PIE: Server logged in
+[2024.02.11-01.48.07:074][974]PIE: Play in editor total start time 0.172 seconds.
+[2024.02.11-01.48.15:947][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.48.15:947][791]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.48.15:948][791]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-01.48.15:954][791]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.48.15:957][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.48.15:965][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-01.48.16:004][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.48.16:029][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.48.16:031][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.48.16:059][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.11-01.48.16:082][792]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.02.11-01.48.18:325][ 51]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-01.48.18:331][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-01.48.18:331][ 51]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 1:48:18 PM)
+[2024.02.11-01.48.18:332][ 51]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.48.18:371][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039832s)
+[2024.02.11-01.48.18:372][ 51]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-01.48.18:373][ 51]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2024.02.11-01.48.18:373][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.041138s)
+[2024.02.11-01.48.18:397][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.02.11-01.48.18:397][ 51]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.02.11-01.48.18:397][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-01.48.18:397][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-01.48.18:397][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-01.48.18:397][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-01.48.18:397][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-01.48.18:397][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-01.48.18:397][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-01.48.18:397][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-01.48.18:398][ 51]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-01.48.18:398][ 51]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-01.48.18:402][ 51]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-01.48.18:402][ 51]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-01.48.18:415][ 51]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-01.48.18:416][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-01.48.18:416][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-01.48.18:416][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-01.48.18:416][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-01.48.18:416][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-01.48.18:416][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-01.48.18:438][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-01.48.18:438][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-01.48.18:438][ 51]LogInit: FAudioDevice initialized.
+[2024.02.11-01.48.18:438][ 51]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level_01'.
+[2024.02.11-01.48.18:489][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.48.18:490][ 51]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-01.48.18:498][ 51]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-19.48.18
+[2024.02.11-01.48.18:499][ 51]LogWorld: Bringing up level for play took: 0.008685
+[2024.02.11-01.48.18:500][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2024.02.11-01.48.18:510][ 51]PIE: Server logged in
+[2024.02.11-01.48.18:514][ 51]PIE: Play in editor total start time 0.184 seconds.
+[2024.02.11-01.48.21:451][299]LogRenderer: Reallocating scene render targets to support 1264x1008 Format 10 NumSamples 1 (Frame:252).
+[2024.02.11-01.48.21:514][299]LogRenderer: Reallocating scene render targets to support 1308x1008 Format 10 NumSamples 1 (Frame:253).
+[2024.02.11-01.48.21:583][299]LogRenderer: Reallocating scene render targets to support 1340x1008 Format 10 NumSamples 1 (Frame:254).
+[2024.02.11-01.48.21:652][299]LogRenderer: Reallocating scene render targets to support 1360x1008 Format 10 NumSamples 1 (Frame:255).
+[2024.02.11-01.48.27:317][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.48.27:317][795]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.48.27:318][795]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-01.48.27:326][795]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.48.27:330][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.48.27:341][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-01.48.27:384][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.48.27:407][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.48.27:409][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.48.27:439][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.02.11-01.48.27:461][796]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.02.11-01.51.09:100][314]BlueprintLog: New page: Compile Game_Start_Notify
+[2024.02.11-01.51.09:164][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.02.11-01.51.09:246][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/Game_Start_Notify" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset" SILENT=true
+[2024.02.11-01.51.09:262][314]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Game_Start_Notify5DC8B838468ABD19B6FE49854CFD81BC.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/Game_Start_Notify.uasset'
+[2024.02.11-01.51.09:290][314]AssetCheck: New page: Asset Save: Game_Start_Notify
+[2024.02.11-01.51.09:290][314]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/Game_Start_Notify.Game_Start_Notify
+[2024.02.11-01.51.13:731][638]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-01.51.13:737][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-01.51.13:737][638]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 1:51:13 PM)
+[2024.02.11-01.51.13:737][638]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.51.13:779][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040480s)
+[2024.02.11-01.51.13:780][638]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-01.51.13:780][638]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2024.02.11-01.51.13:780][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.041943s)
+[2024.02.11-01.51.13:807][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.02.11-01.51.13:808][638]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-01.51.13:808][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-01.51.13:808][638]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-01.51.13:808][638]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-01.51.13:813][638]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-01.51.13:813][638]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-01.51.13:828][638]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-01.51.13:828][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-01.51.13:828][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-01.51.13:828][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-01.51.13:829][638]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-01.51.13:829][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-01.51.13:829][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-01.51.13:852][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-01.51.13:852][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-01.51.13:852][638]LogInit: FAudioDevice initialized.
+[2024.02.11-01.51.13:852][638]LogAudio: Display: Audio Device (ID: 23) registered with world 'Level_01'.
+[2024.02.11-01.51.13:906][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.51.13:907][638]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-01.51.13:917][638]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-19.51.13
+[2024.02.11-01.51.13:918][638]LogWorld: Bringing up level for play took: 0.009964
+[2024.02.11-01.51.13:918][638]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2024.02.11-01.51.13:926][638]PIE: Server logged in
+[2024.02.11-01.51.13:928][638]PIE: Play in editor total start time 0.191 seconds.
+[2024.02.11-01.51.20:886][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.51.20:886][255]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.51.20:887][255]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-01.51.20:895][255]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.51.20:897][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.51.20:907][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-01.51.20:946][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.51.20:969][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-01.51.20:969][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.51.20:971][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.51.20:999][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.02.11-01.51.21:017][256]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.02.11-01.51.23:503][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.11-01.51.23:640][508]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01DAC06AB24BB072EFBE9BF5BCB8D678E7.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-01.51.23:661][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-01.51.23:672][508]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltDataF3CF20AF496C5601770C48852253D578.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-01.51.23:689][508]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-01.51.23:689][508]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-01.51.23:689][508]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-01.54.22:441][252]BlueprintLog: New page: Compile BP_GameMode_GamePlay
+[2024.02.11-01.54.22:462][252]LogBlueprint: Warning: [AssetLog] C:\Users\Adrian\Documents\GitHub\Pacman\Pacman3D\Content\ArcadeClassic\Blueprints\Framework\BP_GameMode_GamePlay.uasset: [Compiler] Can't parse default value '(Pitch=-88.000000,Yaw=-90.000000,Roll=0.000000)' for  . Property: CamIntroOne_ROT.
+[2024.02.11-01.54.22:508][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2024.02.11-01.54.22:638][252]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameMode_GamePlayABB1FA61440AF99C6ACD93A03EE2B2AD.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.uasset'
+[2024.02.11-01.54.22:654][252]AssetCheck: New page: Asset Save: BP_GameMode_GamePlay
+[2024.02.11-01.54.22:654][252]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.11-01.54.57:220][999]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.11-01.57.29:774][812]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.11-01.57.42:317][ 75]BlueprintLog: New page: Compile BP_GameMode_GamePlay
+[2024.02.11-01.57.42:381][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.02.11-01.57.42:506][ 75]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameMode_GamePlay6C6EC9DE4CAC71872720F9B461052BE0.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.uasset'
+[2024.02.11-01.57.42:524][ 75]AssetCheck: New page: Asset Save: BP_GameMode_GamePlay
+[2024.02.11-01.57.42:524][ 75]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.11-01.57.43:268][148]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-01.57.43:274][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-01.57.43:274][148]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 1:57:43 PM)
+[2024.02.11-01.57.43:274][148]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.57.43:315][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041205s)
+[2024.02.11-01.57.43:316][148]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-01.57.43:317][148]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2024.02.11-01.57.43:317][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.042742s)
+[2024.02.11-01.57.43:341][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.02.11-01.57.43:342][148]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.02.11-01.57.43:342][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-01.57.43:342][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-01.57.43:342][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-01.57.43:342][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-01.57.43:342][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-01.57.43:342][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-01.57.43:342][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-01.57.43:342][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-01.57.43:343][148]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-01.57.43:343][148]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-01.57.43:347][148]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-01.57.43:347][148]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-01.57.43:361][148]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-01.57.43:361][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-01.57.43:361][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-01.57.43:361][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-01.57.43:362][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-01.57.43:362][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-01.57.43:362][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-01.57.43:383][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-01.57.43:383][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-01.57.43:383][148]LogInit: FAudioDevice initialized.
+[2024.02.11-01.57.43:383][148]LogAudio: Display: Audio Device (ID: 24) registered with world 'Level_01'.
+[2024.02.11-01.57.43:426][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.57.43:426][148]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-01.57.43:437][148]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-19.57.43
+[2024.02.11-01.57.43:438][148]LogWorld: Bringing up level for play took: 0.010413
+[2024.02.11-01.57.43:438][148]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2024.02.11-01.57.43:449][148]PIE: Server logged in
+[2024.02.11-01.57.43:453][148]PIE: Play in editor total start time 0.18 seconds.
+[2024.02.11-01.57.52:336][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-01.57.52:336][916]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-01.57.52:337][916]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-01.57.52:345][916]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-01.57.52:347][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.57.52:358][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-01.57.52:398][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-01.57.52:421][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.57.52:423][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-01.57.52:451][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.11-01.57.52:477][917]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2024.02.11-01.58.51:302][595]LogContentBrowser: Deferred new asset file creation: Level_02
+[2024.02.11-01.58.51:330][595]LogContentBrowser: Creating deferred item: Level_02
+[2024.02.11-01.58.55:545][923]LogContentBrowser: Attempting asset rename: Level_02 -> Level_BackUp
+[2024.02.11-01.58.55:686][923]LogContentBrowser: End creating deferred item Level_02
+[2024.02.11-01.58.58:111][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.02.11-01.58.59:255][ 61]LogSlate: Window 'Save Content' being destroyed
+[2024.02.11-01.58.59:434][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.11-01.58.59:570][ 61]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_BackUpE9EF93C0457939DD075B5EA75FD02AA1.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_BackUp.umap'
+[2024.02.11-01.58.59:657][ 61]LogFileHelpers: Saving map 'Level_BackUp' took 0.378
+[2024.02.11-01.58.59:674][ 61]AssetCheck: New page: Asset Save: Level_BackUp
+[2024.02.11-01.58.59:674][ 61]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_BackUp.Level_BackUp
+[2024.02.11-01.59.26:335][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2024.02.11-01.59.55:177][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Player_Closed)
+[2024.02.11-01.59.56:064][165]Cmd: DELETE
+[2024.02.11-01.59.56:064][165]Cmd: ACTOR DELETE
+[2024.02.11-01.59.56:084][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-01.59.56:113][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.11-01.59.56:116][165]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2024.02.11-01.59.57:047][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Player_Open2)
+[2024.02.11-01.59.57:489][321]Cmd: DELETE
+[2024.02.11-01.59.57:490][321]Cmd: ACTOR DELETE
+[2024.02.11-01.59.57:508][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-01.59.57:531][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.11-01.59.57:532][321]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.02.11-01.59.58:101][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (player_closed)
+[2024.02.11-01.59.58:493][428]Cmd: DELETE
+[2024.02.11-01.59.58:494][428]Cmd: ACTOR DELETE
+[2024.02.11-01.59.58:512][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-01.59.58:536][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.11-01.59.58:537][428]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2024.02.11-01.59.59:089][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLAYER_SM)
+[2024.02.11-01.59.59:448][530]Cmd: DELETE
+[2024.02.11-01.59.59:448][530]Cmd: ACTOR DELETE
+[2024.02.11-01.59.59:467][530]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-01.59.59:489][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.11-01.59.59:491][530]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.02.11-02.00.00:569][651]Cmd: DELETE
+[2024.02.11-02.00.00:569][651]Cmd: ACTOR DELETE
+[2024.02.11-02.00.00:588][651]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.00:611][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.11-02.00.00:668][651]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2024.02.11-02.00.02:148][820]Cmd: DELETE
+[2024.02.11-02.00.02:148][820]Cmd: ACTOR DELETE
+[2024.02.11-02.00.02:167][820]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.02:192][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.11-02.00.02:208][820]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2024.02.11-02.00.02:632][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Player_Open)
+[2024.02.11-02.00.02:830][885]Cmd: DELETE
+[2024.02.11-02.00.02:830][885]Cmd: ACTOR DELETE
+[2024.02.11-02.00.02:848][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-02.00.02:873][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.11-02.00.02:874][885]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2024.02.11-02.00.03:764][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Enemy_Down)
+[2024.02.11-02.00.04:039][ 17]Cmd: DELETE
+[2024.02.11-02.00.04:040][ 17]Cmd: ACTOR DELETE
+[2024.02.11-02.00.04:059][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-02.00.04:081][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.11-02.00.04:083][ 17]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.02.11-02.00.05:450][173]Cmd: DELETE
+[2024.02.11-02.00.05:450][173]Cmd: ACTOR DELETE
+[2024.02.11-02.00.05:469][173]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.05:492][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.11-02.00.05:507][173]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2024.02.11-02.00.06:532][287]Cmd: DELETE
+[2024.02.11-02.00.06:533][287]Cmd: ACTOR DELETE
+[2024.02.11-02.00.06:552][287]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.06:576][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.11-02.00.06:590][287]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2024.02.11-02.00.07:731][415]Cmd: DELETE
+[2024.02.11-02.00.07:731][415]Cmd: ACTOR DELETE
+[2024.02.11-02.00.07:750][415]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.07:774][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.11-02.00.07:787][415]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2024.02.11-02.00.08:763][524]Cmd: DELETE
+[2024.02.11-02.00.08:763][524]Cmd: ACTOR DELETE
+[2024.02.11-02.00.08:781][524]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.08:805][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.11-02.00.08:816][524]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2024.02.11-02.00.14:200][145]Cmd: DELETE
+[2024.02.11-02.00.14:200][145]Cmd: ACTOR DELETE
+[2024.02.11-02.00.14:219][145]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.14:243][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.11-02.00.14:255][145]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2024.02.11-02.00.14:980][224]Cmd: DELETE
+[2024.02.11-02.00.14:980][224]Cmd: ACTOR DELETE
+[2024.02.11-02.00.15:000][224]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.15:025][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.11-02.00.15:035][224]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2024.02.11-02.00.15:876][317]Cmd: DELETE
+[2024.02.11-02.00.15:876][317]Cmd: ACTOR DELETE
+[2024.02.11-02.00.15:894][317]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.15:917][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.11-02.00.15:927][317]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2024.02.11-02.00.16:529][385]Cmd: DELETE
+[2024.02.11-02.00.16:529][385]Cmd: ACTOR DELETE
+[2024.02.11-02.00.16:549][385]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.16:572][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.11-02.00.16:583][385]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2024.02.11-02.00.17:759][516]Cmd: DELETE
+[2024.02.11-02.00.17:759][516]Cmd: ACTOR DELETE
+[2024.02.11-02.00.17:777][516]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.17:801][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.11-02.00.17:810][516]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2024.02.11-02.00.18:745][620]Cmd: DELETE
+[2024.02.11-02.00.18:745][620]Cmd: ACTOR DELETE
+[2024.02.11-02.00.18:763][620]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.18:787][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.11-02.00.18:794][620]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2024.02.11-02.00.20:190][780]Cmd: DELETE
+[2024.02.11-02.00.20:190][780]Cmd: ACTOR DELETE
+[2024.02.11-02.00.20:208][780]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.20:232][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.02.11-02.00.20:239][780]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2024.02.11-02.00.21:491][922]Cmd: DELETE
+[2024.02.11-02.00.21:491][922]Cmd: ACTOR DELETE
+[2024.02.11-02.00.21:508][922]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.21:533][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.11-02.00.21:540][922]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2024.02.11-02.00.22:249][999]Cmd: DELETE
+[2024.02.11-02.00.22:249][999]Cmd: ACTOR DELETE
+[2024.02.11-02.00.22:267][999]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.22:291][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.11-02.00.22:298][999]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2024.02.11-02.00.23:326][115]Cmd: DELETE
+[2024.02.11-02.00.23:326][115]Cmd: ACTOR DELETE
+[2024.02.11-02.00.23:344][115]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.23:369][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.11-02.00.23:375][115]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.02.11-02.00.24:971][299]Cmd: DELETE
+[2024.02.11-02.00.24:971][299]Cmd: ACTOR DELETE
+[2024.02.11-02.00.24:989][299]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.25:013][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.11-02.00.25:019][299]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.02.11-02.00.26:207][434]Cmd: DELETE
+[2024.02.11-02.00.26:207][434]Cmd: ACTOR DELETE
+[2024.02.11-02.00.26:224][434]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.26:248][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.11-02.00.26:254][434]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2024.02.11-02.00.27:086][526]Cmd: DELETE
+[2024.02.11-02.00.27:086][526]Cmd: ACTOR DELETE
+[2024.02.11-02.00.27:104][526]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.27:128][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.11-02.00.27:133][526]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2024.02.11-02.00.27:976][620]Cmd: DELETE
+[2024.02.11-02.00.27:976][620]Cmd: ACTOR DELETE
+[2024.02.11-02.00.27:995][620]LogEditorActor: Deleted Actor: Brush
+[2024.02.11-02.00.28:019][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.11-02.00.28:024][620]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.02.11-02.00.28:711][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Enemy_Vulnerable)
+[2024.02.11-02.00.28:875][713]Cmd: DELETE
+[2024.02.11-02.00.28:875][713]Cmd: ACTOR DELETE
+[2024.02.11-02.00.28:892][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-02.00.28:916][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.02.11-02.00.28:918][713]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2024.02.11-02.00.41:520][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.11-02.00.41:631][771]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_019673D9A94BFC275E63B612ABC26383EA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-02.00.41:651][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-02.00.41:663][771]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltDataACC5C7D44F794ACBA2F1C58A35436782.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-02.00.41:683][771]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-02.00.41:683][771]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-02.00.41:683][771]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-02.01.00:876][178]MapCheck: New page: Map Check
+[2024.02.11-02.01.00:893][178]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.11-02.01.00:893][178]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.11-02.01.01:279][178]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=false
+[2024.02.11-02.01.01:486][178]LogEditorServer: Cleared 18 NULL BSP materials after rebuild.
+[2024.02.11-02.01.01:491][178]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.11-02.01.01:491][178]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.02.11-02.01.01:491][178]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.02.11-02.01.01:491][178]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 70.0.
+[2024.02.11-02.01.01:495][178]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2024.02.11-02.01.01:526][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.02.11-02.01.01:531][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:558][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2024.02.11-02.01.01:589][178]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.02.11-02.01.01:589][178]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.02.11-02.01.01:589][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:590][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:592][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:594][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:595][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:597][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:598][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:599][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.01:601][178]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 66
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 65
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 64
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 63
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 62
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 61
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 60
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 59
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 58
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 57
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 56
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 55
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 54
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 53
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 52
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 51
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 50
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 49
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 47
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 46
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 45
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 44
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 43
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 41
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 40
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 39
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 38
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 37
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 36
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 35
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 34
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 33
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 32
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 30
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 28
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 27
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 25
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 21
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 20
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 16
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2024.02.11-02.01.06:210][178]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2024.02.11-02.01.06:210][178]TextureStreamingBuild: Display: Compiling optional shaders took 4.682 seconds.
+[2024.02.11-02.01.06:264][178]LogLevel: Display: Export Material TexCoord Scales took 0.054 seconds.
+[2024.02.11-02.01.06:285][178]TextureStreamingBuild: Display: Build Texture Streaming took 0.021 seconds.
+[2024.02.11-02.01.06:311][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.11-02.01.06:314][178]LightingResults: New page: Lighting Build - Feb 10, 2024, 2:01:06 PM
+[2024.02.11-02.01.06:505][178]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.11-02.01.07:043][178]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.11-02.01.07:064][178]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.11-02.01.08:603][178]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.11-02.01.08:603][178]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9800
+[2024.02.11-02.01.11:187][178]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.11-02.01.11:187][178]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.11-02.01.11:187][178]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.11-02.01.11:187][178]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.11-02.01.11:187][178]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.11-02.01.11:187][178]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.11-02.01.11:410][178]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.11-02.01.11:410][178]MapCheck: New page: Level_01 - Feb 10, 2024, 2:01:11 PM
+[2024.02.11-02.01.11:411][178]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2024.02.11-02.01.11:411][178]MapCheck: Warning: SM_T_L_29 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.11:411][178]MapCheck: Warning: SM_T_L2 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.11:411][178]MapCheck: Warning: SM_T_S Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.11:412][178]MapCheck: Map check complete: 1 Error(s), 3 Warning(s), took 1.266ms to complete.
+[2024.02.11-02.01.11:414][178]LogEditorBuildUtils: Build time 0:10
+[2024.02.11-02.01.11:450][178]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2024.02.11-02.01.11:462][178]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2024.02.11-02.01.11:534][179]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2024.02.11-02.01.11:535][179]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2024.02.11-02.01.11:535][179]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2024.02.11-02.01.11:535][179]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2024.02.11-02.01.11:542][179]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_01, compiling. 
+[2024.02.11-02.01.11:544][179]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2024.02.11-02.01.11:544][179]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2024.02.11-02.01.11:544][179]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_01, compiling. 
+[2024.02.11-02.01.11:548][179]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Base, compiling. 
+[2024.02.11-02.01.11:550][179]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2024.02.11-02.01.11:550][179]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2024.02.11-02.01.11:550][179]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Base, compiling. 
+[2024.02.11-02.01.11:624][180]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2024.02.11-02.01.11:624][180]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2024.02.11-02.01.11:624][180]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2024.02.11-02.01.11:624][180]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2024.02.11-02.01.12:667][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.11-02.01.16:428][193]Job is a success!
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.037s
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:          1: 7.5% covering 25.0% of volume
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:          2: 92.0% covering 4.8% of volume
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.11-02.01.16:929][194]LogVolumetricLightmapImport:          Level_01 			 213 bricks 	 100.0% (Persistent Level)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2024.02.11-02.01.17:259][194]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X128)
+[2024.02.11-02.01.17:318][194]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2024.02.11-02.01.17:319][194]LogStaticLightingSystem: Level_01_BuiltData storing lightmap data for 47 meshes in 4 LightmapResourceClusters (11.8 Meshes per cluster).
+[2024.02.11-02.01.17:342][194]Lightmass on DESKTOP-VO9IIHQ: 3.14 sec total, 182 ms importing, 17 ms setup, 309 ms photons, 2.55 sec processing, 0 ms extra exporting [47/47 mappings]. Threads: 38.3 sec total, 2.79 sec processing.
+[2024.02.11-02.01.17:342][194]LogMaterial: Display: Material /Game/ArcadeClassic/Materials/M_Wall_01.M_Wall_01 needed to have new flag set bUsedWithStaticLighting !
+[2024.02.11-02.01.17:349][194]LogMaterial: Display: Missing cached shader map for material M_Wall_01, compiling. 
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2024.02.11-02.01.17:418][194]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2024.02.11-02.01.17:421][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2024.02.11-02.01.17:427][194]LogMaterial: Display: Material /Game/ArcadeClassic/Materials/M_Base.M_Base needed to have new flag set bUsedWithStaticLighting !
+[2024.02.11-02.01.17:429][194]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2024.02.11-02.01.17:449][194]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 21
+[2024.02.11-02.01.17:471][194]LogStaticLightingSystem: Illumination: 10.8 sec (116 ms encoding lightmaps, 91 ms encoding shadowmaps)
+[2024.02.11-02.01.17:471][194]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2024.02.11-02.01.17:472][194]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.2 MB streaming, 0.7 MB non-streaming), 3 textures
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2024.02.11-02.01.22:187][194]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2024.02.11-02.01.22:187][194]DumpUnbuiltLightIteractions
+[2024.02.11-02.01.22:187][194]Lights with unbuilt interactions: 0
+[2024.02.11-02.01.22:187][194]
+[2024.02.11-02.01.22:187][194]Primitives with unbuilt interactions: 0
+[2024.02.11-02.01.22:402][194]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.02.11-02.01.22:446][195]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.11-02.01.22:446][195]MapCheck: New page: Level_01 - Feb 10, 2024, 2:01:22 PM
+[2024.02.11-02.01.22:447][195]MapCheck: Warning: SM_T_L_29 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.22:447][195]MapCheck: Warning: SM_T_L2 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.22:447][195]MapCheck: Warning: SM_T_S Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.22:447][195]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1.246ms to complete.
+[2024.02.11-02.01.29:319][945]MapCheck: New page: Map Check
+[2024.02.11-02.01.29:336][945]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.11-02.01.29:336][945]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.11-02.01.29:481][945]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=false
+[2024.02.11-02.01.29:716][945]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.11-02.01.29:716][945]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.02.11-02.01.29:716][945]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.02.11-02.01.29:716][945]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 70.0.
+[2024.02.11-02.01.29:719][945]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2024.02.11-02.01.29:749][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.02.11-02.01.29:750][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.29:753][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2024.02.11-02.01.29:767][945]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.02.11-02.01.29:767][945]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 48
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 47
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 46
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 45
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 44
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 43
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 42
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 40
+[2024.02.11-02.01.29:768][945]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 39
+[2024.02.11-02.01.29:768][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.29:769][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.29:771][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.29:772][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.29:774][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.29:776][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.29:777][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.01.32:063][945]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 52
+[2024.02.11-02.01.32:063][945]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 51
+[2024.02.11-02.01.32:063][945]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 50
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 49
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 47
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 45
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 44
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 41
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 40
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 39
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 38
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 37
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 36
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 33
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 32
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 29
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 27
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 15
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.02.11-02.01.32:064][945]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.02.11-02.01.32:064][945]TextureStreamingBuild: Display: Compiling optional shaders took 2.313 seconds.
+[2024.02.11-02.01.32:073][945]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2024.02.11-02.01.32:077][945]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2024.02.11-02.01.32:100][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.11-02.01.32:103][945]LightingResults: New page: Lighting Build - Feb 10, 2024, 2:01:32 PM
+[2024.02.11-02.01.32:110][945]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.11-02.01.32:119][945]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.11-02.01.32:119][945]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.11-02.01.32:120][945]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.11-02.01.32:120][945]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9800
+[2024.02.11-02.01.36:957][945]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.11-02.01.36:957][945]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.11-02.01.36:957][945]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.11-02.01.36:957][945]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.11-02.01.36:957][945]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.11-02.01.36:957][945]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.11-02.01.37:077][945]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.11-02.01.37:078][945]MapCheck: New page: Level_01 - Feb 10, 2024, 2:01:37 PM
+[2024.02.11-02.01.37:078][945]MapCheck: Warning: SM_T_L_29 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.37:078][945]MapCheck: Warning: SM_T_L2 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.37:078][945]MapCheck: Warning: SM_T_S Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.37:079][945]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1.262ms to complete.
+[2024.02.11-02.01.37:082][945]LogEditorBuildUtils: Build time 0:07
+[2024.02.11-02.01.37:101][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_01, compiling. 
+[2024.02.11-02.01.37:103][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wall_01, compiling. 
+[2024.02.11-02.01.37:106][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Base, compiling. 
+[2024.02.11-02.01.37:108][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Base, compiling. 
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2024.02.11-02.01.37:174][946]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2024.02.11-02.01.37:751][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.11-02.01.40:205][142]Job is a success!
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:          1: 7.5% covering 25.0% of volume
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:          2: 92.0% covering 4.8% of volume
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.11-02.01.40:402][143]LogVolumetricLightmapImport:          Level_01 			 213 bricks 	 100.0% (Persistent Level)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X128)
+[2024.02.11-02.01.40:722][143]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X512)
+[2024.02.11-02.01.40:756][143]Lightmass on DESKTOP-VO9IIHQ: 2.56 sec total, 169 ms importing, 17 ms setup, 331 ms photons, 1.98 sec processing, 0 ms extra exporting [47/47 mappings]. Threads: 29.7 sec total, 2.85 sec processing.
+[2024.02.11-02.01.40:759][143]LogStaticLightingSystem: Level_01_BuiltData storing lightmap data for 47 meshes in 4 LightmapResourceClusters (11.8 Meshes per cluster).
+[2024.02.11-02.01.40:802][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.02.11-02.01.40:822][143]LogStaticLightingSystem: Illumination: 8.68 sec (140 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2024.02.11-02.01.40:823][143]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2024.02.11-02.01.40:823][143]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.2 MB streaming, 0.7 MB non-streaming), 3 textures
+[2024.02.11-02.01.40:976][143]DumpUnbuiltLightIteractions
+[2024.02.11-02.01.40:976][143]Lights with unbuilt interactions: 0
+[2024.02.11-02.01.40:976][143]
+[2024.02.11-02.01.40:976][143]Primitives with unbuilt interactions: 0
+[2024.02.11-02.01.41:086][143]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.02.11-02.01.41:126][144]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.11-02.01.41:126][144]MapCheck: New page: Level_01 - Feb 10, 2024, 2:01:41 PM
+[2024.02.11-02.01.41:127][144]MapCheck: Warning: SM_T_L_29 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.41:127][144]MapCheck: Warning: SM_T_L2 Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.41:127][144]MapCheck: Warning: SM_T_S Static mesh actor has NULL StaticMesh property 
+[2024.02.11-02.01.41:128][144]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1.27ms to complete.
+[2024.02.11-02.01.52:657][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L3)
+[2024.02.11-02.02.54:720][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L3)
+[2024.02.11-02.02.59:655][210]Cmd: TRANSACTION UNDO
+[2024.02.11-02.02.59:655][210]LogEditorTransaction: Undo Move Actors
+[2024.02.11-02.03.17:012][971]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.11-02.03.43:439][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L2)
+[2024.02.11-02.03.53:911][578]Cmd: TRANSACTION UNDO
+[2024.02.11-02.03.53:911][578]LogEditorTransaction: Undo Edit Static Mesh
+[2024.02.11-02.03.58:283][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L3)
+[2024.02.11-02.04.03:707][597]Cmd: DUPLICATE
+[2024.02.11-02.04.03:707][597]Cmd: ACTOR DUPLICATE
+[2024.02.11-02.04.05:058][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L4)
+[2024.02.11-02.04.06:644][925]Cmd: DELETE
+[2024.02.11-02.04.06:644][925]Cmd: ACTOR DELETE
+[2024.02.11-02.04.06:659][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-02.04.06:684][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.11-02.04.06:688][925]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2024.02.11-02.04.07:680][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L5)
+[2024.02.11-02.04.18:257][ 85]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_T_L5)
+[2024.02.11-02.04.42:650][717]Cmd: ACTOR MIRROR Y=-1
+[2024.02.11-02.04.45:668][995]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_T_L5)
+[2024.02.11-02.04.50:718][517]Cmd: ACTOR MIRROR Y=-1
+[2024.02.11-02.04.55:490][ 41]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_T_L5)
+[2024.02.11-02.05.00:909][554]Cmd: ACTOR MIRROR Z=-1
+[2024.02.11-02.05.02:731][713]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_T_L5)
+[2024.02.11-02.05.06:931][ 87]Cmd: ACTOR MIRROR Z=-1
+[2024.02.11-02.05.07:999][194]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_T_L5)
+[2024.02.11-02.05.12:068][570]Cmd: ACTOR MIRROR X=-1
+[2024.02.11-02.05.16:135][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L3)
+[2024.02.11-02.05.18:966][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L5)
+[2024.02.11-02.05.25:354][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L3)
+[2024.02.11-02.05.29:082][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.11-02.05.38:702][453]Cmd: DELETE
+[2024.02.11-02.05.38:702][453]Cmd: ACTOR DELETE
+[2024.02.11-02.05.38:717][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-02.05.38:745][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.11-02.05.38:749][453]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2024.02.11-02.05.41:987][825]Cmd: DELETE
+[2024.02.11-02.05.41:987][825]Cmd: ACTOR DELETE
+[2024.02.11-02.05.42:002][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-02.05.42:025][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.11-02.05.42:027][825]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.02.11-02.05.43:744][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_T_L3)
+[2024.02.11-02.05.52:195][891]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.11-02.05.57:776][508]Cmd: DELETE
+[2024.02.11-02.05.57:776][508]Cmd: ACTOR DELETE
+[2024.02.11-02.05.57:792][508]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.11-02.05.57:815][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.11-02.05.57:818][508]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2024.02.11-02.06.01:899][965]MapCheck: New page: Map Check
+[2024.02.11-02.06.01:916][965]Cmd: MAP REBUILD ALLVISIBLE
+[2024.02.11-02.06.01:916][965]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.02.11-02.06.02:066][965]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=false
+[2024.02.11-02.06.02:301][965]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.02.11-02.06.02:301][965]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.02.11-02.06.02:301][965]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.02.11-02.06.02:301][965]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 70.0.
+[2024.02.11-02.06.02:304][965]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2024.02.11-02.06.02:334][965]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.02.11-02.06.02:336][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.06.02:338][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 48
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 47
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 46
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 45
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 44
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 43
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 42
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 40
+[2024.02.11-02.06.02:354][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 39
+[2024.02.11-02.06.02:354][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.06.02:356][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.06.02:358][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.06.02:360][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.06.02:362][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.06.02:364][965]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 50
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 48
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 47
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 46
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 45
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 44
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 43
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 42
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 41
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 40
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 37
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 36
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 35
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 33
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 28
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 26
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 25
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 24
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2024.02.11-02.06.04:737][965]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2024.02.11-02.06.04:737][965]TextureStreamingBuild: Display: Compiling optional shaders took 2.401 seconds.
+[2024.02.11-02.06.04:751][965]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2024.02.11-02.06.04:755][965]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2024.02.11-02.06.04:778][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.11-02.06.04:780][965]LightingResults: New page: Lighting Build - Feb 10, 2024, 2:06:04 PM
+[2024.02.11-02.06.04:787][965]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.02.11-02.06.04:791][965]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.02.11-02.06.04:791][965]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.02.11-02.06.04:793][965]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.02.11-02.06.04:793][965]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9800
+[2024.02.11-02.06.09:368][965]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.02.11-02.06.09:368][965]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.02.11-02.06.09:368][965]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.02.11-02.06.09:368][965]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.02.11-02.06.09:368][965]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.02.11-02.06.09:368][965]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.02.11-02.06.09:525][965]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.02.11-02.06.09:525][965]MapCheck: New page: Level_01 - Feb 10, 2024, 2:06:09 PM
+[2024.02.11-02.06.09:526][965]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2024.02.11-02.06.09:527][965]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.259ms to complete.
+[2024.02.11-02.06.09:529][965]LogEditorBuildUtils: Build time 0:07
+[2024.02.11-02.06.09:739][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.11-02.06.12:272][158]Job is a success!
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:      Bricks at depth
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:          1: 7.5% covering 25.0% of volume
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:          2: 92.0% covering 4.8% of volume
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:      Bricks in each level
+[2024.02.11-02.06.12:453][160]LogVolumetricLightmapImport:          Level_01 			 213 bricks 	 100.0% (Persistent Level)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X128)
+[2024.02.11-02.06.12:774][160]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X512)
+[2024.02.11-02.06.12:809][160]LogStaticLightingSystem: Level_01_BuiltData storing lightmap data for 47 meshes in 4 LightmapResourceClusters (11.8 Meshes per cluster).
+[2024.02.11-02.06.12:847][160]Lightmass on DESKTOP-VO9IIHQ: 2.66 sec total, 165 ms importing, 16 ms setup, 311 ms photons, 2.08 sec processing, 0 ms extra exporting [47/47 mappings]. Threads: 31.2 sec total, 2.94 sec processing.
+[2024.02.11-02.06.12:851][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.11-02.06.12:871][160]LogStaticLightingSystem: Illumination: 8.06 sec (132 ms encoding lightmaps, 126 ms encoding shadowmaps)
+[2024.02.11-02.06.12:871][160]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (0.5 MB streaming, 2.0 MB non-streaming), 6 textures
+[2024.02.11-02.06.12:871][160]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.2 MB streaming, 0.7 MB non-streaming), 3 textures
+[2024.02.11-02.06.13:394][160]DumpUnbuiltLightIteractions
+[2024.02.11-02.06.13:394][160]Lights with unbuilt interactions: 0
+[2024.02.11-02.06.13:394][160]
+[2024.02.11-02.06.13:394][160]Primitives with unbuilt interactions: 0
+[2024.02.11-02.06.13:504][160]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.02.11-02.06.13:548][161]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.02.11-02.06.13:548][161]MapCheck: New page: Level_01 - Feb 10, 2024, 2:06:13 PM
+[2024.02.11-02.06.13:549][161]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.07ms to complete.
+[2024.02.11-02.06.16:772][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.11-02.06.16:881][527]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_013EBDDDCA4102ADA6E9DEEE98E9B01974.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-02.06.16:897][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-02.06.16:940][527]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData11225BAE4D5597D025CEE0BA5AFBE4FA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-02.06.16:960][527]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-02.06.16:960][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-02.06.16:960][527]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-02.06.31:953][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.11-02.06.33:487][721]LogSlate: Window 'Save Content' being destroyed
+[2024.02.11-02.06.33:519][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Materials/M_Base" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Materials/M_Base.uasset" SILENT=true
+[2024.02.11-02.06.33:526][721]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/M_Base6484956F4C078FD371AF89915B4750CD.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Materials/M_Base.uasset'
+[2024.02.11-02.06.33:537][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Materials/M_Wall_01" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Materials/M_Wall_01.uasset" SILENT=true
+[2024.02.11-02.06.33:542][721]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/M_Wall_01BD39C27444F91AEB58A709A1DE3CD12A.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Materials/M_Wall_01.uasset'
+[2024.02.11-02.06.33:557][721]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-02.06.33:557][721]LogContentValidation: Display: Validating Material /Game/ArcadeClassic/Materials/M_Base.M_Base
+[2024.02.11-02.06.33:557][721]LogContentValidation: Display: Validating Material /Game/ArcadeClassic/Materials/M_Wall_01.M_Wall_01
+[2024.02.11-02.07.42:447][322]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ArcadeClassic/Materials/M_Base_Inst_Player.M_Base_Inst_Player
+[2024.02.11-02.08.35:048][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.02.11-02.08.35:052][ 69]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2024.02.11-02.08.35:074][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.02.11-02.08.35:079][ 69]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/M_Base_Inst_Player6298473249C8250858CE9C9AD4E5221D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Materials/M_Base_Inst_Player.uasset'
+[2024.02.11-02.08.35:093][ 69]AssetCheck: New page: Asset Save: M_Base_Inst_Player
+[2024.02.11-02.08.35:093][ 69]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ArcadeClassic/Materials/M_Base_Inst_Player.M_Base_Inst_Player
+[2024.02.11-02.09.06:195][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.11-02.09.35:379][683]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Player5D253FF549403B61244A268650DF87F4.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Player.uasset'
+[2024.02.11-02.09.35:394][683]AssetCheck: New page: Asset Save: BP_Player
+[2024.02.11-02.09.35:394][683]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.11-02.10.55:606][300]BlueprintLog: New page: Compile BP_Player
+[2024.02.11-02.10.55:727][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.02.11-02.10.55:916][300]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Player139BBB004537C1155BE94C99C1010F6D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Player.uasset'
+[2024.02.11-02.10.55:931][300]AssetCheck: New page: Asset Save: BP_Player
+[2024.02.11-02.10.55:932][300]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.11-02.14.00:690][567]LogEditorTransaction: Undo Add Node
+[2024.02.11-02.14.19:508][375]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.11-02.14.38:362][556]BlueprintLog: New page: Compile BP_Player
+[2024.02.11-02.14.38:451][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.02.11-02.14.38:651][556]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Player3236C11148357F0CD7DDD6ACF9CB3AEA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Characters/BP_Player.uasset'
+[2024.02.11-02.14.38:669][556]AssetCheck: New page: Asset Save: BP_Player
+[2024.02.11-02.14.38:669][556]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Player.BP_Player
+[2024.02.11-02.16.06:893][287]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-02.16.06:899][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-02.16.06:899][287]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 2:16:06 PM)
+[2024.02.11-02.16.06:899][287]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-02.16.06:933][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033775s)
+[2024.02.11-02.16.06:934][287]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-02.16.06:935][287]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2024.02.11-02.16.06:935][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.035539s)
+[2024.02.11-02.16.06:966][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2024.02.11-02.16.06:967][287]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.02.11-02.16.06:967][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-02.16.06:967][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-02.16.06:967][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-02.16.06:967][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-02.16.06:967][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-02.16.06:967][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-02.16.06:967][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-02.16.06:967][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-02.16.06:968][287]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-02.16.06:968][287]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-02.16.06:972][287]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-02.16.06:972][287]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-02.16.06:986][287]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-02.16.06:986][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-02.16.06:986][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-02.16.06:986][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-02.16.06:987][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-02.16.06:987][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-02.16.06:987][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-02.16.07:011][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-02.16.07:011][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-02.16.07:011][287]LogInit: FAudioDevice initialized.
+[2024.02.11-02.16.07:011][287]LogAudio: Display: Audio Device (ID: 25) registered with world 'Level_01'.
+[2024.02.11-02.16.07:061][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-02.16.07:062][287]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-02.16.07:074][287]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-20.16.07
+[2024.02.11-02.16.07:075][287]LogWorld: Bringing up level for play took: 0.012095
+[2024.02.11-02.16.07:075][287]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2024.02.11-02.16.07:087][287]PIE: Server logged in
+[2024.02.11-02.16.07:093][287]PIE: Play in editor total start time 0.195 seconds.
+[2024.02.11-02.16.31:416][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-02.16.31:416][194]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-02.16.31:417][194]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-02.16.31:428][194]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.16.31:430][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.16.31:440][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-02.16.31:460][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.16.31:486][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.11-02.16.31:487][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-02.16.31:488][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-02.16.31:521][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.02.11-02.16.31:550][195]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.02.11-02.16.34:282][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.11-02.16.34:343][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.11-02.16.34:343][460]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2024.02.11-02.16.34:369][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.11-02.16.34:371][460]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/M_Base_Inst_Player355AB2A2424EE0CD754D9397339B2B2C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Materials/M_Base_Inst_Player.uasset'
+[2024.02.11-02.16.34:385][460]AssetCheck: New page: Asset Save: M_Base_Inst_Player
+[2024.02.11-02.16.34:385][460]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/ArcadeClassic/Materials/M_Base_Inst_Player.M_Base_Inst_Player
+[2024.02.11-02.16.52:764][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_01.BP_Enemy_01
+[2024.02.11-02.17.05:913][746]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.17.05:913][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.17.05:979][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_Enemy_01.BP_Enemy_01
+[2024.02.11-02.17.07:796][913]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.17.07:796][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.17.09:825][138]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.17.09:826][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.17.10:684][232]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-02.17.10:684][232]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.17.10:684][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.17.12:549][440]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.17.12:550][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.17.12:557][440]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.17.12:557][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.17.15:496][753]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_ENEMY_02.BP_ENEMY_02
+[2024.02.11-02.17.17:507][934]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.17.17:507][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.17.17:579][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Characters/BP_ENEMY_02.BP_ENEMY_02
+[2024.02.11-02.21.55:190][103]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.21.55:191][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.21.55:836][171]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-02.21.55:836][171]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.21.55:837][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.21.56:575][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.02.11-02.21.56:689][237]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01C404403F4B9948CEC99251AD80171EF6.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-02.21.56:706][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-02.21.56:749][237]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltDataD3A00FA94F05878963BBDA92F3CEA62B.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-02.21.56:766][237]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-02.21.56:766][237]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-02.21.56:766][237]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-02.22.24:167][228]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2024.02.11-02.22.24:224][228]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2024.02.11-02.22.28:722][766]LogContentBrowser: Attempting asset rename: NewParticleSystem -> P_PowerPellet
+[2024.02.11-02.22.28:725][766]LogContentBrowser: End creating deferred item NewParticleSystem
+[2024.02.11-02.22.55:627][522]LogContentBrowser: Attempting asset rename: P_PowerPellet -> P_Eat_PowerPellet
+[2024.02.11-02.22.55:666][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Particles/P_Eat_PowerPellet" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_PowerPellet.uasset" SILENT=true
+[2024.02.11-02.22.55:668][522]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/P_Eat_PowerPelletC1DB94D14971CB54132B088907147E45.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_PowerPellet.uasset'
+[2024.02.11-02.22.55:750][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.02.11-02.22.55:787][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.11-02.22.55:802][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.11-02.22.55:868][522]AssetCheck: New page: Asset Save: P_Eat_PowerPellet
+[2024.02.11-02.22.55:868][522]LogContentValidation: Display: Validating ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet
+[2024.02.11-02.22.57:031][658]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet
+[2024.02.11-02.22.57:167][658]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2024.02.11-02.23.00:043][838]LogSlate: Window 'P_Eat_PowerPellet' being destroyed
+[2024.02.11-02.25.38:428][699]LogEditorTransaction: Undo Add Child
+[2024.02.11-02.25.45:067][324]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.25.52:202][707]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.04:204][241]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.17:312][251]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.18:370][378]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.19:396][501]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.22:612][879]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.23:704][ 10]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.24:970][162]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.26.55:523][453]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.00:379][ 31]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.02:977][342]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.12:354][874]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.17:427][481]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.25:512][900]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.27:846][170]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.29:605][381]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.27.31:304][585]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.28.18:037][756]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.28.19:980][989]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.28.22:322][270]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet)
+[2024.02.11-02.28.29:236][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Particles/P_Eat_PowerPellet" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_PowerPellet.uasset" SILENT=true
+[2024.02.11-02.28.29:240][572]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/P_Eat_PowerPelletA05D2BE94FA8542EB65756BFE6AD2893.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_PowerPellet.uasset'
+[2024.02.11-02.28.29:257][572]AssetCheck: New page: Asset Save: P_Eat_PowerPellet
+[2024.02.11-02.28.29:257][572]LogContentValidation: Display: Validating ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet
+[2024.02.11-02.28.35:950][736]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2024.02.11-02.28.38:149][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Particles/P_Eat_PowerPellet" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_PowerPellet.uasset" SILENT=true
+[2024.02.11-02.28.38:150][989]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2024.02.11-02.28.38:182][989]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/P_Eat_PowerPellet5C8397CF4F2D702B092D3BA59298DB9C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_PowerPellet.uasset'
+[2024.02.11-02.28.38:199][989]AssetCheck: New page: Asset Save: P_Eat_PowerPellet
+[2024.02.11-02.28.38:199][989]LogContentValidation: Display: Validating ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_PowerPellet.P_Eat_PowerPellet
+[2024.02.11-02.28.41:231][334]LogCascade: Quitting Cascade. FXSystem=0x000002A9F34A0D00
+[2024.02.11-02.28.41:246][334]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.28.41:246][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.28.53:056][576]LogContentBrowser: Deferred new asset file creation: P_Eat_PowerPellet1
+[2024.02.11-02.28.53:073][576]LogContentBrowser: Creating deferred item: P_Eat_PowerPellet1
+[2024.02.11-02.28.58:104][178]LogContentBrowser: Attempting asset rename: P_Eat_PowerPellet1 -> P_Eat_Cherry
+[2024.02.11-02.28.58:112][178]LogContentBrowser: End creating deferred item P_Eat_PowerPellet1
+[2024.02.11-02.29.05:200][406]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_Cherry.P_Eat_Cherry
+[2024.02.11-02.29.11:048][784]LogSlate: Window 'P_Eat_Cherry' being destroyed
+[2024.02.11-02.29.17:488][163]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_Cherry.P_Eat_Cherry)
+[2024.02.11-02.29.18:145][240]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_Cherry.P_Eat_Cherry)
+[2024.02.11-02.29.20:656][537]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_Cherry.P_Eat_Cherry)
+[2024.02.11-02.29.24:788][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Particles/P_Eat_Cherry" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_Cherry.uasset" SILENT=true
+[2024.02.11-02.29.24:796][832]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/P_Eat_CherryDAE6F98B4AFD5F4E0E5377B186B45A5C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_Cherry.uasset'
+[2024.02.11-02.29.24:812][832]AssetCheck: New page: Asset Save: P_Eat_Cherry
+[2024.02.11-02.29.24:812][832]LogContentValidation: Display: Validating ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_Cherry.P_Eat_Cherry
+[2024.02.11-02.29.27:106][ 97]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2024.02.11-02.29.28:767][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Particles/P_Eat_Cherry" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_Cherry.uasset" SILENT=true
+[2024.02.11-02.29.28:767][287]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2024.02.11-02.29.28:801][287]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/P_Eat_CherryF57300FD40F40DFC5BD3D3A617B6A0A3.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_Cherry.uasset'
+[2024.02.11-02.29.28:819][287]AssetCheck: New page: Asset Save: P_Eat_Cherry
+[2024.02.11-02.29.28:819][287]LogContentValidation: Display: Validating ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_Cherry.P_Eat_Cherry
+[2024.02.11-02.29.29:621][376]LogCascade: Quitting Cascade. FXSystem=0x000002A8922769E0
+[2024.02.11-02.29.29:625][376]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.29.29:625][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.29.33:753][694]LogContentBrowser: Deferred new asset file creation: P_Eat_Cherry1
+[2024.02.11-02.29.33:771][694]LogContentBrowser: Creating deferred item: P_Eat_Cherry1
+[2024.02.11-02.29.38:114][211]LogContentBrowser: Attempting asset rename: P_Eat_Cherry1 -> P_Eat_Orange
+[2024.02.11-02.29.38:122][211]LogContentBrowser: End creating deferred item P_Eat_Cherry1
+[2024.02.11-02.29.40:201][450]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_Orange.P_Eat_Orange
+[2024.02.11-02.29.42:620][648]LogSlate: Window 'P_Eat_Orange' being destroyed
+[2024.02.11-02.29.50:204][  1]LogParticles: Warning: MaxCount =  501 for Emitter ParticleSpriteEmitter_0 (/Game/ArcadeClassic/Particles/P_Eat_Orange.P_Eat_Orange)
+[2024.02.11-02.29.55:881][440]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2024.02.11-02.29.56:920][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Particles/P_Eat_Orange" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_Orange.uasset" SILENT=true
+[2024.02.11-02.29.56:921][553]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2024.02.11-02.29.56:954][553]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/P_Eat_Orange55E77BC947720F5328A75CB15D158647.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Particles/P_Eat_Orange.uasset'
+[2024.02.11-02.29.56:970][553]AssetCheck: New page: Asset Save: P_Eat_Orange
+[2024.02.11-02.29.56:970][553]LogContentValidation: Display: Validating ParticleSystem /Game/ArcadeClassic/Particles/P_Eat_Orange.P_Eat_Orange
+[2024.02.11-02.29.58:187][695]LogCascade: Quitting Cascade. FXSystem=0x000002AA01E5FF40
+[2024.02.11-02.29.58:191][695]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.29.58:191][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.30.09:883][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_PowerPellet.BP_PowerPellet
+[2024.02.11-02.30.16:117][891]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Cherry.BP_Food_Cherry
+[2024.02.11-02.30.19:215][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Orange.BP_Food_Orange
+[2024.02.11-02.30.46:020][174]BlueprintLog: New page: Compile BP_Food_Cherry
+[2024.02.11-02.30.46:146][174]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2024.02.11-02.30.46:218][174]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Food_CherryFB9BF7F54438C8E2350F40BDAA525C0A.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Pickups/BP_Food_Cherry.uasset'
+[2024.02.11-02.30.46:234][174]AssetCheck: New page: Asset Save: BP_Food_Cherry
+[2024.02.11-02.30.46:234][174]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Cherry.BP_Food_Cherry
+[2024.02.11-02.30.58:487][296]BlueprintLog: New page: Compile BP_Food_Orange
+[2024.02.11-02.30.58:571][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2024.02.11-02.30.58:660][296]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_Food_Orange4A0C648D4A9A023BDB7D75A213133D2C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Pickups/BP_Food_Orange.uasset'
+[2024.02.11-02.30.58:675][296]AssetCheck: New page: Asset Save: BP_Food_Orange
+[2024.02.11-02.30.58:675][296]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_Food_Orange.BP_Food_Orange
+[2024.02.11-02.31.19:663][449]BlueprintLog: New page: Compile BP_PowerPellet
+[2024.02.11-02.31.19:720][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.02.11-02.31.19:796][449]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_PowerPellet155B7C9249B48963AE526BA995DA1642.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Pickups/BP_PowerPellet.uasset'
+[2024.02.11-02.31.19:812][449]AssetCheck: New page: Asset Save: BP_PowerPellet
+[2024.02.11-02.31.19:812][449]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Pickups/BP_PowerPellet.BP_PowerPellet
+[2024.02.11-02.31.22:316][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.02.11-02.31.22:424][716]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01B6D719CB4DFF190806078EBEAB21E589.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-02.31.22:440][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-02.31.22:481][716]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData03E8F89347AD20830649A28C03532B64.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-02.31.22:501][716]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-02.31.22:501][716]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-02.31.22:501][716]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-02.31.42:180][ 50]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.11-02.31.42:187][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.11-02.31.42:187][ 50]PIE: New page: PIE session: Level_01 (Feb 10, 2024, 2:31:42 PM)
+[2024.02.11-02.31.42:187][ 50]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-02.31.42:218][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030773s)
+[2024.02.11-02.31.42:219][ 50]LogAIModule: Creating AISystem for world Level_01
+[2024.02.11-02.31.42:219][ 50]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2024.02.11-02.31.42:219][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/Level_01.Level_01 to /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 (0.032196s)
+[2024.02.11-02.31.42:247][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.11-02.31.42:249][ 50]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.02.11-02.31.42:249][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.11-02.31.42:249][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.11-02.31.42:249][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.11-02.31.42:249][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.11-02.31.42:249][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.11-02.31.42:249][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.11-02.31.42:249][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.11-02.31.42:249][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.11-02.31.42:250][ 50]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.11-02.31.42:250][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.11-02.31.42:254][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.11-02.31.42:254][ 50]LogAudioMixer: Display: 1: FrontRight
+[2024.02.11-02.31.42:269][ 50]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.11-02.31.42:269][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.11-02.31.42:269][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.11-02.31.42:269][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.11-02.31.42:270][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.11-02.31.42:270][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.11-02.31.42:270][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.11-02.31.42:296][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.11-02.31.42:296][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.11-02.31.42:296][ 50]LogInit: FAudioDevice initialized.
+[2024.02.11-02.31.42:296][ 50]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level_01'.
+[2024.02.11-02.31.42:347][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-02.31.42:347][ 50]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.11-02.31.42:356][ 50]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.10-20.31.42
+[2024.02.11-02.31.42:357][ 50]LogWorld: Bringing up level for play took: 0.008875
+[2024.02.11-02.31.42:357][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2024.02.11-02.31.42:366][ 50]PIE: Server logged in
+[2024.02.11-02.31.42:368][ 50]PIE: Play in editor total start time 0.182 seconds.
+[2024.02.11-02.32.36:464][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.11-02.32.36:464][180]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.11-02.32.36:465][180]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.11-02.32.36:473][180]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.32.36:477][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.32.36:488][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.11-02.32.36:529][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.32.36:556][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-02.32.36:557][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.11-02.32.36:589][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.02.11-02.32.36:646][181]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.02.11-02.33.24:316][611]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.33.24:316][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.33.24:892][668]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-02.33.24:892][668]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.33.24:892][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.33.25:396][719]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.11-02.33.25:396][719]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.33.25:396][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.33.28:750][ 47]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameMode_GamePlay.BP_GameMode_GamePlay
+[2024.02.11-02.33.36:769][823]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2024.02.11-02.33.36:769][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.11-02.33.38:014][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.02.11-02.33.38:127][936]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01F7F5CB904C7B8A6F73C117B21D95CEC0.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-02.33.38:145][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-02.33.38:190][936]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData7B540CC947936E0C3B6FFD8F9AF49B80.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-02.33.38:207][936]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-02.33.38:207][936]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-02.33.38:207][936]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.11-02.34.03:618][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.11-02.34.03:727][279]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_019B88260141B274AA1C1819A26FD0A23D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap'
+[2024.02.11-02.34.03:743][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/Levels/Level_01_BuiltData" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.02.11-02.34.03:785][279]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_01_BuiltData9E04E5D74A6CB057B6420682CF86643F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01_BuiltData.uasset'
+[2024.02.11-02.34.03:802][279]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.11-02.34.03:802][279]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArcadeClassic/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.02.11-02.34.03:802][279]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_01.Level_01
