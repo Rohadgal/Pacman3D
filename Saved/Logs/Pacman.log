@@ -1,100 +1,104 @@
-﻿Log file open, 02/14/24 08:06:09
+﻿Log file open, 02/14/24 20:35:23
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: Pacman
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 3.650073
+LogStats: Stats thread started at 0.197031
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
-LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin VariantManagerContent
-LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin TcpMessaging
-LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin DataValidation
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin ChaosClothEditor
-LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
-LogPluginManager: Mounting plugin ChaosNiagara
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin OnlineSubsystem
-LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin OnlineSubsystemUtils
-LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin LevelSequenceEditor
-LogPluginManager: Mounting plugin MatineeToLevelSequence
-LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
-LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin PerforceSourceControl
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PropertyAccessNode
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
-LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
-LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
-LogPluginManager: Mounting plugin ArchVisCharacter
-LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
-LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
-LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
@@ -109,20 +113,16 @@ LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin ScreenshotTools
-LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin Synthesis
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
-LogPluginManager: Mounting plugin GeometryProcessing
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
-LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
-LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
 LogXGEController: Cleaning working directory: C:/Users/Adrian/AppData/Local/Temp/UnrealXGEWorkingDir/
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Using libcurl 7.55.1-DEV
@@ -210,858 +210,763 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2024.02.14-14.06.15:802][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2024.02.14-14.06.15:802][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
-[2024.02.14-14.06.15:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2024.02.14-14.06.15:803][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
-[2024.02.14-14.06.15:803][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
-[2024.02.14-14.06.15:863][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2024.02.14-14.06.15:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2024.02.14-14.06.15:864][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2024.02.14-14.06.15:867][  0]LogInit: Selected Device Profile: [Windows]
-[2024.02.14-14.06.15:867][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2024.02.14-14.06.15:878][  0]LogHAL: Display: Platform has ~ 64 GB [68536352768 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2024.02.14-14.06.15:878][  0]LogInit: Going up to parent DeviceProfile []
-[2024.02.14-14.06.15:887][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2024.02.14-14.06.15:887][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2024.02.14-14.06.15:888][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2024.02.14-14.06.15:904][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2024.02.14-14.06.15:904][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2024.02.14-14.06.15:904][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2024.02.14-14.06.15:904][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
-[2024.02.14-14.06.15:904][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Editor.ini]
-[2024.02.14-14.06.15:907][  0]LogInit: Computer: DESKTOP-VO9IIHQ
-[2024.02.14-14.06.15:907][  0]LogInit: User: Adrian
-[2024.02.14-14.06.15:907][  0]LogInit: CPU Page size=4096, Cores=8
-[2024.02.14-14.06.15:907][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2024.02.14-14.06.15:907][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
-[2024.02.14-14.06.15:907][  0]LogMemory: Platform Memory Stats for Windows
-[2024.02.14-14.06.15:907][  0]LogMemory: Process Physical Memory: 145.02 MB used, 148.29 MB peak
-[2024.02.14-14.06.15:907][  0]LogMemory: Process Virtual Memory: 132.80 MB used, 132.80 MB peak
-[2024.02.14-14.06.15:907][  0]LogMemory: Physical Memory: 10230.38 MB used,  55130.98 MB free, 65361.36 MB total
-[2024.02.14-14.06.15:907][  0]LogMemory: Virtual Memory: 134155760.00 MB used,  61967.09 MB free, 134217728.00 MB total
-[2024.02.14-14.06.15:920][  0]LogWindows: WindowsPlatformFeatures enabled
-[2024.02.14-14.06.16:764][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2024.02.14-14.06.16:778][  0]LogInit: Overriding language with editor language configuration option (en).
-[2024.02.14-14.06.16:778][  0]LogInit: Overriding language with editor locale configuration option (en).
-[2024.02.14-14.06.17:397][  0]LogInit: Setting process to per monitor DPI aware
-[2024.02.14-14.06.17:562][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2024.02.14-14.06.17:984][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2024.02.14-14.06.17:984][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2024.02.14-14.06.22:906][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2024.02.14-14.06.22:906][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2024.02.14-14.06.22:906][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2024.02.14-14.06.22:906][  0]LogD3D11RHI: D3D11 adapters:
-[2024.02.14-14.06.23:055][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
-[2024.02.14-14.06.23:055][  0]LogD3D11RHI:       8024/0/32680 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2024.02.14-14.06.23:057][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2024.02.14-14.06.23:057][  0]LogD3D11RHI:       0/0/32680 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2024.02.14-14.06.23:057][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2024.02.14-14.06.23:069][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2024.02.14-14.06.23:069][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
-[2024.02.14-14.06.23:069][  0]LogWindows: EnumDisplayDevices:
-[2024.02.14-14.06.23:069][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
-[2024.02.14-14.06.23:069][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
-[2024.02.14-14.06.23:070][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
-[2024.02.14-14.06.23:070][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
-[2024.02.14-14.06.23:070][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2024.02.14-14.06.23:070][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
-[2024.02.14-14.06.23:070][  0]LogD3D11RHI:   Driver Version: 551.52 (internal:31.0.15.5152, unified:551.52)
-[2024.02.14-14.06.23:070][  0]LogD3D11RHI:      Driver Date: 2-7-2024
-[2024.02.14-14.06.23:070][  0]LogRHI: Texture pool is 5616 MB (70% of 8024 MB)
-[2024.02.14-14.06.23:168][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2024.02.14-14.06.23:169][  0]LogD3D11RHI: Async texture creation enabled
-[2024.02.14-14.06.23:169][  0]LogD3D11RHI: Array index from any shader is supported
-[2024.02.14-14.06.23:480][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2024.02.14-14.06.23:491][  0]LogRHI: GeForceNow SDK initialized: 1
-[2024.02.14-14.06.24:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2024.02.14-14.06.24:395][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2024.02.14-14.06.24:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2024.02.14-14.06.24:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2024.02.14-14.06.24:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2024.02.14-14.06.24:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2024.02.14-14.06.24:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2024.02.14-14.06.24:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2024.02.14-14.06.24:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2024.02.14-14.06.24:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2024.02.14-14.06.24:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2024.02.14-14.06.24:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2024.02.14-14.06.24:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2024.02.14-14.06.24:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2024.02.14-14.06.25:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2024.02.14-14.06.25:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2024.02.14-14.06.25:139][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2024.02.14-14.06.25:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2024.02.14-14.06.25:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2024.02.14-14.06.25:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2024.02.14-14.06.25:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2024.02.14-14.06.25:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2024.02.14-14.06.25:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2024.02.14-14.06.25:355][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2024.02.14-14.06.25:582][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2024.02.14-14.06.26:821][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2024.02.14-14.06.26:822][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Intermediate/Shaders/WorkingDirectory/5252/).
-[2024.02.14-14.06.26:822][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adrian/AppData/Local/Temp/UnrealShaderWorkingDir/B0A0157F45BA336E56E1EF9CE78BAAE5/'.
-[2024.02.14-14.06.26:833][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2024.02.14-14.06.26:833][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2024.02.14-14.06.33:952][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2024.02.14-14.06.34:054][  0]LogDerivedDataCache: Loaded boot cache 0.10s 81MB C:/Users/Adrian/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2024.02.14-14.06.34:054][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adrian/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2024.02.14-14.06.34:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2024.02.14-14.06.34:054][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2024.02.14-14.06.34:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2024.02.14-14.06.34:054][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2024.02.14-14.06.34:115][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2024.02.14-14.06.34:115][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2024.02.14-14.06.34:115][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2024.02.14-14.06.34:189][  0]LogDerivedDataCache: Speed tests for C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
-[2024.02.14-14.06.34:189][  0]LogDerivedDataCache: Display: Performance to C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.14ms. RandomReadSpeed=14.52MBs, RandomWriteSpeed=117.28MBs. Assigned SpeedClass 'Local'
-[2024.02.14-14.06.34:190][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2024.02.14-14.06.34:190][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2024.02.14-14.06.34:190][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2024.02.14-14.06.34:317][  0]LogSlate: Using FreeType 2.10.0
-[2024.02.14-14.06.34:380][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2024.02.14-14.06.35:385][  0]LogAssetRegistry: FAssetRegistry took 0.0093 seconds to start up
-[2024.02.14-14.06.37:623][  0]LogInit: Selected Device Profile: [Windows]
-[2024.02.14-14.06.37:623][  0]LogInit: Active device profile: [000001C7AA2FB800][000001C7A91AA8C0 49] Windows
-[2024.02.14-14.06.37:623][  0]LogInit: Profiles: [000001C7AA2FB800][000001C7A91AA8C0 49] Windows, [000001C7AA300900][000001C7AB35AA40 49] WindowsNoEditor, [000001C7AA2F8900][000001C7AB35EBC0 49] WindowsServer, [000001C7AA303200][000001C7AB362D40 49] WindowsClient, [000001C7AA2FB000][000001C7AB366EC0 49] IOS, [000001C7AA301200][000001C7AB36B040 49] iPadAir, [000001C7AA2F9100][000001C7AB36F1C0 49] iPadAir2, [000001C7AA2C0C00][000001C7AB377480 49] IPadPro, [000001C7AA2C0D00][000001C7AB3734C0 49] iPadAir3, [000001C7AA2FAB00][000001C7AB357600 49] iPadAir4, [000001C7AA2C3D00][000001C7AB37B740 49] iPadMini2, [000001C7AA2F9500][000001C7AB37F880 49] iPadMini3, [000001C7AA2C2000][000001C7AB3839C0 49] iPadMini4, [000001C7AA2FBB00][000001C7AB38BB40 49] iPadMini5, [000001C7AA300C00][000001C7AB392140 49] iPhone6, [000001C7AA303F00][000001C7AB38E180 49] iPodTouch6, [000001C7AA2C2600][000001C7AB39A440 49] iPhone7, [000001C7AA2C3C00][000001C7AB396480 49] iPodTouch7, [000001C7AA302200][000001C7AB39E600 49] iPhone5S, [000001C7AA2C2D00][000001C7AB3A2780 49] iPhone6Plus, [000001C7AA302600][000001C7AB3A6900 49] iPhone6S, [000001C7AA2C3300][000001C7AB3AAA80 49] iPhone6SPlus, [000001C7AA300200][000001C7AB3AEC00 49] iPhone7Plus, [000001C7AA2C1700][000001C7AB3B2D80 49] iPhoneSE, [000001C7AA301B00][000001C7AB3B6F00 49] iPhone8, [000001C7AA2C1A00][000001C7AB3BB080 49] iPhone8Plus, [000001C7AA303000][000001C7AB3BF200 49] iPhoneX, [000001C7AA2C0300][000001C7AB3C3380 49] iPhoneXS, [000001C7AA301000][000001C7AB3C7500 49] iPhoneXSMax, [000001C7AA2C0B00][000001C7AB387640 49] iPhoneXR, [000001C7AA301F00][000001C7AB3CB780 49] iPhone11, [000001C7AA2C2500][000001C7AB3CF8C0 49] iPhone11Pro, [000001C7AA301500][000001C7AB3D3A00 49] iPhone11ProMax, [000001C7AA2C1600][000001C7AB3DBB80 49] iPhoneSE2, [000001C7AA303400][000001C7AB3DFD00 49] iPhone12Mini, [000001C7AA2C0500][000001C7AB3E21C0 49] iPhone12, [000001C7AA300600][000001C7AB3E6340 49] iPhone12Pro, [000001C7AA2C1E00][000001C7AB3EA4C0 49] iPhone12ProMax, [000001C7AA302400][000001C7AB3EE640 49] iPadPro105, [000001C7AA2C2A00][000001C7AB3F27C0 49] iPadPro129, [000001C7AA300F00][000001C7AB3F6940 49] iPadPro97, [000001C7AA2C1D00][000001C7AB3FAAC0 49] iPadPro2_129, [000001C7AA301300][000001C7AB3FEC40 49] iPad5, [000001C7AA2C2F00][000001C7AB402DC0 49] iPad6, [000001C7AA300A00][000001C7AB406F40 49] iPad7, [000001C7AA2C3E00][000001C7AB40B0C0 49] iPad8, [000001C7AA301A00][000001C7AB40F240 49] iPadPro11, [000001C7AA2C2200][000001C7AB4133C0 49] iPadPro2_11, [000001C7AA303B00][000001C7AB417540 49] iPadPro3_129, [000001C7AA2C0400][000001C7AB41B6C0 49] iPadPro4_129, [000001C7AA300B00][000001C7AB3D7800 49] AppleTV, [000001C7AA2C2400][000001C7AB41F940 49] AppleTV4K, [000001C7AA301700][000001C7AB423A80 49] TVOS, [000001C7AA2C3400][000001C7AB42BC00 49] Mac, [000001C7AA301C00][000001C7AB42E0C0 49] MacClient, [000001C7AA2C1000][000001C7AB432240 49] MacNoEditor, [000001C7AA302D00][000001C7AB4363C0 49] MacServer, [000001C7AA2C2B00][000001C7AB43A540 49] Linux, [000001C7AA302E00][000001C7AB43E6C0 49] LinuxAArch64, [000001C7AA2C1200][000001C7AB442840 49] LinuxNoEditor, [000001C7AA300300][000001C7AB4469C0 49] LinuxAArch64NoEditor, [000001C7AA2F9B00][000001C7AB44AB40 49] LinuxClient, [000001C7AA381700][000001C7AB44ECC0 49] LinuxAArch64Client, [000001C7AA2FBA00][000001C7AB452E40 49] LinuxServer, [000001C7AA380600][000001C7AB456FC0 49] LinuxAArch64Server, [000001C7AA2FA400][000001C7AB45B140 49] Android, [000001C7AA381900][000001C7AB45F2C0 49] Android_Low, [000001C7AA2F9900][000001C7AB463440 49] Android_Mid, [000001C7AA381B00][000001C7AB4675C0 49] Android_High, [000001C7AA2F9D00][000001C7AB46B740 49] Android_Default, [000001C7AA380500][000001C7AB427880 49] Android_Adreno4xx, [000001C7AA2F9400][000001C7AB46F9C0 49] Android_Adreno5xx_Low, [000001C7AA381000][000001C7AB473B00 49] Android_Adreno5xx, [000001C7AA2F9200][000001C7AB477C40 49] Android_Adreno6xx, [000001C7AA381200][000001C7AB47E100 49] Android_Adreno6xx_Vulkan, [000001C7AA2FB200][000001C7AB482280 49] Android_Mali_T6xx, [000001C7AA381A00][000001C7AB486400 49] Android_Mali_T7xx, [000001C7AA2FB600][000001C7AB48A580 49] Android_Mali_T8xx, [000001C7AA380700][000001C7AB48E700 49] Android_Mali_G71, [000001C7AA300D00][000001C7AB492880 49] Android_Mali_G72, [000001C7AA2C3800][000001C7AB496A00 49] Android_Mali_G72_Vulkan, [000001C7AA302800][000001C7AB49AB80 49] Android_Mali_G76, [000001C7AA2C3B00][000001C7AB49ED00 49] Android_Mali_G76_Vulkan, [000001C7AA303C00][000001C7AB4A2E80 49] Android_Mali_G77, [000001C7AA2C3200][000001C7AB4A7000 49] Android_Mali_G77_Vulkan, [000001C7AA303E00][000001C7AB4AB180 49] Android_Vulkan_SM5, [000001C7AA2C2100][000001C7AB4AF300 49] Android_PowerVR_G6xxx, [000001C7AA300400][000001C7AB4B3480 49] Android_PowerVR_GT7xxx, [000001C7AA2C2300][000001C7AB4B7600 49] Android_PowerVR_GE8xxx, [000001C7AA300E00][000001C7AB4BB780 49] Android_PowerVR_GM9xxx, [000001C7AA2C3A00][000001C7AB47B8C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001C7AA302700][000001C7AB4BFA00 49] Android_TegraK1, [000001C7AA381300][000001C7AB4C3B40 49] Android_Unknown_Vulkan, [000001C7AA301600][000001C7AB4C7C80 49] Lumin, [000001C7AA380900][000001C7AB4CE140 49] Lumin_Desktop, [000001C7AA302300][000001C7AB4D22C0 49] HoloLens, 
-[2024.02.14-14.06.39:178][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2024.02.14-14.06.39:178][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2024.02.14-14.06.39:178][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2024.02.14-14.06.39:178][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2024.02.14-14.06.39:188][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2024.02.14-14.06.39:468][  0]LogNetVersion: Pacman 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2983978851)
-[2024.02.14-14.06.50:310][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2024.02.14-14.06.50:461][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.121412 seconds
-[2024.02.14-14.06.50:475][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2024.02.14-14.06.50:475][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2024.02.14-14.06.50:475][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2024.02.14-14.06.52:571][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2024.02.14-14.06.52:630][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2024.02.14-14.07.00:334][  0]SourceControl: Source control is disabled
-[2024.02.14-14.07.00:334][  0]SourceControl: Source control is disabled
-[2024.02.14-14.07.00:424][  0]SourceControl: Source control is disabled
-[2024.02.14-14.07.00:468][  0]SourceControl: Source control is disabled
-[2024.02.14-14.07.00:563][  0]SourceControl: Source control is disabled
-[2024.02.14-14.07.00:594][  0]LogUProjectInfo: Found projects:
-[2024.02.14-14.07.00:922][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2024.02.14-14.07.01:183][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2024.02.14-14.07.01:183][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2024.02.14-14.07.02:160][  0]LogCollectionManager: Loaded 0 collections in 0.002400 seconds
-[2024.02.14-14.07.02:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Collections/' took 0.01s
-[2024.02.14-14.07.02:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/Developers/Adrian/Collections/' took 0.00s
-[2024.02.14-14.07.02:425][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/Collections/' took 0.00s
-[2024.02.14-14.07.02:425][  0]LogOcInput: OculusInput pre-init called
-[2024.02.14-14.07.03:866][  0]LogEngine: Initializing Engine...
-[2024.02.14-14.07.03:900][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2024.02.14-14.07.03:914][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2024.02.14-14.07.03:928][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
-[2024.02.14-14.07.04:703][  0]LogInit: Initializing FReadOnlyCVARCache
-[2024.02.14-14.07.04:981][  0]LogAIModule: Creating AISystem for world Untitled
-[2024.02.14-14.07.05:019][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2024.02.14-14.07.05:065][  0]LogAudio: Display: Audio Device Manager Initialized
-[2024.02.14-14.07.05:065][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2024.02.14-14.07.05:094][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2024.02.14-14.07.05:094][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2024.02.14-14.07.05:094][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2024.02.14-14.07.05:094][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2024.02.14-14.07.05:094][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2024.02.14-14.07.05:094][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2024.02.14-14.07.05:094][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2024.02.14-14.07.05:094][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2024.02.14-14.07.05:101][  0]LogAudio: Display: Using built-in audio occlusion.
-[2024.02.14-14.07.05:101][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2024.02.14-14.07.05:205][  0]LogAudioMixer: Display: 0: FrontLeft
-[2024.02.14-14.07.05:205][  0]LogAudioMixer: Display: 1: FrontRight
-[2024.02.14-14.07.05:250][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
-[2024.02.14-14.07.05:268][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2024.02.14-14.07.05:371][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2024.02.14-14.07.05:372][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2024.02.14-14.07.05:373][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2024.02.14-14.07.05:373][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2024.02.14-14.07.05:373][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2024.02.14-14.07.05:375][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2024.02.14-14.07.05:375][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2024.02.14-14.07.05:375][  0]LogInit: FAudioDevice initialized.
-[2024.02.14-14.07.05:375][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2024.02.14-14.07.05:386][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2024.02.14-14.07.05:440][  0]LogDerivedDataCache: Saved boot cache 0.05s 81MB C:/Users/Adrian/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2024.02.14-14.07.05:440][  0]LogInit: Texture streaming: Enabled
-[2024.02.14-14.07.05:619][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
-[2024.02.14-14.07.05:701][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2024.02.14-14.07.05:701][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2024.02.14-14.07.05:716][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2024.02.14-14.07.05:878][  0]LogInit: Transaction tracking system initialized
-[2024.02.14-14.07.06:264][  0]BlueprintLog: New page: Editor Load
-[2024.02.14-14.07.07:688][  0]LocalizationService: Localization service is disabled
-[2024.02.14-14.07.08:240][  0]TimingProfiler: Initialize
-[2024.02.14-14.07.08:243][  0]TimingProfiler: OnSessionChanged
-[2024.02.14-14.07.08:243][  0]LoadingProfiler: Initialize
-[2024.02.14-14.07.08:244][  0]LoadingProfiler: OnSessionChanged
-[2024.02.14-14.07.08:244][  0]NetworkingProfiler: Initialize
-[2024.02.14-14.07.08:244][  0]NetworkingProfiler: OnSessionChanged
-[2024.02.14-14.07.08:244][  0]MemoryProfiler: Initialize
-[2024.02.14-14.07.08:244][  0]MemoryProfiler: OnSessionChanged
-[2024.02.14-14.07.10:979][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2024.02.14-14.07.10:979][  0]LogCook: Display: Mobile HDR setting 1
-[2024.02.14-14.07.11:124][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/' took 0.04s
-[2024.02.14-14.07.13:763][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2024.02.14-14.07.13:831][  0]SourceControl: Source control is disabled
-[2024.02.14-14.07.13:844][  0]LogUnrealEdMisc: Loading editor; pre map load, took 80.076
-[2024.02.14-14.07.13:879][  0]Cmd: MAP LOAD FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2024.02.14-14.07.13:884][  0]LightingResults: New page: Lighting Build
-[2024.02.14-14.07.13:955][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2024.02.14-14.07.13:981][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.02.14-14.07.14:024][  0]MapCheck: New page: Map Check
-[2024.02.14-14.07.14:024][  0]LightingResults: New page: Lighting Build
-[2024.02.14-14.07.14:210][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
-[2024.02.14-14.07.14:529][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
-[2024.02.14-14.07.14:530][  0]LogAIModule: Creating AISystem for world MainMenu
-[2024.02.14-14.07.14:599][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2024.02.14-14.07.14:670][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
-[2024.02.14-14.07.14:681][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2024.02.14-14.07.14:681][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.233ms to complete.
-[2024.02.14-14.07.14:681][  0]LogFileHelpers: Loading map 'MainMenu' took 0.806
-[2024.02.14-14.07.15:286][  0]LogUnrealEdMisc: Total Editor Startup Time, took 81.518
-[2024.02.14-14.07.15:768][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.02.14-14.07.15:793][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.02.14-14.07.15:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.02.14-14.07.15:804][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.02.14-14.07.15:949][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0148 seconds. Added 3601 classes and 859 folders.
-[2024.02.14-14.07.16:011][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2024.02.14-14.07.16:123][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2024.02.14-14.07.16:123][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:123][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2024.02.14-14.07.16:123][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
-[2024.02.14-14.07.16:146][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2024.02.14-14.07.16:146][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2024.02.14-14.07.16:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
-[2024.02.14-14.07.16:162][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2024.02.14-14.07.16:162][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2024.02.14-14.07.16:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
-[2024.02.14-14.07.16:177][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2024.02.14-14.07.16:177][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:177][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2024.02.14-14.07.16:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
-[2024.02.14-14.07.16:193][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2024.02.14-14.07.16:193][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2024.02.14-14.07.16:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
-[2024.02.14-14.07.16:207][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2024.02.14-14.07.16:207][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:207][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2024.02.14-14.07.16:207][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
-[2024.02.14-14.07.16:225][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2024.02.14-14.07.16:225][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:225][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2024.02.14-14.07.16:225][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
-[2024.02.14-14.07.16:245][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2024.02.14-14.07.16:245][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:245][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2024.02.14-14.07.16:245][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
-[2024.02.14-14.07.16:269][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2024.02.14-14.07.16:269][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2024.02.14-14.07.16:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
-[2024.02.14-14.07.16:284][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2024.02.14-14.07.16:284][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2024.02.14-14.07.16:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
-[2024.02.14-14.07.16:303][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2024.02.14-14.07.16:303][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:303][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2024.02.14-14.07.16:303][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
-[2024.02.14-14.07.16:315][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2024.02.14-14.07.16:315][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2024.02.14-14.07.16:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
-[2024.02.14-14.07.16:323][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2024.02.14-14.07.16:323][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2024.02.14-14.07.16:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
-[2024.02.14-14.07.16:331][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2024.02.14-14.07.16:331][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2024.02.14-14.07.16:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
-[2024.02.14-14.07.16:338][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2024.02.14-14.07.16:338][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2024.02.14-14.07.16:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
-[2024.02.14-14.07.16:359][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2024.02.14-14.07.16:359][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2024.02.14-14.07.16:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
-[2024.02.14-14.07.16:371][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2024.02.14-14.07.16:371][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2024.02.14-14.07.16:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
-[2024.02.14-14.07.16:393][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2024.02.14-14.07.16:393][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2024.02.14-14.07.16:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
-[2024.02.14-14.07.16:402][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2024.02.14-14.07.16:403][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2024.02.14-14.07.16:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000116
-[2024.02.14-14.07.16:423][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2024.02.14-14.07.16:423][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2024.02.14-14.07.16:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
-[2024.02.14-14.07.16:438][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2024.02.14-14.07.16:438][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2024.02.14-14.07.16:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000127
-[2024.02.14-14.07.16:446][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2024.02.14-14.07.16:446][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2024.02.14-14.07.16:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
-[2024.02.14-14.07.16:462][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2024.02.14-14.07.16:462][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2024.02.14-14.07.16:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
-[2024.02.14-14.07.16:483][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2024.02.14-14.07.16:483][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2024.02.14-14.07.16:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000143
-[2024.02.14-14.07.16:498][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2024.02.14-14.07.16:498][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2024.02.14-14.07.16:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
-[2024.02.14-14.07.16:511][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2024.02.14-14.07.16:511][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2024.02.14-14.07.16:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2024.02.14-14.07.16:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000153
-[2024.02.14-14.07.17:256][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2024.02.14-14.07.17:305][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
-[2024.02.14-14.07.17:945][  0]LogSlate: Took 0.027032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2024.02.14-14.07.17:984][  0]LogSlate: Took 0.013618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2024.02.14-14.07.18:002][  0]LogSlate: Took 0.014895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2024.02.14-14.07.18:361][  0]LogRenderer: Reallocating scene render targets to support 972x624 Format 10 NumSamples 1 (Frame:1).
-[2024.02.14-14.07.18:975][  0]LogSlate: Took 0.018414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2024.02.14-14.07.19:172][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2024.02.14-14.07.19:172][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
-[2024.02.14-14.07.19:172][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
-[2024.02.14-14.07.19:172][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
-[2024.02.14-14.07.19:172][  0]LogLoad: (Engine Initialization) Total time: 85.40 seconds
-[2024.02.14-14.07.19:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2024.02.14-14.07.19:173][  0]LogInit: First time updating LLM stats...
-[2024.02.14-14.07.19:281][  0]LogAssetRegistry: Asset discovery search completed in 43.9109 seconds
-[2024.02.14-14.07.19:284][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
-[2024.02.14-14.07.19:400][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2024.02.14-14.07.20:529][  4]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2024.02.14-14.08.15:568][851]LogSlate: Window 'Pick Parent Class' being destroyed
-[2024.02.14-14.08.19:012][236]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
-[2024.02.14-14.08.19:020][236]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
-[2024.02.14-14.08.22:366][638]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> TopScores
-[2024.02.14-14.08.22:376][638]LogContentBrowser: End creating deferred item NewUserDefinedStruct
-[2024.02.14-14.08.24:707][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
-[2024.02.14-14.08.25:903][911]LogSlate: Window 'Save Content' being destroyed
-[2024.02.14-14.08.25:975][911]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores18918CC74009E4371A8B89803EC48AE0.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/TopScores.uasset'
-[2024.02.14-14.08.26:006][911]AssetCheck: New page: Asset Save: TopScores
-[2024.02.14-14.08.26:006][911]LogContentValidation: Display: Validating UserDefinedStruct /Game/ArcadeClassic/Blueprints/Framework/TopScores.TopScores
-[2024.02.14-14.08.27:525][ 91]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/ArcadeClassic/Blueprints/Framework/TopScores.TopScores
-[2024.02.14-14.08.29:764][325]LogSlate: Window 'TopScores' being destroyed
-[2024.02.14-14.08.51:145][355]LogSlate: Took 0.019855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2024.02.14-14.09.37:876][295]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScoresAA592F564008B55502428B92376A532C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/TopScores.uasset'
-[2024.02.14-14.09.37:885][295]AssetCheck: New page: Asset Save: TopScores
-[2024.02.14-14.09.37:885][295]LogContentValidation: Display: Validating UserDefinedStruct /Game/ArcadeClassic/Blueprints/Framework/TopScores.TopScores
-[2024.02.14-14.11.08:003][193]LogSlate: Window 'Pick Parent Class' being destroyed
-[2024.02.14-14.11.08:010][193]LogContentBrowser: Deferred new asset file creation: NewBlueprint
-[2024.02.14-14.11.08:018][193]LogContentBrowser: Creating deferred item: NewBlueprint
-[2024.02.14-14.11.16:394][195]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SaveGame
-[2024.02.14-14.11.16:398][195]LogContentBrowser: End creating deferred item NewBlueprint
-[2024.02.14-14.11.38:492][891]LogContentBrowser: Attempting asset rename: BP_SaveGame -> BP_TopScores
-[2024.02.14-14.11.38:507][891]LogMetaData: Removing '/Game/ArcadeClassic/Blueprints/Framework/BP_TopScores.SKEL_BP_TopScores_C' ref from Metadata '/Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.PackageMetaData'
-[2024.02.14-14.11.38:507][891]LogMetaData: Removing '/Game/ArcadeClassic/Blueprints/Framework/BP_TopScores.BP_TopScores_C' ref from Metadata '/Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.PackageMetaData'
-[2024.02.14-14.11.38:546][891]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_TopScoresB69DE1E24D4D81BE1458A8A375567724.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_TopScores.uasset'
-[2024.02.14-14.11.38:614][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
-[2024.02.14-14.11.38:626][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
-[2024.02.14-14.11.38:629][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
-[2024.02.14-14.11.38:648][891]AssetCheck: New page: Asset Save: BP_TopScores
-[2024.02.14-14.11.38:648][891]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_TopScores.BP_TopScores
-[2024.02.14-14.11.40:275][ 83]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_TopScores.BP_TopScores
-[2024.02.14-14.11.41:313][ 83]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
-[2024.02.14-14.11.42:461][ 83]LogSlate: Took 0.043759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2024.02.14-14.12.42:304][510]BlueprintLog: New page: Compile BP_TopScores
-[2024.02.14-14.12.42:324][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
-[2024.02.14-14.12.42:360][510]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_TopScores7A1EB68347F3C4FAFEB20FBB8C59250A.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_TopScores.uasset'
-[2024.02.14-14.12.42:371][510]AssetCheck: New page: Asset Save: BP_TopScores
-[2024.02.14-14.12.42:371][510]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_TopScores.BP_TopScores
-[2024.02.14-14.12.59:721][249]BlueprintLog: New page: Compile BP_TopScores
-[2024.02.14-14.12.59:721][249]LogClass: Warning: Type mismatch in TopScores_Save of BP_TopScores_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
-[2024.02.14-14.12.59:740][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
-[2024.02.14-14.12.59:762][249]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_TopScores0BF50D8B4AA9C71A1580A58C2A4F51FF.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_TopScores.uasset'
-[2024.02.14-14.12.59:774][249]AssetCheck: New page: Asset Save: BP_TopScores
-[2024.02.14-14.12.59:774][249]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_TopScores.BP_TopScores
-[2024.02.14-14.14.36:175][808]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
-[2024.02.14-14.14.36:175][808]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
-[2024.02.14-14.14.36:296][808]LogPackageName: SearchForPackageOnDisk took   0.120s, but failed to resolve FX_Meshes.
-[2024.02.14-14.14.36:296][808]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
-[2024.02.14-14.14.37:317][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.14.37:797][809]LogSlate: Took 0.044370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2024.02.14-14.17.34:580][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
-[2024.02.14-14.17.34:581][594]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.030
-[2024.02.14-14.17.34:591][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance] ([1] browsable assets)...
-[2024.02.14-14.17.34:591][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance]
-[2024.02.14-14.17.34:619][594]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance_Auto1674A52874DE4D873B5CFD18DA3845E84.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance_Auto1.uasset'
-[2024.02.14-14.17.34:620][594]LogFileHelpers: Auto-saving content packages took 0.039
-[2024.02.14-14.17.45:214][195]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.17.45:260][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
-[2024.02.14-14.17.45:316][195]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceBF7334C046DBD710AA2D569477D3006F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.17.45:333][195]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.17.45:333][195]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.18.17:724][233]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.18.17:743][233]LogClass: Warning: Type mismatch in TopScores_Inst of BP_GameInstance_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
-[2024.02.14-14.18.17:768][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
-[2024.02.14-14.18.17:836][233]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance445B6E494C37039988F26899529A8C43.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.18.17:848][233]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.18.17:848][233]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.22.02:409][585]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.22.02:458][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
-[2024.02.14-14.22.02:522][585]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance786D202D4A6B16DE8677DDA83D84B775.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.22.02:534][585]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.22.02:534][585]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.22.26:968][657]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.22.27:016][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
-[2024.02.14-14.22.27:071][657]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceE9AC2DE244F8BEFAAD09898002968DE2.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.22.27:083][657]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.22.27:083][657]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.22.46:167][592]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.22.46:214][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
-[2024.02.14-14.22.46:271][592]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance0B29AF0B4A812748521F9A9F7E955A89.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.22.46:282][592]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.22.46:283][592]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.29.16:163][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
-[2024.02.14-14.29.16:164][491]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.029
-[2024.02.14-14.29.16:164][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance] ([1] browsable assets)...
-[2024.02.14-14.29.16:164][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance]
-[2024.02.14-14.29.16:194][491]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance_Auto212EA68A6492CEBAEAF5606B75579EE6C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance_Auto2.uasset'
-[2024.02.14-14.29.16:196][491]LogFileHelpers: Auto-saving content packages took 0.032
-[2024.02.14-14.29.52:361][806]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.29.52:408][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
-[2024.02.14-14.29.52:479][806]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceBDD638054730EF8284A36BB4B6FA225F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.29.52:492][806]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.29.52:492][806]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.30.48:611][709]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.30.48:662][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
-[2024.02.14-14.30.48:728][709]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance46897F0A44001785CF972FBA74052D82.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.30.48:744][709]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.30.48:744][709]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.33.29:440][ 75]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.33.29:492][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
-[2024.02.14-14.33.29:563][ 75]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceA6C920DD4A7C6CBE496686BEBF63A0CA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.33.29:579][ 75]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.33.29:579][ 75]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.34.56:520][720]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.34.56:572][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
-[2024.02.14-14.34.56:648][720]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance2F475874472EE766C1364D9B1002A488.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.34.56:663][720]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.34.56:664][720]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.38.25:513][736]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.38.25:566][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
-[2024.02.14-14.38.25:642][736]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceCA558CB2480D4A4C9DD7048921816936.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.38.25:658][736]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.38.25:658][736]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.39.24:871][810]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.39.24:922][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
-[2024.02.14-14.39.24:985][810]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance6259ADD6439A275798FADA9E13246CA3.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.39.25:001][810]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.39.25:001][810]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.42.33:454][570]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2024.02.14-14.45.09:585][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
-[2024.02.14-14.45.09:586][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.027
-[2024.02.14-14.45.09:586][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance] ([1] browsable assets)...
-[2024.02.14-14.45.09:586][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance]
-[2024.02.14-14.45.09:624][611]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance_Auto3A030FACB4A68228E6CA4B98295B2B828.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance_Auto3.uasset'
-[2024.02.14-14.45.09:625][611]LogFileHelpers: Auto-saving content packages took 0.039
-[2024.02.14-14.46.41:898][604]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.46.41:949][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
-[2024.02.14-14.46.42:025][604]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance695CA5DA41104146EFABCC8CC94CD5F2.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.46.42:039][604]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.46.42:039][604]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.49.14:425][438]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.49.14:478][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
-[2024.02.14-14.49.14:562][438]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance348BF7434574D37F534094BDAC16AC4C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.49.14:578][438]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.49.14:578][438]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.50.34:024][223]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.50.34:078][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
-[2024.02.14-14.50.34:166][223]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance5D7CC9964187B6CA904C309D82613ECF.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.50.34:181][223]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.50.34:181][223]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.56.21:667][113]BlueprintLog: New page: Compile BP_GameInstance
-[2024.02.14-14.56.21:724][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
-[2024.02.14-14.56.21:804][113]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance7C5BF0114DE3AA3B21D320A6E803A2B7.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
-[2024.02.14-14.56.21:817][113]AssetCheck: New page: Asset Save: BP_GameInstance
-[2024.02.14-14.56.21:817][113]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
-[2024.02.14-14.57.25:780][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
-[2024.02.14-14.57.39:320][480]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
-[2024.02.14-14.57.39:332][480]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
-[2024.02.14-14.58.06:139][622]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
-[2024.02.14-14.58.06:375][622]LogContentBrowser: End creating deferred item NewWidgetBlueprint
-[2024.02.14-14.58.11:613][241]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> TopScores_Line
-[2024.02.14-14.58.11:638][241]LogMetaData: Removing '/Game/ArcadeClassic/UMG/TopScores_Line.SKEL_TopScores_Line_C' ref from Metadata '/Game/ArcadeClassic/UMG/NewWidgetBlueprint.PackageMetaData'
-[2024.02.14-14.58.11:639][241]LogMetaData: Removing '/Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line_C' ref from Metadata '/Game/ArcadeClassic/UMG/NewWidgetBlueprint.PackageMetaData'
-[2024.02.14-14.58.11:639][241]LogMetaData: Removing '/Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ArcadeClassic/UMG/NewWidgetBlueprint.PackageMetaData'
-[2024.02.14-14.58.11:639][241]LogMetaData: Removing '/Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ArcadeClassic/UMG/NewWidgetBlueprint.PackageMetaData'
-[2024.02.14-14.58.11:639][241]LogMetaData: Removing '/Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ArcadeClassic/UMG/NewWidgetBlueprint.PackageMetaData'
-[2024.02.14-14.58.11:655][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores_Line" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset" SILENT=true
-[2024.02.14-14.58.11:658][241]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_LineF3937BAF47E374E7A76E2993A594358D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset'
-[2024.02.14-14.58.11:743][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
-[2024.02.14-14.58.11:773][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
-[2024.02.14-14.58.11:793][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
-[2024.02.14-14.58.11:819][241]AssetCheck: New page: Asset Save: TopScores_Line
-[2024.02.14-14.58.11:819][241]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-14.58.13:157][393]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-14.58.45:807][952]LogSlate: Took 0.058621 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
-[2024.02.14-14.59.20:039][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
-[2024.02.14-14.59.20:040][429]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.112
-[2024.02.14-14.59.20:040][429]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/TopScores_Line] ([1] browsable assets)...
-[2024.02.14-14.59.20:040][429]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/TopScores_Line]
-[2024.02.14-14.59.20:044][429]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_Line_Auto4B1A261F045A6128A8CA08A89B3869A9A.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/TopScores_Line_Auto4.uasset'
-[2024.02.14-14.59.20:055][429]LogFileHelpers: Auto-saving content packages took 0.015
-[2024.02.14-15.01.10:501][439]LogSlate: Last resort fallback font was requested. Font: '/Game/ArcadeClassic/Fonts/ARCADE.ARCADE', Character: '_ (U+005f)'
-[2024.02.14-15.01.10:563][439]LogSlate: Took 0.060686 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
-[2024.02.14-15.04.48:863][704]BlueprintLog: New page: Compile TopScores_Line
-[2024.02.14-15.04.48:900][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
-[2024.02.14-15.04.48:963][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores_Line" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset" SILENT=true
-[2024.02.14-15.04.48:968][704]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_LineF70323FB41D460027D950D88FAC51824.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset'
-[2024.02.14-15.04.48:986][704]AssetCheck: New page: Asset Save: TopScores_Line
-[2024.02.14-15.04.48:986][704]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-15.04.57:855][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
-[2024.02.14-15.52.44:105][125]LogSlate: Took 0.020690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2024.02.14-15.52.51:202][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
-[2024.02.14-15.52.51:204][410]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.034
-[2024.02.14-15.52.51:204][410]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/TopScores_Line] ([1] browsable assets)...
-[2024.02.14-15.52.51:204][410]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/TopScores_Line]
-[2024.02.14-15.52.51:209][410]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_Line_Auto55A097263424A3A7DA8BD20B09BA4787A.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/TopScores_Line_Auto5.uasset'
-[2024.02.14-15.52.51:210][410]LogFileHelpers: Auto-saving content packages took 0.006
-[2024.02.14-15.54.01:933][447]BlueprintLog: New page: Compile TopScores_Line
-[2024.02.14-15.54.01:966][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
-[2024.02.14-15.54.01:998][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores_Line" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset" SILENT=true
-[2024.02.14-15.54.02:003][447]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_LineCA249E6748A84EDF208686926EAF7722.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset'
-[2024.02.14-15.54.02:015][447]AssetCheck: New page: Asset Save: TopScores_Line
-[2024.02.14-15.54.02:016][447]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-15.54.18:736][697]BlueprintLog: New page: Compile TopScores_Line
-[2024.02.14-15.54.18:780][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
-[2024.02.14-15.54.18:797][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores_Line" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset" SILENT=true
-[2024.02.14-15.54.18:802][697]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_Line733D87804DF2530DEC477B81C126F6B9.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset'
-[2024.02.14-15.54.18:814][697]AssetCheck: New page: Asset Save: TopScores_Line
-[2024.02.14-15.54.18:814][697]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-15.54.35:352][207]BlueprintLog: New page: Compile TopScores_Line
-[2024.02.14-15.54.35:396][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
-[2024.02.14-15.54.35:416][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores_Line" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset" SILENT=true
-[2024.02.14-15.54.35:421][207]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_LineA6A8034E4B2ABC048B8A49A746F0396B.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset'
-[2024.02.14-15.54.35:435][207]AssetCheck: New page: Asset Save: TopScores_Line
-[2024.02.14-15.54.35:435][207]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-15.54.39:816][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores_Line" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset" SILENT=true
-[2024.02.14-15.54.39:821][697]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_LineD9B610F24814674C64329B99F02999AA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset'
-[2024.02.14-15.54.39:834][697]AssetCheck: New page: Asset Save: TopScores_Line
-[2024.02.14-15.54.39:835][697]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-15.54.41:818][855]BlueprintLog: New page: Compile TopScores_Line
-[2024.02.14-15.54.41:862][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
-[2024.02.14-16.03.08:455][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
-[2024.02.14-16.03.08:457][129]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.034
-[2024.02.14-16.03.08:457][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/TopScores_Line] ([1] browsable assets)...
-[2024.02.14-16.03.08:457][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/TopScores_Line]
-[2024.02.14-16.03.08:470][129]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_Line_Auto6A1E05CD9416451BE753B639D5966726D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/TopScores_Line_Auto6.uasset'
-[2024.02.14-16.03.08:471][129]LogFileHelpers: Auto-saving content packages took 0.014
-[2024.02.14-16.08.34:426][871]BlueprintLog: New page: Compile TopScores_Line
-[2024.02.14-16.08.34:475][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
-[2024.02.14-16.08.34:503][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores_Line" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset" SILENT=true
-[2024.02.14-16.08.34:517][871]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_Line933066E4486387E4DFDBB8971F277A1C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores_Line.uasset'
-[2024.02.14-16.08.34:531][871]AssetCheck: New page: Asset Save: TopScores_Line
-[2024.02.14-16.08.34:531][871]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
-[2024.02.14-16.11.35:211][172]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
-[2024.02.14-16.11.35:261][172]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
-[2024.02.14-16.11.37:831][480]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> TopScores
-[2024.02.14-16.11.37:834][480]LogContentBrowser: End creating deferred item NewWidgetBlueprint
-[2024.02.14-16.11.40:522][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
-[2024.02.14-16.11.41:734][791]LogSlate: Window 'Save Content' being destroyed
-[2024.02.14-16.11.41:755][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset" SILENT=true
-[2024.02.14-16.11.41:758][791]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores66D78AE7412209086DD3E4A2FBBC6332.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset'
-[2024.02.14-16.11.41:772][791]AssetCheck: New page: Asset Save: TopScores
-[2024.02.14-16.11.41:772][791]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
-[2024.02.14-16.11.45:722][942]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
-[2024.02.14-16.13.29:048][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
-[2024.02.14-16.13.29:049][419]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.039
-[2024.02.14-16.13.29:049][419]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/TopScores] ([1] browsable assets)...
-[2024.02.14-16.13.29:049][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/TopScores]
-[2024.02.14-16.13.29:053][419]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_Auto723A76A7F48FBAA21306C3A98F294C5AA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/TopScores_Auto7.uasset'
-[2024.02.14-16.13.29:054][419]LogFileHelpers: Auto-saving content packages took 0.005
-[2024.02.14-16.15.54:563][664]LogSlate: Window 'Color Picker' being destroyed
-[2024.02.14-16.17.28:405][912]LogEditorTransaction: Undo Edit Y
-[2024.02.14-16.17.28:841][916]Cmd: TRANSACTION UNDO
-[2024.02.14-16.17.28:841][916]LogEditorTransaction: Undo Edit X
-[2024.02.14-16.19.07:208][675]LogSlate: Window 'Color Picker' being destroyed
-[2024.02.14-16.23.49:451][124]BlueprintLog: New page: Compile TopScores
-[2024.02.14-16.23.49:492][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
-[2024.02.14-16.23.49:547][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset" SILENT=true
-[2024.02.14-16.23.49:552][124]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores6D08CE004DC35B0D3E8CF8BE608577D8.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset'
-[2024.02.14-16.23.49:572][124]AssetCheck: New page: Asset Save: TopScores
-[2024.02.14-16.23.49:572][124]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
-[2024.02.14-16.23.51:304][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
-[2024.02.14-16.29.00:462][559]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
-[2024.02.14-16.29.00:510][559]LogSlate: The tab "SequencerGraphEditor" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
-[2024.02.14-16.29.02:459][759]LogSlate: Window 'Sequencer Curves' being destroyed
-[2024.02.14-16.29.02:465][759]LogSlate: Window 'Sequencer Curves' being destroyed
-[2024.02.14-16.29.03:556][842]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
-[2024.02.14-16.29.03:557][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/MainMenu' took 0.039
-[2024.02.14-16.29.03:558][842]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/TopScores] ([1] browsable assets)...
-[2024.02.14-16.29.03:558][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/TopScores]
-[2024.02.14-16.29.03:566][842]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores_Auto8FF7FA32D4490A114A5C8FE964D1F48E8.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/TopScores_Auto8.uasset'
-[2024.02.14-16.29.03:567][842]LogFileHelpers: Auto-saving content packages took 0.010
-[2024.02.14-16.33.07:205][692]BlueprintLog: New page: Compile TopScores
-[2024.02.14-16.33.07:246][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
-[2024.02.14-16.33.07:332][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset" SILENT=true
-[2024.02.14-16.33.07:342][692]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScoresF34D8B4B40120595BCEFB38E8D9C4F8E.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset'
-[2024.02.14-16.33.07:364][692]AssetCheck: New page: Asset Save: TopScores
-[2024.02.14-16.33.07:364][692]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
-[2024.02.14-16.34.46:898][697]BlueprintLog: New page: Compile TopScores
-[2024.02.14-16.34.46:953][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
-[2024.02.14-16.34.47:050][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset" SILENT=true
-[2024.02.14-16.34.47:061][697]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores85535BF24EFF97BCB4D1E9B41F17E3B1.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset'
-[2024.02.14-16.34.47:083][697]AssetCheck: New page: Asset Save: TopScores
-[2024.02.14-16.34.47:083][697]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
-[2024.02.14-16.35.12:882][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset" SILENT=true
-[2024.02.14-16.35.12:893][306]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores71FB57DB4F13AEA30C4DA4B02B908FF6.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset'
-[2024.02.14-16.35.12:907][306]AssetCheck: New page: Asset Save: TopScores
-[2024.02.14-16.35.12:907][306]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
+[2024.02.15-02.35.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.02.15-02.35.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
+[2024.02.15-02.35.24:056][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
+[2024.02.15-02.35.24:061][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.15-02.35.24:061][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:061][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.15-02.35.24:062][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.15-02.35.24:062][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.02.15-02.35.24:062][  0]LogHAL: Display: Platform has ~ 64 GB [68536352768 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.02.15-02.35.24:062][  0]LogInit: Going up to parent DeviceProfile []
+[2024.02.15-02.35.24:062][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.15-02.35.24:062][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:062][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Scalability.ini]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.02.15-02.35.24:063][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Engine.ini]
+[2024.02.15-02.35.24:063][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Config/Windows/Editor.ini]
+[2024.02.15-02.35.24:063][  0]LogInit: Computer: DESKTOP-VO9IIHQ
+[2024.02.15-02.35.24:063][  0]LogInit: User: Adrian
+[2024.02.15-02.35.24:063][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.02.15-02.35.24:063][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.02.15-02.35.24:063][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
+[2024.02.15-02.35.24:063][  0]LogMemory: Platform Memory Stats for Windows
+[2024.02.15-02.35.24:063][  0]LogMemory: Process Physical Memory: 144.54 MB used, 148.00 MB peak
+[2024.02.15-02.35.24:063][  0]LogMemory: Process Virtual Memory: 132.44 MB used, 132.44 MB peak
+[2024.02.15-02.35.24:063][  0]LogMemory: Physical Memory: 16331.60 MB used,  49029.76 MB free, 65361.36 MB total
+[2024.02.15-02.35.24:063][  0]LogMemory: Virtual Memory: 134163624.00 MB used,  54101.54 MB free, 134217728.00 MB total
+[2024.02.15-02.35.24:069][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.02.15-02.35.24:113][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.02.15-02.35.24:114][  0]LogInit: Overriding language with editor language configuration option (en).
+[2024.02.15-02.35.24:114][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2024.02.15-02.35.24:301][  0]LogInit: Setting process to per monitor DPI aware
+[2024.02.15-02.35.24:316][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.02.15-02.35.24:331][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.02.15-02.35.24:331][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.02.15-02.35.24:441][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.15-02.35.24:441][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.02.15-02.35.24:441][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.02.15-02.35.24:441][  0]LogD3D11RHI: D3D11 adapters:
+[2024.02.15-02.35.24:566][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2024.02.15-02.35.24:567][  0]LogD3D11RHI:       8024/0/32680 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.02.15-02.35.24:569][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.02.15-02.35.24:569][  0]LogD3D11RHI:       0/0/32680 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.02.15-02.35.24:569][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.02.15-02.35.24:578][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.02.15-02.35.24:579][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2024.02.15-02.35.24:579][  0]LogWindows: EnumDisplayDevices:
+[2024.02.15-02.35.24:579][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2024.02.15-02.35.24:579][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2024.02.15-02.35.24:579][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2024.02.15-02.35.24:579][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2024.02.15-02.35.24:579][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.02.15-02.35.24:579][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2024.02.15-02.35.24:579][  0]LogD3D11RHI:   Driver Version: 551.52 (internal:31.0.15.5152, unified:551.52)
+[2024.02.15-02.35.24:579][  0]LogD3D11RHI:      Driver Date: 2-7-2024
+[2024.02.15-02.35.24:579][  0]LogRHI: Texture pool is 5616 MB (70% of 8024 MB)
+[2024.02.15-02.35.24:679][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.02.15-02.35.24:679][  0]LogD3D11RHI: Async texture creation enabled
+[2024.02.15-02.35.24:679][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.02.15-02.35.24:694][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.02.15-02.35.24:696][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.02.15-02.35.24:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.02.15-02.35.24:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.02.15-02.35.25:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.02.15-02.35.25:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.02.15-02.35.25:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.02.15-02.35.25:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.02.15-02.35.25:035][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.02.15-02.35.25:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.02.15-02.35.25:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.02.15-02.35.25:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.02.15-02.35.25:069][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.02.15-02.35.25:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.02.15-02.35.25:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.02.15-02.35.25:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.02.15-02.35.25:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.02.15-02.35.25:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.02.15-02.35.25:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.02.15-02.35.25:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.02.15-02.35.25:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.02.15-02.35.25:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.02.15-02.35.25:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.02.15-02.35.25:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.02.15-02.35.25:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.02.15-02.35.25:173][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.02.15-02.35.25:180][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.02.15-02.35.25:239][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.02.15-02.35.25:239][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Intermediate/Shaders/WorkingDirectory/30288/).
+[2024.02.15-02.35.25:239][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Adrian/AppData/Local/Temp/UnrealShaderWorkingDir/A3F389034C3166925DDA9C96979FAFC3/'.
+[2024.02.15-02.35.25:239][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.02.15-02.35.25:239][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.02.15-02.35.25:831][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.02.15-02.35.25:876][  0]LogDerivedDataCache: Loaded boot cache 0.04s 81MB C:/Users/Adrian/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.15-02.35.25:876][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Adrian/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2024.02.15-02.35.25:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.02.15-02.35.25:877][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.02.15-02.35.25:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.15-02.35.25:877][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.02.15-02.35.25:888][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.02.15-02.35.25:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.02.15-02.35.25:888][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.02.15-02.35.25:897][  0]LogDerivedDataCache: Speed tests for C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.02.15-02.35.25:897][  0]LogDerivedDataCache: Display: Performance to C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1403.09MBs, RandomWriteSpeed=128.68MBs. Assigned SpeedClass 'Local'
+[2024.02.15-02.35.25:898][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Adrian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.02.15-02.35.25:898][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.02.15-02.35.25:898][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.02.15-02.35.25:940][  0]LogSlate: Using FreeType 2.10.0
+[2024.02.15-02.35.25:940][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.02.15-02.35.25:961][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2024.02.15-02.35.26:171][  0]LogInit: Selected Device Profile: [Windows]
+[2024.02.15-02.35.26:171][  0]LogInit: Active device profile: [000001BA9BE8F800][000001BA9A49B600 49] Windows
+[2024.02.15-02.35.26:171][  0]LogInit: Profiles: [000001BA9BE8F800][000001BA9A49B600 49] Windows, [000001BA9BE94900][000001BA9A497740 49] WindowsNoEditor, [000001BA9BE8C900][000001BA9A49F880 49] WindowsServer, [000001BA9BE97200][000001BA9A4A39C0 49] WindowsClient, [000001BA9BE8F000][000001BA9A4ABB40 49] IOS, [000001BA9BE95200][000001BA9A4AFCC0 49] iPadAir, [000001BA9BE8D100][000001BA9A4B2180 49] iPadAir2, [000001BA9BE60C00][000001BA9A4BA440 49] IPadPro, [000001BA9BE60D00][000001BA9A4B6480 49] iPadAir3, [000001BA9BE8EB00][000001BA9A4BE600 49] iPadAir4, [000001BA9BE63D00][000001BA9A4C2780 49] iPadMini2, [000001BA9BE8D500][000001BA9A4C6900 49] iPadMini3, [000001BA9BE62000][000001BA9A4CAA80 49] iPadMini4, [000001BA9BE8FB00][000001BA9C676C00 49] iPadMini5, [000001BA9BE94C00][000001BA9C67EEC0 49] iPhone6, [000001BA9BE97F00][000001BA9C67AF00 49] iPodTouch6, [000001BA9BE62600][000001BA9C6871C0 49] iPhone7, [000001BA9BE63C00][000001BA9C683200 49] iPodTouch7, [000001BA9BE96200][000001BA9C68B380 49] iPhone5S, [000001BA9BE62D00][000001BA9C68F500 49] iPhone6Plus, [000001BA9BE96600][000001BA9A4A7640 49] iPhone6S, [000001BA9BE63300][000001BA9C693780 49] iPhone6SPlus, [000001BA9BE94200][000001BA9C6978C0 49] iPhone7Plus, [000001BA9BE61700][000001BA9C69BA00 49] iPhoneSE, [000001BA9BE95B00][000001BA9C6A3B80 49] iPhone8, [000001BA9BE61A00][000001BA9C6A7D00 49] iPhone8Plus, [000001BA9BE97000][000001BA9C6AA1C0 49] iPhoneX, [000001BA9BE60300][000001BA9C6AE340 49] iPhoneXS, [000001BA9BE95000][000001BA9C6B24C0 49] iPhoneXSMax, [000001BA9BE60B00][000001BA9C6B6640 49] iPhoneXR, [000001BA9BE95F00][000001BA9C6BA7C0 49] iPhone11, [000001BA9BE62500][000001BA9C6BE940 49] iPhone11Pro, [000001BA9BE95500][000001BA9C6C2AC0 49] iPhone11ProMax, [000001BA9BE61600][000001BA9C6C6C40 49] iPhoneSE2, [000001BA9BE97400][000001BA9C6CADC0 49] iPhone12Mini, [000001BA9BE60500][000001BA9C6CEF40 49] iPhone12, [000001BA9BE94600][000001BA9C6D30C0 49] iPhone12Pro, [000001BA9BE61E00][000001BA9C6D7240 49] iPhone12ProMax, [000001BA9BE96400][000001BA9C6DB3C0 49] iPadPro105, [000001BA9BE62A00][000001BA9C6DF540 49] iPadPro129, [000001BA9BE94F00][000001BA9C6E36C0 49] iPadPro97, [000001BA9BE61D00][000001BA9C69F800 49] iPadPro2_129, [000001BA9BE95300][000001BA9C6E7940 49] iPad5, [000001BA9BE62F00][000001BA9C6EBA80 49] iPad6, [000001BA9BE94A00][000001BA9C6F3C00 49] iPad7, [000001BA9BE63E00][000001BA9C6F60C0 49] iPad8, [000001BA9BE95A00][000001BA9C6FA240 49] iPadPro11, [000001BA9BE62200][000001BA9C6FE3C0 49] iPadPro2_11, [000001BA9BE97B00][000001BA9C702540 49] iPadPro3_129, [000001BA9BE60400][000001BA9C7066C0 49] iPadPro4_129, [000001BA9BE94B00][000001BA9C70A840 49] AppleTV, [000001BA9BE62400][000001BA9C70E9C0 49] AppleTV4K, [000001BA9BE95700][000001BA9C712B40 49] TVOS, [000001BA9BE63400][000001BA9C716CC0 49] Mac, [000001BA9BE95C00][000001BA9C71AE40 49] MacClient, [000001BA9BE61000][000001BA9C71EFC0 49] MacNoEditor, [000001BA9BE96D00][000001BA9C723140 49] MacServer, [000001BA9BE62B00][000001BA9C7272C0 49] Linux, [000001BA9BE96E00][000001BA9C72B440 49] LinuxAArch64, [000001BA9BE61200][000001BA9C72F5C0 49] LinuxNoEditor, [000001BA9BE94300][000001BA9C733740 49] LinuxAArch64NoEditor, [000001BA9BE8DB00][000001BA9C6EF880 49] LinuxClient, [000001BA9BF19700][000001BA9C7719C0 49] LinuxAArch64Client, [000001BA9BE8FA00][000001BA9C775B00 49] LinuxServer, [000001BA9BF18600][000001BA9C781C40 49] LinuxAArch64Server, [000001BA9BE8E400][000001BA9C7A8100 49] Android, [000001BA9BF19900][000001BA9C7AC280 49] Android_Low, [000001BA9BE8D900][000001BA9C7B0400 49] Android_Mid, [000001BA9BF19B00][000001BA9C7B4580 49] Android_High, [000001BA9BE8DD00][000001BA9C7BC700 49] Android_Default, [000001BA9BF18500][000001BA9C7C0880 49] Android_Adreno4xx, [000001BA9BE8D400][000001BA9C7C4A00 49] Android_Adreno5xx_Low, [000001BA9BF19000][000001BA9C7C8B80 49] Android_Adreno5xx, [000001BA9BE8D200][000001BA9C7CCD00 49] Android_Adreno6xx, [000001BA9BF19200][000001BA9C7D4E80 49] Android_Adreno6xx_Vulkan, [000001BA9BE8F200][000001BA9C7D9000 49] Android_Mali_T6xx, [000001BA9BF19A00][000001BA9C7E5180 49] Android_Mali_T7xx, [000001BA9BE8F600][000001BA9C7E9300 49] Android_Mali_T8xx, [000001BA9BF18700][000001BA9C7F9480 49] Android_Mali_G71, [000001BA9BE94D00][000001BA9C7FD600 49] Android_Mali_G72, [000001BA9BE63800][000001BA9C801780 49] Android_Mali_G72_Vulkan, [000001BA9BE96800][000001BA9C7A58C0 49] Android_Mali_G76, [000001BA9BE63B00][000001BA9C805A00 49] Android_Mali_G76_Vulkan, [000001BA9BE97C00][000001BA9C809B40 49] Android_Mali_G77, [000001BA9BE63200][000001BA9C80DC80 49] Android_Mali_G77_Vulkan, [000001BA9BE97E00][000001BA9C814140 49] Android_Vulkan_SM5, [000001BA9BE62100][000001BA9C8182C0 49] Android_PowerVR_G6xxx, [000001BA9BE94400][000001BA9C81C440 49] Android_PowerVR_GT7xxx, [000001BA9BE62300][000001BA9C8205C0 49] Android_PowerVR_GE8xxx, [000001BA9BE94E00][000001BA9C824740 49] Android_PowerVR_GM9xxx, [000001BA9BE63A00][000001BA9C8288C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001BA9BE96700][000001BA9C82CA40 49] Android_TegraK1, [000001BA9BF19300][000001BA9C850BC0 49] Android_Unknown_Vulkan, [000001BA9BE95600][000001BA9C854D40 49] Lumin, [000001BA9BF18900][000001BA9C858EC0 49] Lumin_Desktop, [000001BA9BE96300][000001BA9C85D040 49] HoloLens, 
+[2024.02.15-02.35.26:264][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.02.15-02.35.26:264][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.02.15-02.35.26:264][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.02.15-02.35.26:264][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.02.15-02.35.26:264][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.02.15-02.35.26:279][  0]LogNetVersion: Pacman 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2983978851)
+[2024.02.15-02.35.26:656][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.02.15-02.35.26:714][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.057862 seconds
+[2024.02.15-02.35.26:720][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2024.02.15-02.35.26:720][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2024.02.15-02.35.26:720][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.02.15-02.35.27:095][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.02.15-02.35.27:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.02.15-02.35.27:187][  0]SourceControl: Source control is disabled
+[2024.02.15-02.35.27:187][  0]SourceControl: Source control is disabled
+[2024.02.15-02.35.27:190][  0]SourceControl: Source control is disabled
+[2024.02.15-02.35.27:193][  0]SourceControl: Source control is disabled
+[2024.02.15-02.35.27:198][  0]SourceControl: Source control is disabled
+[2024.02.15-02.35.27:206][  0]LogUProjectInfo: Found projects:
+[2024.02.15-02.35.27:444][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.02.15-02.35.27:457][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.15-02.35.27:457][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.02.15-02.35.27:517][  0]LogCollectionManager: Loaded 0 collections in 0.000604 seconds
+[2024.02.15-02.35.27:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Collections/' took 0.00s
+[2024.02.15-02.35.27:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/Developers/Adrian/Collections/' took 0.00s
+[2024.02.15-02.35.27:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/Collections/' took 0.00s
+[2024.02.15-02.35.27:539][  0]LogOcInput: OculusInput pre-init called
+[2024.02.15-02.35.27:724][  0]LogEngine: Initializing Engine...
+[2024.02.15-02.35.27:725][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.02.15-02.35.27:725][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.02.15-02.35.27:726][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.02.15-02.35.27:824][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.02.15-02.35.27:831][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.02.15-02.35.27:836][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.02.15-02.35.27:840][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.02.15-02.35.27:840][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.02.15-02.35.27:840][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-02.35.27:840][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-02.35.27:840][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-02.35.27:840][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-02.35.27:840][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-02.35.27:840][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-02.35.27:840][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-02.35.27:840][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-02.35.27:841][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.15-02.35.27:841][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.15-02.35.27:853][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.15-02.35.27:853][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.02.15-02.35.27:905][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.15-02.35.27:907][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-02.35.27:909][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-02.35.27:909][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-02.35.27:910][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.15-02.35.27:910][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.15-02.35.27:910][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.15-02.35.27:912][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.15-02.35.27:912][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.15-02.35.27:912][  0]LogInit: FAudioDevice initialized.
+[2024.02.15-02.35.27:912][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.02.15-02.35.27:912][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.02.15-02.35.27:970][  0]LogDerivedDataCache: Saved boot cache 0.06s 81MB C:/Users/Adrian/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.02.15-02.35.27:970][  0]LogInit: Texture streaming: Enabled
+[2024.02.15-02.35.27:983][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2024.02.15-02.35.27:987][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.02.15-02.35.27:987][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={78A3AF84-4CCE-BE07-66B9-29B533BD05C8}
+[2024.02.15-02.35.27:987][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.02.15-02.35.27:988][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.02.15-02.35.28:021][  0]LogInit: Transaction tracking system initialized
+[2024.02.15-02.35.28:043][  0]BlueprintLog: New page: Editor Load
+[2024.02.15-02.35.28:116][  0]LocalizationService: Localization service is disabled
+[2024.02.15-02.35.28:141][  0]TimingProfiler: Initialize
+[2024.02.15-02.35.28:141][  0]TimingProfiler: OnSessionChanged
+[2024.02.15-02.35.28:141][  0]LoadingProfiler: Initialize
+[2024.02.15-02.35.28:141][  0]LoadingProfiler: OnSessionChanged
+[2024.02.15-02.35.28:141][  0]NetworkingProfiler: Initialize
+[2024.02.15-02.35.28:141][  0]NetworkingProfiler: OnSessionChanged
+[2024.02.15-02.35.28:141][  0]MemoryProfiler: Initialize
+[2024.02.15-02.35.28:141][  0]MemoryProfiler: OnSessionChanged
+[2024.02.15-02.35.28:269][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.02.15-02.35.28:269][  0]LogCook: Display: Mobile HDR setting 1
+[2024.02.15-02.35.28:421][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/' took 0.03s
+[2024.02.15-02.35.28:542][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.02.15-02.35.28:545][  0]SourceControl: Source control is disabled
+[2024.02.15-02.35.28:545][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.858
+[2024.02.15-02.35.28:545][  0]Cmd: MAP LOAD FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.15-02.35.28:545][  0]LightingResults: New page: Lighting Build
+[2024.02.15-02.35.28:546][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.35.28:546][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.35.28:546][  0]MapCheck: New page: Map Check
+[2024.02.15-02.35.28:546][  0]LightingResults: New page: Lighting Build
+[2024.02.15-02.35.28:552][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.15-02.35.28:591][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.02.15-02.35.28:592][  0]LogAIModule: Creating AISystem for world MainMenu
+[2024.02.15-02.35.28:593][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.15-02.35.28:597][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.15-02.35.28:598][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.15-02.35.28:598][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2024.02.15-02.35.28:598][  0]LogFileHelpers: Loading map 'MainMenu' took 0.053
+[2024.02.15-02.35.28:600][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.913
+[2024.02.15-02.35.28:723][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-02.35.28:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-02.35.28:734][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-02.35.28:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-02.35.28:753][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3601 classes and 859 folders.
+[2024.02.15-02.35.28:757][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.02.15-02.35.28:758][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.15-02.35.28:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.15-02.35.28:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2024.02.15-02.35.28:759][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.15-02.35.28:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.15-02.35.28:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2024.02.15-02.35.28:759][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.02.15-02.35.28:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.02.15-02.35.28:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2024.02.15-02.35.28:760][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.15-02.35.28:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.15-02.35.28:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2024.02.15-02.35.28:760][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.15-02.35.28:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.15-02.35.28:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2024.02.15-02.35.28:761][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.15-02.35.28:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.15-02.35.28:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2024.02.15-02.35.28:761][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.15-02.35.28:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.15-02.35.28:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.15-02.35.28:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.15-02.35.28:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:762][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.02.15-02.35.28:762][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.02.15-02.35.28:764][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.02.15-02.35.28:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.02.15-02.35.28:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2024.02.15-02.35.28:764][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.15-02.35.28:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.15-02.35.28:764][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2024.02.15-02.35.28:765][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.15-02.35.28:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.15-02.35.28:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.02.15-02.35.28:765][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.15-02.35.28:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.15-02.35.28:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2024.02.15-02.35.28:766][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.02.15-02.35.28:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.02.15-02.35.28:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.02.15-02.35.28:767][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.15-02.35.28:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.15-02.35.28:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2024.02.15-02.35.28:768][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.02.15-02.35.28:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.02.15-02.35.28:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2024.02.15-02.35.28:769][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.15-02.35.28:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.15-02.35.28:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2024.02.15-02.35.28:769][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.15-02.35.28:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.15-02.35.28:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2024.02.15-02.35.28:770][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.15-02.35.28:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.15-02.35.28:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2024.02.15-02.35.28:770][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.02.15-02.35.28:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.02.15-02.35.28:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.02.15-02.35.28:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.02.15-02.35.28:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.02.15-02.35.28:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2024.02.15-02.35.28:773][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.02.15-02.35.28:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.02.15-02.35.28:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2024.02.15-02.35.28:773][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.02.15-02.35.28:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.02.15-02.35.28:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.02.15-02.35.28:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2024.02.15-02.35.28:814][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.02.15-02.35.28:820][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2024.02.15-02.35.28:896][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.15-02.35.28:899][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.02.15-02.35.28:902][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.02.15-02.35.28:976][  0]LogRenderer: Reallocating scene render targets to support 972x624 Format 10 NumSamples 1 (Frame:1).
+[2024.02.15-02.35.29:331][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.15-02.35.29:400][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.02.15-02.35.29:400][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2024.02.15-02.35.29:400][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2024.02.15-02.35.29:400][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.02.15-02.35.29:400][  0]LogLoad: (Engine Initialization) Total time: 6.71 seconds
+[2024.02.15-02.35.29:400][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.02.15-02.35.29:400][  0]LogInit: First time updating LLM stats...
+[2024.02.15-02.35.29:447][  0]LogAssetRegistry: Asset discovery search completed in 3.4869 seconds
+[2024.02.15-02.35.29:448][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.02.15-02.35.29:449][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.15-02.35.29:566][  5]LogEditorViewport: Clicking Background
+[2024.02.15-02.35.29:662][ 16]LogEditorViewport: Clicking Background
+[2024.02.15-02.35.30:419][106]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.15-02.35.46:672][  0]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores_Line.TopScores_Line
+[2024.02.15-02.35.46:780][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2024.02.15-02.35.47:761][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.15-02.35.54:938][708]LogSlate: Window 'TopScores_Line' being destroyed
+[2024.02.15-02.35.54:945][708]LogSlate: Window 'TopScores_Line' being destroyed
+[2024.02.15-02.35.54:947][708]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.35.54:947][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.35.54:957][708]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.35.54:957][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.35.56:321][858]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
+[2024.02.15-02.36.02:548][434]LogSlate: Window 'TopScores' being destroyed
+[2024.02.15-02.36.16:534][ 72]BlueprintLog: New page: Compile TopScores
+[2024.02.15-02.36.16:610][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.02.15-02.36.16:655][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/TopScores" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset" SILENT=true
+[2024.02.15-02.36.16:666][ 72]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/TopScores2F12E1494E1EE60195B21989524294EE.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/TopScores.uasset'
+[2024.02.15-02.36.16:686][ 72]AssetCheck: New page: Asset Save: TopScores
+[2024.02.15-02.36.16:686][ 72]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/TopScores.TopScores
+[2024.02.15-02.36.21:133][569]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.15-02.36.21:140][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.15-02.36.21:140][569]PIE: New page: PIE session: MainMenu (Feb 14, 2024, 2:36:21 PM)
+[2024.02.15-02.36.21:141][569]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.02.15-02.36.21:143][569]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.02.15-02.36.21:543][569]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2024.02.15-02.36.21:543][569]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2024.02.15-02.36.21:658][569]LogPackageName: SearchForPackageOnDisk took   0.115s, but failed to resolve FX_Meshes.
+[2024.02.15-02.36.21:658][569]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2024.02.15-02.36.21:841][569]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.15-02.36.21:842][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000939s)
+[2024.02.15-02.36.21:843][569]LogAIModule: Creating AISystem for world MainMenu
+[2024.02.15-02.36.21:843][569]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2024.02.15-02.36.21:843][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/MainMenu.MainMenu to /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu (0.002028s)
+[2024.02.15-02.36.21:891][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.02.15-02.36.21:892][569]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.15-02.36.21:892][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.15-02.36.21:892][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.15-02.36.21:892][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.15-02.36.21:892][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.15-02.36.21:892][569]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.15-02.36.21:892][569]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.15-02.36.21:892][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.15-02.36.21:892][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.15-02.36.21:893][569]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.15-02.36.21:893][569]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.15-02.36.21:896][569]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.15-02.36.21:896][569]LogAudioMixer: Display: 1: FrontRight
+[2024.02.15-02.36.21:911][569]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.15-02.36.21:911][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.15-02.36.21:911][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.15-02.36.21:912][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.15-02.36.21:912][569]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.15-02.36.21:912][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.15-02.36.21:912][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.15-02.36.21:938][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.15-02.36.21:938][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.15-02.36.21:938][569]LogInit: FAudioDevice initialized.
+[2024.02.15-02.36.21:938][569]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2024.02.15-02.36.21:984][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-02.36.21:985][569]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2024.02.15-02.36.21:986][569]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.02.14-20.36.21
+[2024.02.15-02.36.21:986][569]LogWorld: Bringing up level for play took: 0.000664
+[2024.02.15-02.36.21:986][569]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2024.02.15-02.36.21:990][569]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.02.15-02.36.21:991][569]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.15-02.36.21:991][569]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.15-02.36.21:993][569]PIE: Server logged in
+[2024.02.15-02.36.21:995][569]PIE: Play in editor total start time 0.856 seconds.
+[2024.02.15-02.36.22:022][570]LogRenderer: Reallocating scene render targets to support 1848x1048 Format 10 NumSamples 1 (Frame:1).
+[2024.02.15-02.36.23:121][663]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music_Cue'.
+[2024.02.15-02.36.27:832][208]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.15-02.36.27:832][208]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.15-02.36.27:844][209]LogNet: Browse: /Game/ArcadeClassic/Levels/Level_01
+[2024.02.15-02.36.27:844][209]LogLoad: LoadMap: /Game/ArcadeClassic/Levels/Level_01
+[2024.02.15-02.36.27:844][209]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.15-02.36.27:844][209]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.36.27:844][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.36.27:894][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-02.36.27:921][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.02.15-02.36.28:061][209]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_01'.
+[2024.02.15-02.36.28:061][209]LogAIModule: Creating AISystem for world Level_01
+[2024.02.15-02.36.28:062][209]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.15-02.36.28:132][209]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2024.02.14-20.36.28
+[2024.02.15-02.36.28:133][209]LogWorld: Bringing up level for play took: 0.070614
+[2024.02.15-02.36.28:138][209]LogLoad: Took 0.294293 seconds to LoadMap(/Game/ArcadeClassic/Levels/Level_01)
+[2024.02.15-02.36.29:066][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.15-02.36.29:066][298]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_01
+[2024.02.15-02.36.29:067][298]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.15-02.36.29:074][298]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.36.29:077][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.36.29:086][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.15-02.36.29:092][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.36.29:114][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.15-02.36.29:116][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.15-02.36.29:149][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2024.02.15-02.36.29:169][299]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.02.15-02.36.31:163][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.02.15-02.36.31:168][524]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenuB43535E341EB2429054938A214E553C9.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/MainMenu.umap'
+[2024.02.15-02.36.31:196][524]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.15-02.36.31:196][524]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/MainMenu.MainMenu
+[2024.02.15-02.36.47:278][879]LogContentBrowser: Deferred new asset file creation: Level_02
+[2024.02.15-02.36.47:292][879]LogContentBrowser: Creating deferred item: Level_02
+[2024.02.15-02.36.47:879][949]LogContentBrowser: Attempting asset rename: Level_02 -> Level_02
+[2024.02.15-02.36.48:006][949]LogContentBrowser: End creating deferred item Level_02
+[2024.02.15-02.36.49:593][135]LogContentBrowser: Deferred new asset file creation: Level_03
+[2024.02.15-02.36.49:606][135]LogContentBrowser: Creating deferred item: Level_03
+[2024.02.15-02.36.50:488][241]LogContentBrowser: Attempting asset rename: Level_03 -> Level_03
+[2024.02.15-02.36.50:617][241]LogContentBrowser: End creating deferred item Level_03
+[2024.02.15-02.36.55:343][800]LogObjectTools: Deleting 1 worlds: /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.15-02.36.55:343][800]LogObjectTools: Currently 3 active worlds: /Game/ArcadeClassic/Levels/MainMenu.MainMenu, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2024.02.15-02.36.55:377][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2024.02.15-02.36.56:669][800]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.15-02.36.56:684][800]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.15-02.36.58:302][800]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.36.58:305][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.36.58:364][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.02.15-02.37.01:006][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.02.15-02.37.02:517][105]LogSlate: Window 'Save Content' being destroyed
+[2024.02.15-02.37.02:700][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.02.15-02.37.02:807][105]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_02E0653CE349AB027DB658B09BEA282E19.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_02.umap'
+[2024.02.15-02.37.02:880][105]LogFileHelpers: Saving map 'Level_02' took 0.323
+[2024.02.15-02.37.02:903][105]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArcadeClassic/Levels/Level_02.Level_02
+[2024.02.15-02.37.02:903][105]Cmd: MAP LOAD FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.15-02.37.02:903][105]LightingResults: New page: Lighting Build
+[2024.02.15-02.37.02:903][105]LoadErrors: New page: Loading map: Level_02.umap
+[2024.02.15-02.37.02:925][105]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.37.02:925][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.37.02:925][105]MapCheck: New page: Map Check
+[2024.02.15-02.37.02:925][105]LightingResults: New page: Lighting Build
+[2024.02.15-02.37.02:946][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-02.37.02:953][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.02.15-02.37.02:977][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.02.15-02.37.02:997][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.02.15-02.37.02:997][105]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2024.02.15-02.37.03:209][105]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.15-02.37.03:209][105]LogAIModule: Creating AISystem for world Level_02
+[2024.02.15-02.37.03:240][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.02.15-02.37.03:254][105]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.15-02.37.03:254][105]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2024.02.15-02.37.03:254][105]LogFileHelpers: Loading map 'Level_02' took 0.351
+[2024.02.15-02.37.03:282][105]AssetCheck: New page: Asset Save: Level_02
+[2024.02.15-02.37.03:282][105]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_02.Level_02
+[2024.02.15-02.38.29:712][954]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.15-02.38.41:778][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2024.02.15-02.38.41:888][190]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_027F27C1CB4DC259044BCE5BA709202763.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_02.umap'
+[2024.02.15-02.38.41:924][190]AssetCheck: New page: Asset Save: Level_02
+[2024.02.15-02.38.41:924][190]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_02.Level_02
+[2024.02.15-02.38.48:094][910]LogContentBrowser: Deferred new asset file creation: Level_03
+[2024.02.15-02.38.48:108][910]LogContentBrowser: Creating deferred item: Level_03
+[2024.02.15-02.38.48:857][  0]LogContentBrowser: Attempting asset rename: Level_03 -> Level_03
+[2024.02.15-02.38.48:988][  0]LogContentBrowser: End creating deferred item Level_03
+[2024.02.15-02.38.49:664][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2024.02.15-02.38.50:884][ 72]LogSlate: Window 'Save Content' being destroyed
+[2024.02.15-02.38.51:057][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.02.15-02.38.51:166][ 72]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_038F36164E42CFD7928D937A89368DEE4A.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap'
+[2024.02.15-02.38.51:245][ 72]LogFileHelpers: Saving map 'Level_03' took 0.341
+[2024.02.15-02.38.51:270][ 72]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.15-02.38.51:270][ 72]Cmd: MAP LOAD FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.15-02.38.51:270][ 72]LightingResults: New page: Lighting Build
+[2024.02.15-02.38.51:270][ 72]LoadErrors: New page: Loading map: Level_03.umap
+[2024.02.15-02.38.51:273][ 72]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2024.02.15-02.38.51:273][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.15-02.38.51:273][ 72]MapCheck: New page: Map Check
+[2024.02.15-02.38.51:274][ 72]LightingResults: New page: Lighting Build
+[2024.02.15-02.38.51:296][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.15-02.38.51:308][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.02.15-02.38.51:332][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.02.15-02.38.51:352][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.15-02.38.51:352][ 72]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03'.
+[2024.02.15-02.38.51:569][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.15-02.38.51:569][ 72]LogAIModule: Creating AISystem for world Level_03
+[2024.02.15-02.38.51:604][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.02.15-02.38.51:618][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.15-02.38.51:619][ 72]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.292ms to complete.
+[2024.02.15-02.38.51:619][ 72]LogFileHelpers: Loading map 'Level_03' took 0.349
+[2024.02.15-02.38.51:648][ 72]AssetCheck: New page: Asset Save: Level_03
+[2024.02.15-02.38.51:648][ 72]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.15-02.39.15:444][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.02.15-02.39.15:559][521]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_03DF4C8F2840075857BD7613B8EC4EE12D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap'
+[2024.02.15-02.39.15:590][521]AssetCheck: New page: Asset Save: Level_03
+[2024.02.15-02.39.15:590][521]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_03.Level_03
