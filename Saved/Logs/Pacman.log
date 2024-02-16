@@ -1069,3 +1069,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.16-00.23.05:988][549]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenuC174559B4BE89C039C4279BE4C5144A2.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/MainMenu.umap'
 [2024.02.16-00.23.06:018][549]AssetCheck: New page: Asset Save: MainMenu
 [2024.02.16-00.23.06:018][549]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/MainMenu.MainMenu
+[2024.02.16-01.25.27:166][  2]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.16-01.25.27:204][  2]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.16-01.25.27:205][  2]LogAudioMixer: Display: 1: FrontRight
+[2024.02.16-01.25.40:261][ 41]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.16-01.25.40:296][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.16-01.25.40:296][ 41]LogAudioMixer: Display: 1: FrontRight
+[2024.02.16-03.00.53:654][ 42]LogAudioMixer: Resetting audio stream to device id 
+[2024.02.16-03.00.53:715][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.16-03.00.53:715][ 42]LogAudioMixer: Display: 1: FrontRight
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BD71B33-4079-EAAB-E839-7896C004E14A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=0713b2ad4ae534a902292d938398ed0d%7Cb9d6f9ead1974672bd702e5ebb223e2c%7Ce6deb551-3b55-42e1-bcd9-a17b5e534561&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1dcabb21450 [can pipeline])
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.108.243) port 443 (#1))
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: 000001DC80A1B900: libcurl info message cache 7 (Closing connection 1)
+[2024.02.16-03.01.22:466][129]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BD71B33-4079-EAAB-E839-7896C004E14A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=0713b2ad4ae534a902292d938398ed0d%7Cb9d6f9ead1974672bd702e5ebb223e2c%7Ce6deb551-3b55-42e1-bcd9-a17b5e534561&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.16-03.17.00:932][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2024.02.16-03.17.02:417][142]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArcadeClassic/Levels/Level_01.Level_01
+[2024.02.16-03.17.02:417][142]Cmd: MAP LOAD FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.16-03.17.02:417][142]LightingResults: New page: Lighting Build
+[2024.02.16-03.17.02:417][142]LoadErrors: New page: Loading map: Level_01.umap
+[2024.02.16-03.17.02:452][142]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.17.02:452][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.17.02:452][142]MapCheck: New page: Map Check
+[2024.02.16-03.17.02:452][142]LightingResults: New page: Lighting Build
+[2024.02.16-03.17.02:499][142]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-03.17.02:508][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.02.16-03.17.02:509][142]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01'.
+[2024.02.16-03.17.02:806][142]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.16-03.17.02:807][142]LogAIModule: Creating AISystem for world Level_01
+[2024.02.16-03.17.02:884][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.02.16-03.17.02:897][142]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.16-03.17.02:898][142]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.223ms to complete.
+[2024.02.16-03.17.02:898][142]LogFileHelpers: Loading map 'Level_01' took 0.481
+[2024.02.16-03.17.12:008][198]LogContentBrowser: Deferred new asset file creation: Level_02
+[2024.02.16-03.17.12:033][198]LogContentBrowser: Creating deferred item: Level_02
+[2024.02.16-03.17.13:584][384]LogContentBrowser: Attempting asset rename: Level_02 -> Level_02
+[2024.02.16-03.17.13:717][384]LogContentBrowser: End creating deferred item Level_02
+[2024.02.16-03.17.18:716][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2024.02.16-03.17.19:842][969]LogSlate: Window 'Save Content' being destroyed
+[2024.02.16-03.17.20:044][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.02.16-03.17.20:150][969]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_022F9D3122431BA685533F8585CFD39DE0.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_02.umap'
+[2024.02.16-03.17.20:232][969]LogFileHelpers: Saving map 'Level_02' took 0.369
+[2024.02.16-03.17.20:268][969]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArcadeClassic/Levels/Level_02.Level_02
+[2024.02.16-03.17.20:269][969]Cmd: MAP LOAD FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.16-03.17.20:269][969]LightingResults: New page: Lighting Build
+[2024.02.16-03.17.20:269][969]LoadErrors: New page: Loading map: Level_02.umap
+[2024.02.16-03.17.20:298][969]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.17.20:298][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.17.20:299][969]MapCheck: New page: Map Check
+[2024.02.16-03.17.20:299][969]LightingResults: New page: Lighting Build
+[2024.02.16-03.17.20:340][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-03.17.20:349][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.02.16-03.17.20:349][969]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2024.02.16-03.17.20:557][969]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.16-03.17.20:558][969]LogAIModule: Creating AISystem for world Level_02
+[2024.02.16-03.17.20:603][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.02.16-03.17.20:616][969]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.16-03.17.20:617][969]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2024.02.16-03.17.20:617][969]LogFileHelpers: Loading map 'Level_02' took 0.348
+[2024.02.16-03.17.20:644][969]AssetCheck: New page: Asset Save: Level_02
+[2024.02.16-03.17.20:644][969]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_02.Level_02
+[2024.02.16-03.20.57:908][862]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2024.02.16-03.20.58:014][862]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_028B7561834460171CBDE21685CDFA6E48.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_02.umap'
+[2024.02.16-03.20.58:046][862]AssetCheck: New page: Asset Save: Level_02
+[2024.02.16-03.20.58:046][862]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_02.Level_02
+[2024.02.16-03.21.06:447][848]Cmd: DUPLICATE
+[2024.02.16-03.21.06:447][848]Cmd: ACTOR DUPLICATE
+[2024.02.16-03.21.10:285][283]Cmd: TRANSACTION UNDO
+[2024.02.16-03.21.10:285][283]LogEditorTransaction: Undo Duplicate Components
+[2024.02.16-03.21.22:737][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.02.16-03.21.24:812][689]LogSlate: Window 'Save Content' being destroyed
+[2024.02.16-03.21.24:866][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.02.16-03.21.24:972][689]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_02B99164B64BA1F79C189261B3F23AB691.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_02.umap'
+[2024.02.16-03.21.24:987][689]LogFileHelpers: Saving map 'Level_02' took 0.154
+[2024.02.16-03.21.25:000][689]AssetCheck: New page: Asset Save: Level_02
+[2024.02.16-03.21.25:001][689]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_02.Level_02
+[2024.02.16-03.21.27:923][ 22]LogContentBrowser: Deferred new asset file creation: Level_03
+[2024.02.16-03.21.27:939][ 22]LogContentBrowser: Creating deferred item: Level_03
+[2024.02.16-03.21.29:482][205]LogContentBrowser: Attempting asset rename: Level_03 -> Level_03
+[2024.02.16-03.21.29:614][205]LogContentBrowser: End creating deferred item Level_03
+[2024.02.16-03.21.30:386][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2024.02.16-03.21.32:082][283]LogSlate: Window 'Save Content' being destroyed
+[2024.02.16-03.21.32:281][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.02.16-03.21.32:391][283]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_0386E253A44829B76378241F91859AD8EF.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap'
+[2024.02.16-03.21.32:472][283]LogFileHelpers: Saving map 'Level_03' took 0.358
+[2024.02.16-03.21.32:497][283]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.16-03.21.32:497][283]Cmd: MAP LOAD FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.02.16-03.21.32:498][283]LightingResults: New page: Lighting Build
+[2024.02.16-03.21.32:498][283]LoadErrors: New page: Loading map: Level_03.umap
+[2024.02.16-03.21.32:528][283]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.21.32:528][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.21.32:529][283]MapCheck: New page: Map Check
+[2024.02.16-03.21.32:529][283]LightingResults: New page: Lighting Build
+[2024.02.16-03.21.32:567][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-03.21.32:580][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.02.16-03.21.32:581][283]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03'.
+[2024.02.16-03.21.32:783][283]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.16-03.21.32:783][283]LogAIModule: Creating AISystem for world Level_03
+[2024.02.16-03.21.32:829][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.02.16-03.21.32:843][283]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.16-03.21.32:843][283]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.274ms to complete.
+[2024.02.16-03.21.32:843][283]LogFileHelpers: Loading map 'Level_03' took 0.346
+[2024.02.16-03.21.32:870][283]AssetCheck: New page: Asset Save: Level_03
+[2024.02.16-03.21.32:870][283]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.16-03.22.12:953][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.16-03.22.13:072][579]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_035B3685A3471A445D4656F096AF480A8D.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap'
+[2024.02.16-03.22.13:101][579]AssetCheck: New page: Asset Save: Level_03
+[2024.02.16-03.22.13:102][579]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.16-03.23.25:765][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.02.16-03.23.25:880][216]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_03AA0C00BA454D8153B8520E8AD065EEB5.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap'
+[2024.02.16-03.23.25:911][216]AssetCheck: New page: Asset Save: Level_03
+[2024.02.16-03.23.25:912][216]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_03.Level_03
