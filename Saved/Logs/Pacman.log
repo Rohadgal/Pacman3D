@@ -2688,3 +2688,239 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.16-19.22.58:770][919]AssetCheck: New page: Asset Save: MainMenu
 [2024.02.16-19.22.58:771][919]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
 [2024.02.16-19.22.59:804][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2024.02.16-19.29.20:245][323]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UWidget::SetVisibility' [No se ha encontrado el elemento.]
+[2024.02.16-19.30.10:576][753]BlueprintLog: New page: Compile MainMenu
+[2024.02.16-19.30.10:645][753]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2024.02.16-19.30.10:697][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/MainMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset" SILENT=true
+[2024.02.16-19.30.10:751][753]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenuC5691C50431419DE727D129FC9A16196.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset'
+[2024.02.16-19.30.10:769][753]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.16-19.30.10:769][753]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-19.30.11:957][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2024.02.16-19.30.36:434][116]BlueprintLog: New page: Compile MainMenu
+[2024.02.16-19.30.36:500][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2024.02.16-19.30.36:547][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/MainMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset" SILENT=true
+[2024.02.16-19.30.36:603][116]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenuD3371F17496BD8FC015567AD844A2F68.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset'
+[2024.02.16-19.30.36:620][116]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.16-19.30.36:620][116]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-19.30.38:058][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2024.02.16-19.32.12:984][901]BlueprintLog: New page: Compile MainMenu
+[2024.02.16-19.32.13:056][901]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2024.02.16-19.32.13:081][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/MainMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset" SILENT=true
+[2024.02.16-19.32.13:139][901]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenuF95E16DE475BCA68125FC49E358E35F4.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset'
+[2024.02.16-19.32.13:157][901]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.16-19.32.13:157][901]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-19.33.04:551][957]BlueprintLog: New page: Compile MainMenu
+[2024.02.16-19.33.04:637][957]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2024.02.16-19.33.04:663][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/MainMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset" SILENT=true
+[2024.02.16-19.33.04:723][957]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenu1F19BA094AEF68C4CD8A26BA1158D2EA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset'
+[2024.02.16-19.33.04:740][957]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.16-19.33.04:740][957]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-19.33.24:430][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/MainMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset" SILENT=true
+[2024.02.16-19.33.24:491][228]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenuB17964204C75EB09B0C80999FFBBEC3F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset'
+[2024.02.16-19.33.24:509][228]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.16-19.33.24:509][228]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-19.33.25:681][362]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2024.02.16-19.33.27:376][556]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.16-19.33.27:385][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.16-19.33.27:385][556]PIE: New page: PIE session: MainMenu (Feb 16, 2024, 7:33:27 AM)
+[2024.02.16-19.33.27:385][556]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.16-19.33.27:386][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001075s)
+[2024.02.16-19.33.27:387][556]LogAIModule: Creating AISystem for world MainMenu
+[2024.02.16-19.33.27:388][556]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2024.02.16-19.33.27:388][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/MainMenu.MainMenu to /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu (0.002492s)
+[2024.02.16-19.33.27:433][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.02.16-19.33.27:434][556]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.16-19.33.27:434][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.16-19.33.27:434][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.16-19.33.27:434][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.16-19.33.27:434][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.16-19.33.27:434][556]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.16-19.33.27:434][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.16-19.33.27:434][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.16-19.33.27:434][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.16-19.33.27:435][556]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.16-19.33.27:435][556]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.16-19.33.27:439][556]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.16-19.33.27:439][556]LogAudioMixer: Display: 1: FrontRight
+[2024.02.16-19.33.27:454][556]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.16-19.33.27:454][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.16-19.33.27:454][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.16-19.33.27:454][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.16-19.33.27:454][556]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.16-19.33.27:454][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.16-19.33.27:454][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.16-19.33.27:476][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.16-19.33.27:476][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.16-19.33.27:476][556]LogInit: FAudioDevice initialized.
+[2024.02.16-19.33.27:476][556]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2024.02.16-19.33.27:528][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.16-19.33.27:528][556]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2024.02.16-19.33.27:529][556]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.02.16-13.33.27
+[2024.02.16-19.33.27:530][556]LogWorld: Bringing up level for play took: 0.000651
+[2024.02.16-19.33.27:530][556]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2024.02.16-19.33.27:532][556]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.16-19.33.27:533][556]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.16-19.33.27:533][556]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.16-19.33.27:534][556]LogBlueprintUserMessages: [BP_GameInstance_C_13] Loaded Save Game
+[2024.02.16-19.33.27:535][556]PIE: Server logged in
+[2024.02.16-19.33.27:536][556]PIE: Play in editor total start time 0.152 seconds.
+[2024.02.16-19.33.28:877][704]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music_Cue'.
+[2024.02.16-19.33.33:848][300]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.16-19.33.33:856][300]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.16-19.33.33:897][300]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-19.33.33:897][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-19.33.33:906][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.16-19.33.33:915][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-19.33.33:962][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.16-19.33.33:964][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.16-19.33.33:990][300]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2024.02.16-19.33.34:013][301]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.02.16-19.35.25:536][401]BlueprintLog: New page: Compile MainMenu
+[2024.02.16-19.35.25:611][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.02.16-19.35.25:648][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/MainMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset" SILENT=true
+[2024.02.16-19.35.25:709][401]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenu5FD119824D17F1EC94CFC4A95269D4AC.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset'
+[2024.02.16-19.35.25:729][401]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.16-19.35.25:729][401]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-19.35.27:178][552]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.16-19.35.27:184][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.16-19.35.27:184][552]PIE: New page: PIE session: MainMenu (Feb 16, 2024, 7:35:27 AM)
+[2024.02.16-19.35.27:184][552]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.16-19.35.27:185][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001030s)
+[2024.02.16-19.35.27:186][552]LogAIModule: Creating AISystem for world MainMenu
+[2024.02.16-19.35.27:186][552]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2024.02.16-19.35.27:186][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/MainMenu.MainMenu to /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu (0.002101s)
+[2024.02.16-19.35.27:238][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2024.02.16-19.35.27:239][552]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.16-19.35.27:239][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.16-19.35.27:239][552]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.16-19.35.27:239][552]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.16-19.35.27:243][552]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.16-19.35.27:243][552]LogAudioMixer: Display: 1: FrontRight
+[2024.02.16-19.35.27:258][552]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.16-19.35.27:258][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.16-19.35.27:258][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.16-19.35.27:258][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.16-19.35.27:259][552]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.16-19.35.27:259][552]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.16-19.35.27:259][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.16-19.35.27:286][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.16-19.35.27:286][552]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.16-19.35.27:286][552]LogInit: FAudioDevice initialized.
+[2024.02.16-19.35.27:286][552]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2024.02.16-19.35.27:329][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.16-19.35.27:329][552]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2024.02.16-19.35.27:330][552]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.02.16-13.35.27
+[2024.02.16-19.35.27:330][552]LogWorld: Bringing up level for play took: 0.000505
+[2024.02.16-19.35.27:331][552]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2024.02.16-19.35.27:333][552]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.16-19.35.27:334][552]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.16-19.35.27:334][552]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.16-19.35.27:334][552]LogBlueprintUserMessages: [BP_GameInstance_C_14] Loaded Save Game
+[2024.02.16-19.35.27:338][552]PIE: Server logged in
+[2024.02.16-19.35.27:341][552]PIE: Play in editor total start time 0.156 seconds.
+[2024.02.16-19.35.28:674][692]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music_Cue'.
+[2024.02.16-19.35.31:849][ 66]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.16-19.35.31:849][ 66]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.16-19.35.31:859][ 67]LogNet: Browse: /Game/ArcadeClassic/Levels/Level_03
+[2024.02.16-19.35.31:859][ 67]LogLoad: LoadMap: /Game/ArcadeClassic/Levels/Level_03
+[2024.02.16-19.35.31:859][ 67]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.16-19.35.31:860][ 67]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-19.35.31:860][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-19.35.31:929][ 67]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-19.35.31:934][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2024.02.16-19.35.31:982][ 67]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_03'.
+[2024.02.16-19.35.31:983][ 67]LogAIModule: Creating AISystem for world Level_03
+[2024.02.16-19.35.31:983][ 67]LogLoad: Game class is 'BP_GameMode_GamePlay_C'
+[2024.02.16-19.35.32:062][ 67]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_Level_03.Level_03 up for play (max tick rate 0) at 2024.02.16-13.35.32
+[2024.02.16-19.35.32:063][ 67]LogWorld: Bringing up level for play took: 0.079569
+[2024.02.16-19.35.32:069][ 67]LogLoad: Took 0.209449 seconds to LoadMap(/Game/ArcadeClassic/Levels/Level_03)
+[2024.02.16-19.35.38:980][833]LogBlueprintUserMessages: [BP_GameMode_GamePlay_C_0] 295
+[2024.02.16-19.35.39:103][846]LogBlueprintUserMessages: [BP_GameMode_GamePlay_C_0] 294
+[2024.02.16-19.35.39:226][859]LogBlueprintUserMessages: [BP_GameMode_GamePlay_C_0] 293
+[2024.02.16-19.35.39:350][872]LogBlueprintUserMessages: [BP_GameMode_GamePlay_C_0] 292
+[2024.02.16-19.35.39:481][886]LogBlueprintUserMessages: [BP_GameMode_GamePlay_C_0] 291
+[2024.02.16-19.35.39:604][899]LogBlueprintUserMessages: [BP_GameMode_GamePlay_C_0] 290
+[2024.02.16-19.35.39:725][912]LogBlueprintUserMessages: [BP_GameMode_GamePlay_C_0] 289
+[2024.02.16-19.35.39:745][914]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.16-19.35.39:745][914]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.02.16-19.35.39:745][914]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.16-19.35.43:564][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.16-19.35.43:565][350]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_Level_03
+[2024.02.16-19.35.43:565][350]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.16-19.35.43:599][350]LogWorld: UWorld::CleanupWorld for Level_03, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-19.35.43:602][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-19.35.43:611][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.16-19.35.43:620][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-19.35.43:663][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.16-19.35.43:664][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.16-19.35.43:665][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.16-19.35.43:699][350]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2024.02.16-19.35.43:723][351]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.16-19.35.45:161][517]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2024.02.16-19.35.45:168][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.16-19.35.45:168][517]PIE: New page: PIE session: MainMenu (Feb 16, 2024, 7:35:45 AM)
+[2024.02.16-19.35.45:168][517]LogPlayLevel: Creating play world package: /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.16-19.35.45:169][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000955s)
+[2024.02.16-19.35.45:170][517]LogAIModule: Creating AISystem for world MainMenu
+[2024.02.16-19.35.45:170][517]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2024.02.16-19.35.45:170][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArcadeClassic/Levels/MainMenu.MainMenu to /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu (0.002016s)
+[2024.02.16-19.35.45:215][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.02.16-19.35.45:215][517]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.02.16-19.35.45:215][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.16-19.35.45:215][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.16-19.35.45:215][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.16-19.35.45:215][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.16-19.35.45:215][517]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.02.16-19.35.45:215][517]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.16-19.35.45:215][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.02.16-19.35.45:215][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.16-19.35.45:216][517]LogAudio: Display: Using built-in audio occlusion.
+[2024.02.16-19.35.45:216][517]LogAudioMixer: Display: Initializing audio mixer.
+[2024.02.16-19.35.45:220][517]LogAudioMixer: Display: 0: FrontLeft
+[2024.02.16-19.35.45:220][517]LogAudioMixer: Display: 1: FrontRight
+[2024.02.16-19.35.45:239][517]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2024.02.16-19.35.45:240][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.16-19.35.45:240][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.16-19.35.45:240][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.16-19.35.45:240][517]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.02.16-19.35.45:240][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.02.16-19.35.45:240][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.02.16-19.35.45:265][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.02.16-19.35.45:265][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.02.16-19.35.45:265][517]LogInit: FAudioDevice initialized.
+[2024.02.16-19.35.45:265][517]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2024.02.16-19.35.45:312][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.16-19.35.45:313][517]LogLoad: Game class is 'BP_GameMode_Menu_C'
+[2024.02.16-19.35.45:314][517]LogWorld: Bringing World /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.02.16-13.35.45
+[2024.02.16-19.35.45:314][517]LogWorld: Bringing up level for play took: 0.000618
+[2024.02.16-19.35.45:314][517]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2024.02.16-19.35.45:316][517]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.16-19.35.45:318][517]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.16-19.35.45:318][517]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.16-19.35.45:318][517]LogBlueprintUserMessages: [BP_GameInstance_C_15] Loaded Save Game
+[2024.02.16-19.35.45:321][517]PIE: Server logged in
+[2024.02.16-19.35.45:324][517]PIE: Play in editor total start time 0.157 seconds.
+[2024.02.16-19.35.46:656][671]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music_Cue'.
+[2024.02.16-19.35.52:619][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.16-19.35.52:619][362]LogWorld: BeginTearingDown for /Game/ArcadeClassic/Levels/UEDPIE_0_MainMenu
+[2024.02.16-19.35.52:620][362]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.02.16-19.35.52:627][362]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-19.35.52:628][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-19.35.52:638][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.16-19.35.52:646][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-19.35.52:689][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.16-19.35.52:691][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.02.16-19.35.52:717][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.02.16-19.35.52:743][363]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.02.16-19.35.54:382][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/MainMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset" SILENT=true
+[2024.02.16-19.35.54:443][538]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/MainMenu0CA17EE3498F97E780E764B3A399B4D1.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/MainMenu.uasset'
+[2024.02.16-19.35.54:461][538]AssetCheck: New page: Asset Save: MainMenu
+[2024.02.16-19.35.54:461][538]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-19.36.13:926][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
