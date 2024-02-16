@@ -1186,3 +1186,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.16-03.23.25:880][216]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Level_03AA0C00BA454D8153B8520E8AD065EEB5.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Levels/Level_03.umap'
 [2024.02.16-03.23.25:911][216]AssetCheck: New page: Asset Save: Level_03
 [2024.02.16-03.23.25:912][216]LogContentValidation: Display: Validating World /Game/ArcadeClassic/Levels/Level_03.Level_03
+[2024.02.16-03.26.27:993][389]LogSlate: Last resort fallback font was requested. Font: '/Game/ArcadeClassic/Fonts/ARCADE.ARCADE', Character: '_ (U+005f)'
+[2024.02.16-03.26.28:050][389]LogSlate: Took 0.054976 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.02.16-03.26.38:449][580]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/ArcadeClassic/Blueprints/Framework/GameData.GameData
+[2024.02.16-03.27.41:823][775]LogSlate: Took 0.020733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.16-03.29.11:669][610]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/GameData51DDC95949594AA3F30B88AC8C5DAB6C.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/GameData.uasset'
+[2024.02.16-03.29.11:685][610]AssetCheck: New page: Asset Save: GameData
+[2024.02.16-03.29.11:685][610]LogContentValidation: Display: Validating UserDefinedStruct /Game/ArcadeClassic/Blueprints/Framework/GameData.GameData
+[2024.02.16-03.29.38:103][607]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.29.38:185][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2024.02.16-03.29.38:290][607]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance2D2EA1244ED9C79012331D87F70E26D9.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.29.38:308][607]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.29.38:308][607]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.32.47:187][446]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.32.47:263][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.02.16-03.32.47:369][446]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceFB1211364A31FC655F0FD38A78C399B3.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.32.47:384][446]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.32.47:384][446]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.33.48:013][ 67]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.33.48:088][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.02.16-03.33.48:190][ 67]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance2CF45CD64700D6F729FCF68D8FDC00A5.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.33.48:206][ 67]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.33.48:206][ 67]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.34.35:081][416]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.34.35:156][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2024.02.16-03.34.35:250][416]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceF50A5BC84F73F44D9801838066654828.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.34.35:265][416]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.34.35:265][416]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.35.06:980][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2024.02.16-03.35.06:981][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_03' took 0.041
+[2024.02.16-03.35.06:982][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/GameOverMenu] ([1] browsable assets)...
+[2024.02.16-03.35.06:982][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/GameOverMenu]
+[2024.02.16-03.35.07:025][ 99]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/GameOverMenu_Auto1CCE5EE0447FB90BD072FF8A5D1EF80F0.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/GameOverMenu_Auto1.uasset'
+[2024.02.16-03.35.07:027][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/HUD] ([1] browsable assets)...
+[2024.02.16-03.35.07:027][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/HUD]
+[2024.02.16-03.35.07:027][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/HUD" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/HUD_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.16-03.35.07:052][ 99]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/HUD_Auto15CA6F2914E78DBB5E1A809A1B46478E3.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/HUD_Auto1.uasset'
+[2024.02.16-03.35.07:053][ 99]LogFileHelpers: Auto-saving content packages took 0.071
+[2024.02.16-03.37.43:930][858]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.37.44:003][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2024.02.16-03.37.44:101][858]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance7306BEDB434009F07C7DBBAA21380148.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.37.44:120][858]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.37.44:120][858]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.38.44:955][746]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.38.45:030][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2024.02.16-03.38.45:119][746]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance0EFF37D04F9035291932B1BF9888F80F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.38.45:135][746]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.38.45:135][746]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.41.05:673][653]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.41.05:749][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2024.02.16-03.41.05:851][653]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance001FF5954146C792B10F40B4683BA581.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.41.05:867][653]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.41.05:868][653]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.42.11:466][285]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.42.11:543][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.02.16-03.42.11:636][285]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstanceF123F0EB41EAD162632C8D92D0CDF101.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.42.11:653][285]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.42.11:653][285]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.45.07:681][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.02.16-03.45.07:684][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_03' took 0.043
+[2024.02.16-03.45.07:685][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/GameOverMenu] ([1] browsable assets)...
+[2024.02.16-03.45.07:685][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/GameOverMenu]
+[2024.02.16-03.45.07:727][168]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/GameOverMenu_Auto284BDBFB7493B59B0984B859CA43DA1F1.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/GameOverMenu_Auto2.uasset'
+[2024.02.16-03.45.07:729][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/UMG/HUD] ([1] browsable assets)...
+[2024.02.16-03.45.07:729][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/UMG/HUD]
+[2024.02.16-03.45.07:729][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/HUD" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/HUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.16-03.45.07:753][168]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/HUD_Auto2BC954C04493CA668A8BE6D96FE035A3F.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/UMG/HUD_Auto2.uasset'
+[2024.02.16-03.45.07:754][168]LogFileHelpers: Auto-saving content packages took 0.070
+[2024.02.16-03.48.10:423][624]BlueprintLog: New page: Compile BP_GameInstance
+[2024.02.16-03.48.10:499][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2024.02.16-03.48.10:602][624]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_GameInstance8715625C4371EF48A345F1A71FB0C73A.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_GameInstance.uasset'
+[2024.02.16-03.48.10:618][624]AssetCheck: New page: Asset Save: BP_GameInstance
+[2024.02.16-03.48.10:618][624]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_GameInstance.BP_GameInstance
+[2024.02.16-03.53.29:696][687]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.16-03.53.29:703][687]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.16-03.53.29:721][687]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.16-03.53.34:137][189]LogContentBrowser: Attempting asset rename: NewBlueprint -> SaveGame
+[2024.02.16-03.53.34:141][189]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.16-03.53.43:940][795]LogContentBrowser: Attempting asset rename: SaveGame -> BP_SaveGame
+[2024.02.16-03.53.43:970][795]LogMetaData: Removing '/Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.SKEL_BP_SaveGame_C' ref from Metadata '/Game/ArcadeClassic/Blueprints/Framework/SaveGame.PackageMetaData'
+[2024.02.16-03.53.43:970][795]LogMetaData: Removing '/Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.BP_SaveGame_C' ref from Metadata '/Game/ArcadeClassic/Blueprints/Framework/SaveGame.PackageMetaData'
+[2024.02.16-03.53.44:007][795]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_SaveGame9A7BF8604BB7C50AFA5CC788D48AD5BC.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_SaveGame.uasset'
+[2024.02.16-03.53.44:129][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.02.16-03.53.44:176][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.02.16-03.53.44:210][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.16-03.53.44:282][795]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.02.16-03.53.44:282][795]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.BP_SaveGame
+[2024.02.16-03.53.47:154][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.02.16-03.53.48:526][120]LogSlate: Window 'Save Content' being destroyed
+[2024.02.16-03.53.48:573][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/GameOverMenu" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/GameOverMenu.uasset" SILENT=true
+[2024.02.16-03.53.48:619][120]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/GameOverMenuF39B3DDC40C1682523BDC78861D46D99.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/GameOverMenu.uasset'
+[2024.02.16-03.53.48:620][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ArcadeClassic/UMG/HUD" FILE="C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/HUD.uasset" SILENT=true
+[2024.02.16-03.53.48:645][120]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/HUDEE6397C4415EDAB99025D190904E7BC6.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/UMG/HUD.uasset'
+[2024.02.16-03.53.48:661][120]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.16-03.53.48:662][120]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/GameOverMenu.GameOverMenu
+[2024.02.16-03.53.48:663][120]LogContentValidation: Display: Validating WidgetBlueprint /Game/ArcadeClassic/UMG/HUD.HUD
+[2024.02.16-03.53.51:769][459]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.BP_SaveGame
+[2024.02.16-03.54.03:685][ 17]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.54.03:686][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.54.03:694][ 17]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.54.03:694][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.54.04:652][121]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.54.04:652][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.54.05:953][267]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.54.05:953][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.54.05:961][267]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.54.05:961][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.54.11:428][904]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.54.11:428][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.54.11:436][904]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.16-03.54.11:436][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.16-03.55.11:074][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.02.16-03.55.11:078][189]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ArcadeClassic/Levels/Level_03' took 0.057
+[2024.02.16-03.55.11:079][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame] ([1] browsable assets)...
+[2024.02.16-03.55.11:079][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame]
+[2024.02.16-03.55.11:080][189]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_SaveGame_Auto37A4158FB48D533F04BD82F921762444B.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/Autosaves/Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame_Auto3.uasset'
+[2024.02.16-03.55.11:081][189]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.02.16-03.56.48:067][608]BlueprintLog: New page: Compile BP_SaveGame
+[2024.02.16-03.56.48:096][608]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2024.02.16-03.56.48:126][608]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_SaveGame35D7AB294646C53445033CA082012E14.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_SaveGame.uasset'
+[2024.02.16-03.56.48:139][608]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.02.16-03.56.48:139][608]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.BP_SaveGame
+[2024.02.16-03.57.35:298][568]BlueprintLog: New page: Compile BP_SaveGame
+[2024.02.16-03.57.35:327][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2024.02.16-03.57.35:358][568]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_SaveGame947E5EB3482C2A5AFE03558F1D401737.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_SaveGame.uasset'
+[2024.02.16-03.57.35:375][568]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.02.16-03.57.35:375][568]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.BP_SaveGame
+[2024.02.16-03.57.47:011][757]LogContentBrowser: Attempting asset rename: Level_01 -> Level_01
+[2024.02.16-03.58.10:340][525]BlueprintLog: New page: Compile BP_SaveGame
+[2024.02.16-03.58.10:370][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2024.02.16-03.58.10:408][525]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_SaveGame01E7AE804E912FCE82F543827CB5F1FA.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_SaveGame.uasset'
+[2024.02.16-03.58.10:424][525]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.02.16-03.58.10:424][525]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.BP_SaveGame
+[2024.02.16-03.59.07:433][547]BlueprintLog: New page: Compile BP_SaveGame
+[2024.02.16-03.59.07:462][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2024.02.16-03.59.07:489][547]LogSavePackage: Moving 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Saved/BP_SaveGameB7ADDBC1407DDAD8C1426F83D72FF6C6.tmp' to 'C:/Users/Adrian/Documents/GitHub/Pacman/Pacman3D/Content/ArcadeClassic/Blueprints/Framework/BP_SaveGame.uasset'
+[2024.02.16-03.59.07:503][547]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.02.16-03.59.07:503][547]LogContentValidation: Display: Validating Blueprint /Game/ArcadeClassic/Blueprints/Framework/BP_SaveGame.BP_SaveGame
+[2024.02.16-03.59.28:203][907]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ArcadeClassic/UMG/MainMenu.MainMenu
+[2024.02.16-03.59.55:167][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
